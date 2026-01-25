@@ -1,0 +1,1047 @@
+COURSE_CODE	PREREQ_STRING	TOKENS	STATUS
+AEM 2240	AEM 2100, AEM 2200 and AEM 2225, or equivalents.	COURSE(AEM 2100) AND COURSE(AEM 2200) AND COURSE(AEM 2225)	OK
+AEM 2241	AEM 2100, AEM 2210, or equivalents.	COURSE(AEM 2100) OR COURSE(AEM 2210)	OK
+AEM 2350	at least one full semester university course in introductory economics.	COURSE(Special requirement: one full semester university course in introductory economics)	OK
+AEM 2500	ECON 1110.	COURSE(ECON 1110)	OK
+AEM 2555	First-Year Writing Seminar or equivalent.	COURSE(Special requirement: First-Year Writing Seminar)	OK
+AEM 2600	ECON 1110,  MATH 1110.	COURSE(ECON 1110) AND COURSE(MATH 1110)	OK
+AEM 2810	ECON 1110, First-Year Writing Seminar.	COURSE(ECON 1110) AND COURSE(Special requirement: First-Year Writing Seminar)	OK
+AEM 2818	First-Year Writing Seminar or equivalent.	COURSE(Special requirement: First-Year Writing Seminar)	OK
+AEM 2820	AEM 2010.	COURSE(AEM 2010)	OK
+AEM 3000	completion of Grand Challenges writing requirement or permission of instructor.	LPAREN COURSE(Special requirement: Grand Challenges writing requirement) RPAREN OR COURSE(Permission: permission of instructor)	OK
+AEM 3020	at least one of the following courses: AEM 1200, AEM 2050, AEM 2200, AEM 2240 / 2241, AEM 2310.	COURSE(AEM 1200) AND COURSE(AEM 2050) AND COURSE(AEM 2200) AND COURSE(AEM 2240) OR COURSE(Special requirement: 2241) AND COURSE(AEM 2310)	OK
+AEM 3100	AEM 2100 or equivalent.	COURSE(AEM 2100)	OK
+AEM 3205	AEM 2200 or equivalent.	COURSE(AEM 2200)	OK
+AEM 3220	AEM 2200 or ECON 1110.	COURSE(AEM 2200) OR COURSE(ECON 1110)	OK
+AEM 3245	AEM 1200 or AEM 2200 or equivalent.	COURSE(AEM 1200) OR COURSE(AEM 2200)	OK
+AEM 3310	ECON 1110 or AEM 2200, or equivalent.	COURSE(ECON 1110) OR COURSE(AEM 2200)	OK
+AEM 3360	AEM 2225.	COURSE(AEM 2225)	OK
+AEM 4000	Grand Challenges writing course and AEM 3000.	COURSE(Special requirement: Grand Challenges writing course) AND COURSE(AEM 3000)	OK
+AEM 4110	AEM 2100, AEM 2600 or equivalent.	COURSE(AEM 2100) OR COURSE(AEM 2600)	OK
+AEM 4150	AEM 2100 and AEM 2600, or ECON 3030, or PUBPOL 2000, or equivalent.	COURSE(AEM 2100) AND COURSE(AEM 2600) OR COURSE(ECON 3030) OR COURSE(UBPOL 2000)	OK
+AEM 4225	AEM 2210 or AEM 2225, AEM 2100.	COURSE(AEM 2210) OR COURSE(AEM 2225) AND COURSE(AEM 2100)	OK
+AEM 4230	AEM 2240 or equivalent.	COURSE(AEM 2240)	OK
+AEM 4400	AEM 2420 or equivalent.	COURSE(AEM 2420)	OK
+AEM 4420	AEM 2420 and PUBPOL 2000, or ECON 3030, or AEM 2600.	COURSE(AEM 2420) AND COURSE(UBPOL 2000) OR COURSE(ECON 3030) OR COURSE(AEM 2600)	OK
+AEM 4435	AEM 2100, AEM 2420, AEM 2010, or equivalent.	COURSE(AEM 2100) OR COURSE(AEM 2420) OR COURSE(AEM 2010)	OK
+AEM 4485	ECON 1110, AEM 2100, or equivalent, and 9 additional credits in economics, applied economics, or nutrition. Recommended prerequisite: ECON 3140, NS 3600, or equivalent.	COURSE(ECON 1110) OR COURSE(AEM 2100) AND COURSE(Special requirement: 9 additional credits in economics) OR COURSE(Special requirement: applied economics) OR COURSE(Special requirement: nutrition)	OK
+AEM 4520	AEM 3360.	COURSE(AEM 3360)	OK
+AEM 4530	AEM 3360.	COURSE(AEM 3360)	OK
+AEM 4531	AEM 2225 or equivalent.	COURSE(AEM 2225)	OK
+AEM 4533	AEM 2225 or equivalent.	COURSE(AEM 2225)	OK
+AEM 4545	ECON 3040 and ECON 3120 or ECON 3140 or equivalent.	COURSE(ECON 3040) AND COURSE(ECON 3120) OR COURSE(ECON 3140)	OK
+AEM 4570	AEM 2240.	COURSE(AEM 2240)	OK
+AEM 4660	AEM 2210, AEM 2225, or equivalent. Corequisite: AEM 2240, AEM 2241, or equivalent.	COURSE(AEM 2210) OR COURSE(AEM 2225)	OK
+AEM 4665	AEM 2225, AEM 2240, or equivalent.	COURSE(AEM 2225) OR COURSE(AEM 2240)	OK
+AEM 4670	AEM 2240.	COURSE(AEM 2240)	OK
+AEM 4990	GPA of at least 2.7.	COURSE(Special requirement: GPA of at least 2)	OK
+AEM 4992	GPA of at least 2.7.	COURSE(Special requirement: GPA of at least 2)	OK
+AEM 5225	AEM 2210 or AEM 2225, AEM 2100.	COURSE(AEM 2210) OR COURSE(AEM 2225) AND COURSE(AEM 2100)	OK
+AEM 5230	AEM 2240 or equivalent.	COURSE(AEM 2240)	OK
+AEM 5400	AEM 2420 or equivalent,	COURSE(AEM 2420)	OK
+AEM 5550	AEM 2100, ECON 1110 or equivalent.	COURSE(AEM 2100) OR COURSE(ECON 1110)	OK
+AEM 5570	coursework in introductory finance.	COURSE(Special requirement: coursework in introductory finance)	OK
+AEM 5600	ECON 1110, ECON 1120, MATH 1110 or equivalents.	COURSE(ECON 1110) OR COURSE(ECON 1120) OR COURSE(MATH 1110)	OK
+AEM 5670	coursework in introductory finance.	COURSE(Special requirement: coursework in introductory finance)	OK
+AEM 5710	HADM 1650, AEM 2700 or equivalent.	COURSE(HADM 1650) OR COURSE(AEM 2700)	OK
+ALS 3020	at least one of the following courses: AEM 1200, AEM 2050, AEM 2200, AEM 2240 / 2241, AEM 2310.	COURSE(AEM 1200) AND COURSE(AEM 2050) AND COURSE(AEM 2200) AND COURSE(AEM 2240) OR COURSE(Special requirement: 2241) AND COURSE(AEM 2310)	OK
+ALS 3105	IARD and GDEV majors: GDEV 2105 and pre-departure portfolio, or GDEV 3104; CALS Global Fellows: ALS 2300.	COURSE(Special requirement: IARD) AND COURSE(Special requirement: GDEV majors:) COURSE(GDEV 2105) AND COURSE(Special requirement: pre-departure portfolio) OR COURSE(GDEV 3104) SEMICOLON COURSE(Special requirement: CALS Global Fellows:) COURSE(ALS 2300)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+ALS 5780	ITA Language Assessment or permission of ITAP.	LPAREN COURSE(Special requirement: ITA Language Assessment) RPAREN OR COURSE(Permission: permission of ITAP)	OK
+ALS 5790	ALS 5780 or permission of ITAP.	LPAREN COURSE(ALS 5780) RPAREN OR COURSE(Permission: permission of ITAP)	OK
+ALS 5800	ALS 5780 and ALS 5790.	COURSE(ALS 5780) AND COURSE(ALS 5790)	OK
+ALS 5910	ALS 5900.	COURSE(ALS 5900)	OK
+ANSC 2120	CHEM 1560 or equivalent.	COURSE(CHEM 1560)	OK
+ANSC 2170	one semester of undergraduate biology (e.g., BIOMG 1350, BIOG 1440, or BIOG 1445).	COURSE(Special requirement: one semester of undergraduate biology) OR COURSE(BIOMG 1350) OR COURSE(BIOG 1440) OR COURSE(BIOG 1445)	OK
+ANSC 2300	BIOAP 1100 or permission of instructor.	LPAREN COURSE(BIOAP 1100) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ANSC 2650	BIOAP 1100 or permission of instructor.	LPAREN COURSE(BIOAP 1100) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ANSC 3540	ANSC 2500 or permission of instructor.	LPAREN COURSE(ANSC 2500) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ANSC 4110	BIOAP 1100 and ANSC 2120, or equivalent.	COURSE(BIOAP 1100) AND COURSE(ANSC 2120)	OK
+ANSC 4200	ANSC 2120.	COURSE(ANSC 2120)	OK
+ANSC 4270	BIOAP 1100 or BIOG 1440, or permission of instructor.	LPAREN COURSE(BIOAP 1100) OR COURSE(BIOG 1440) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ANSC 4310	ANSC 2210 or equivalent genetics class.	COURSE(ANSC 2210) OR COURSE(Special requirement: genetics class)	OK
+ANSC 4500	ANSC 2400 or equivalent, or permission of instructor.	LPAREN COURSE(ANSC 2400) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ANSC 4510	ANSC 2500 or equivalent, ANSC 3510, ANSC 3511, and AEM 3020, or permission of instructor.	LPAREN COURSE(ANSC 2500) OR COURSE(ANSC 3510) AND COURSE(ANSC 3511) AND COURSE(AEM 3020) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ANSC 4980	GPA of at least 2.7.	COURSE(Special requirement: GPA of at least 2)	OK
+ANSC 4990	GPA of at least 2.7.	COURSE(Special requirement: GPA of at least 2)	OK
+ANSC 5310	ANSC 2210 or equivalent genetics class.	COURSE(ANSC 2210) OR COURSE(Special requirement: genetics class)	OK
+ANSC 5500	ANSC 2400 or equivalent, or permission of instructor.	LPAREN COURSE(ANSC 2400) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ANTHR 3474	ANTHR 1101.	COURSE(ANTHR 1101)	OK
+ANTHR 4254	some previous background in archaeology, material culture studies, ancient history, or related fields.	COURSE(Special requirement: some previous background in archaeology) OR COURSE(Special requirement: material culture studies) OR COURSE(Special requirement: ancient history) OR COURSE(Special requirement: related fields)	OK
+ARAB 1203	one year of Arabic or permission of instructor.	LPAREN COURSE(Special requirement: one year of Arabic) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARAB 3201	ARAB 2202 or permission of instructor.	LPAREN COURSE(ARAB 2202) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARCH 2101	ARCH 1102.	COURSE(ARCH 1102)	OK
+ARCH 2502	ARCH 1501 or permission of instructor.	LPAREN COURSE(ARCH 1501) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARCH 2613	ARCH 1612.	COURSE(ARCH 1612)	OK
+ARCH 2802	ARCH 1801.	COURSE(ARCH 1801)	OK
+ARCH 3101	ARCH 1611, ARCH 1612, ARCH 2613, ARCH 2614, ARCH 2616, and ARCH 2102.	COURSE(ARCH 1611) AND COURSE(ARCH 1612) AND COURSE(ARCH 2613) AND COURSE(ARCH 2614) AND COURSE(ARCH 2616) AND COURSE(ARCH 2102)	OK
+ARCH 3102	ARCH 3101.	COURSE(ARCH 3101)	OK
+ARCH 3197	ARCH 1101, ARCH 1102, ARCH 2101, and ARCH 2102.	COURSE(ARCH 1101) AND COURSE(ARCH 1102) AND COURSE(ARCH 2101) AND COURSE(ARCH 2102)	OK
+ARCH 3302	ARCH 2302.	COURSE(ARCH 2302)	OK
+ARCH 3308	ARCH 2301 and ARCH 3301 or permission of instructor.	LPAREN COURSE(ARCH 2301) AND COURSE(ARCH 3301) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARCH 3397	ARCH 2301. Prerequisite or Corequisite: ARCH 3301.	COURSE(ARCH 2301)	OK
+ARCH 3497	ARCH 1801 and ARCH 2802.	COURSE(ARCH 1801) AND COURSE(ARCH 2802)	OK
+ARCH 3615	ARCH 2614.	COURSE(ARCH 2614)	OK
+ARCH 3819	ARCH 1801 and ARCH 2802 or permission of instructor.	LPAREN COURSE(ARCH 1801) AND COURSE(ARCH 2802) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARCH 3823	ARCH 1801 and ARCH 2802, or permission of instructor.	LPAREN COURSE(ARCH 1801) AND COURSE(ARCH 2802) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARCH 3897	ARCH 1801 and ARCH 2802.	COURSE(ARCH 1801) AND COURSE(ARCH 2802)	OK
+ARCH 4101	ARCH 1801, ARCH 2302, ARCH 2802, ARCH 3102, ARCH 3301, and ARCH 3615.	COURSE(ARCH 1801) AND COURSE(ARCH 2302) AND COURSE(ARCH 2802) AND COURSE(ARCH 3102) AND COURSE(ARCH 3301) AND COURSE(ARCH 3615)	OK
+ARCH 4102	ARCH 4101.	COURSE(ARCH 4101)	OK
+ARCH 4508	ARCH 1501, ARCH 2502.	COURSE(ARCH 1501) AND COURSE(ARCH 2502)	OK
+ARCH 4509	ARCH 1501 and ARCH 2502, or permission of instructor.	LPAREN COURSE(ARCH 1501) AND COURSE(ARCH 2502) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARCH 4605	ARCH 2615 or permission of instructor.	LPAREN COURSE(ARCH 2615) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARCH 4697	ARCH 2614 and ARCH 2615.	COURSE(ARCH 2614) AND COURSE(ARCH 2615)	OK
+ARCH 4698	ARCH 1611 and ARCH 2616.	COURSE(ARCH 1611) AND COURSE(ARCH 2616)	OK
+ARCH 4699	ARCH 1612 and ARCH 2613.	COURSE(ARCH 1612) AND COURSE(ARCH 2613)	OK
+ARCH 5101	ARCH 4102.	COURSE(ARCH 4102)	OK
+ARCH 5104	nonadvancing grade in ARCH 5902.	COURSE(ARCH 5902)	OK
+ARCH 5113	ARCH 5112.	COURSE(ARCH 5112)	OK
+ARCH 5115	ARCH 5114.	COURSE(ARCH 5114)	OK
+ARCH 5116	ARCH 5115.	COURSE(ARCH 5115)	OK
+ARCH 5302	ARCH 5301.	COURSE(ARCH 5301)	OK
+ARCH 5613	ARCH 5612.	COURSE(ARCH 5612)	OK
+ARCH 5615	ARCH 5612.	COURSE(ARCH 5612)	OK
+ARCH 5802	ARCH 5801 or approved equivalent.	COURSE(ARCH 5801) OR COURSE(Special requirement: approved equivalent)	OK
+ARCH 5819	ARCH 5801 and ARCH 5802 or permission of instructor.	LPAREN COURSE(ARCH 5801) AND COURSE(ARCH 5802) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARCH 5902	for students having matriculated prior to Summer 2023: ARCH 5101 and ARCH 5911 or Required Directed Elective (RDE); for students matriculating Summer 2023 and beyond: ARCH 5101 and ARCH 5911.	COURSE(Special requirement: for students having matriculated prior to Summer 2023:) COURSE(ARCH 5101) AND COURSE(ARCH 5911) OR COURSE(Special requirement: Required Directed Elective) LPAREN COURSE(Special requirement: RDE) RPAREN SEMICOLON COURSE(Special requirement: for students matriculating Summer 2023) AND COURSE(Special requirement: beyond:) COURSE(ARCH 5101) AND COURSE(ARCH 5911)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+ARCH 5903	ARCH 4102 and approval of expanded thesis application.	COURSE(ARCH 4102) AND COURSE(Special requirement: approval of expanded thesis application)	OK
+ARCH 5911	ARCH 4102 or permission of instructor.	LPAREN COURSE(ARCH 4102) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARKEO 3000	ARKEO 1200 or permission of instructor.	LPAREN COURSE(ARKEO 1200) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ARKEO 4254	some previous background in archaeology, material culture studies, ancient history, or related fields.	COURSE(Special requirement: some previous background in archaeology) OR COURSE(Special requirement: material culture studies) OR COURSE(Special requirement: ancient history) OR COURSE(Special requirement: related fields)	OK
+ART 3006	four 2000-level studios, ART 2103, and at least three additional ART studios.	COURSE(Special requirement: four 2000-level studios) AND COURSE(ART 2103) AND COURSE(Special requirement: three additional ART studios)	OK
+ART 3201	ART 2201 or permission of instructor.	LPAREN COURSE(ART 2201) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ART 3299	ART 2201 or permission of instructor.	LPAREN COURSE(ART 2201) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ART 3305	ART 2301.	COURSE(ART 2301)	OK
+ART 3307	ART 2301 or permission of instructor.	LPAREN COURSE(ART 2301) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ART 3399	ART 2301 or permission of instructor.	LPAREN COURSE(ART 2301) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ART 3499	ART 2401, or architecture design studio, or permission of instructor.	LPAREN COURSE(ART 2401) OR COURSE(Special requirement: architecture design studio) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ART 3599	ART 1501 or permission of instructor.	LPAREN COURSE(ART 1501) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ART 3699	ART 2601 or permission of instructor.	LPAREN COURSE(ART 2601) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ART 3705	ARCH 2502, ART 2701, or permission of instructor.	LPAREN COURSE(ARCH 2502) OR COURSE(ART 2701) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ART 4003	ART 3006.	COURSE(ART 3006)	OK
+ART 4004	all advanced 3000-level studios, ART 3006, and ART 4003.	COURSE(Special requirement: all advanced 3000-level studios) AND COURSE(ART 3006) AND COURSE(ART 4003)	OK
+ART 4100	all required 3000-level ART studios. Corequisite: ART 4003.	COURSE(Special requirement: all required 3000-level ART studios)	OK
+ARTH 4754	some previous background in archaeology, material culture studies, ancient history, or related fields.	COURSE(Special requirement: some previous background in archaeology) OR COURSE(Special requirement: material culture studies) OR COURSE(Special requirement: ancient history) OR COURSE(Special requirement: related fields)	OK
+AS 3201	AS 3200.	COURSE(AS 3200)	OK
+ASIAN 4021	one course in Asian religions on Buddhism.	COURSE(Special requirement: one course in Asian religions on Buddhism)	OK
+ASIAN 4401	Admission to honors program.	COURSE(Special requirement: Admission to honors program)	OK
+ASIAN 4402	Admission to honors program.	COURSE(Special requirement: Admission to honors program)	OK
+ASIAN 4411	reading knowledge of Japanese.	COURSE(Special requirement: reading knowledge of Japanese)	OK
+ASIAN 4480	one 3000 level course in the humanities; some knowledge of Asian history.	COURSE(Special requirement: one 3000 level course in the humanities) SEMICOLON COURSE(Special requirement: some knowledge of Asian history)	OK
+ASL 2201	ASL 1102 or permission from lead ASL instructor.	COURSE(ASL 1102) OR COURSE(Special requirement: permission from lead ASL instructor)	OK
+ASL 4410	ASL 1102 or LING 1101.	COURSE(ASL 1102) OR COURSE(LING 1101)	OK
+ASRC 1203	one year of Arabic or permission of instructor.	LPAREN COURSE(Special requirement: one year of Arabic) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ASRC 3100	ARAB 2202 or permission of instructor.	LPAREN COURSE(ARAB 2202) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ASTRO 2211	introductory calculus or co-registration in MATH 1110 or MATH 1910 or permission of instructor.	LPAREN COURSE(Special requirement: introductory calculus) OR COURSE(MATH 1110) OR COURSE(MATH 1910) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ASTRO 3302	PHYS 2214 or PHYS 2218, can be enrolled concurrently, and MATH 1120 or MATH 1920.	COURSE(PHYS 2214) OR COURSE(PHYS 2218) AND COURSE(Special requirement: can be enrolled concurrently) AND COURSE(MATH 1120) OR COURSE(MATH 1920)	OK
+ASTRO 3340	calculus.	COURSE(Special requirement: calculus)	OK
+ASTRO 4410	PHYS 2214, PHYS 2218, PHYS 3310, or PHYS 3360.	COURSE(PHYS 2214) OR COURSE(PHYS 2218) OR COURSE(PHYS 3310) OR COURSE(PHYS 3360)	OK
+ASTRO 4431	mathematics above 2000 level, physics above 3000 level.	COURSE(Special requirement: mathematics above 2000 level) AND COURSE(Special requirement: physics above 3000 level)	OK
+ASTRO 4445	classical mechanics at the level of PHYS 3318 and special relativity at the level of PHYS 1116 or PHYS 2216. Electromagnetism at the level of PHYS 3327 is useful.	COURSE(Special requirement: classical mechanics at the level of) COURSE(PHYS 3318) AND COURSE(Special requirement: special relativity at the level of) COURSE(PHYS 1116) OR COURSE(PHYS 2216)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+ASTRO 4523	background in probability and statistics at the level of ENGRD 2700 or MATH 1710 or equivalent; lower division math background equivalent for a physics or engineering major.	COURSE(Special requirement: background in probability) AND COURSE(Special requirement: statistics at the level of) COURSE(ENGRD 2700) OR COURSE(MATH 1710) OR SEMICOLON COURSE(Special requirement: lower division math background equivalent for a physics) OR COURSE(Special requirement: engineering major)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+BEE 2510	CHEM 2070 or CHEM 2090 or AP Chem. Prerequisite or corequisite: MATH 2930.	COURSE(CHEM 2070) OR COURSE(CHEM 2090) OR COURSE(Special requirement: AP Chem)	OK
+BEE 2600	Prerequisite or corequisite: MATH 2930, two semesters of core biology major classes (BIOMG 1350, BIOG 1440, BIOG 1445 or BIOEE 1610) plus BIOG 1500.	COURSE(MATH 2930) OR COURSE(Special requirement: two semesters of core biology major classes) LPAREN COURSE(BIOMG 1350) OR COURSE(BIOG 1440) OR COURSE(BIOG 1445) OR COURSE(BIOEE 1610) RPAREN COURSE(BIOG 1500)	OK
+BEE 3310	MATH 2930.	COURSE(MATH 2930)	OK
+BEE 3500	Prerequisite or corequisite: MATH 2930 and BEE 3310 or equivalent.	COURSE(MATH 2930) AND COURSE(BEE 3310)	OK
+BEE 3600	BEE 2600, BIOMG 3300 or equivalent, MATH 2930 and MATH 2940, or permission of instructor.	LPAREN COURSE(BEE 2600) OR COURSE(BIOMG 3300) OR COURSE(MATH 2930) AND COURSE(MATH 2940) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BEE 3900	MATH 2930 or permission of instructor.	LPAREN COURSE(MATH 2930) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BEE 4310	CEE 3040 or ENGRD 2700 or BTRY 3010.	COURSE(CEE 3040) OR COURSE(ENGRD 2700) OR COURSE(BTRY 3010)	OK
+BEE 4560	at least one of the following courses or their equivalent: ENGRD 2020, BEE 3310, BEE 3500, and BEE 3400 or equivalent.	COURSE(ENGRD 2020) AND COURSE(BEE 3310) AND COURSE(BEE 3500) AND COURSE(BEE 3400)	OK
+BEE 4590	ENGRC 3350.	COURSE(ENGRC 3350)	OK
+BEE 4730	CEE 3310.	COURSE(CEE 3310)	OK
+BEE 4750	BEE 2510 or BEE 2600, ENGRD 2700 or CEE 3040, CEE 3200.	COURSE(BEE 2510) OR COURSE(BEE 2600) OR COURSE(ENGRD 2700) OR COURSE(CEE 3040) AND COURSE(CEE 3200)	OK
+BEE 4800	CHEM 2070 or CHEM 2090, MATH 1920, and PHYS 1112 or permission of instructor.	LPAREN COURSE(CHEM 2070) OR COURSE(CHEM 2090) AND COURSE(MATH 1920) AND COURSE(PHYS 1112) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BEE 4970	adequate ability and training for work proposed.	COURSE(Special requirement: adequate ability) AND COURSE(Special requirement: training for work proposed)	OK
+BEE 4990	adequate training for work proposed.	COURSE(Special requirement: adequate training for work proposed)	OK
+BEE 4993	BEE 4990.	COURSE(BEE 4990)	OK
+BEE 5310	MATH 2930.	COURSE(MATH 2930)	OK
+BEE 5500	Prerequisite or corequisite: MATH 2930 and BEE 3310 or equivalent.	COURSE(MATH 2930) AND COURSE(BEE 3310)	OK
+BEE 5590	BEE 3310, BEE 3500.	COURSE(BEE 3310) AND COURSE(BEE 3500)	OK
+BEE 5600	BEE 2600, BIOMG 3300 or equivalent, MATH 2930 and MATH 2940, or permission of instructor.	LPAREN COURSE(BEE 2600) OR COURSE(BIOMG 3300) OR COURSE(MATH 2930) AND COURSE(MATH 2940) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BEE 5730	CEE 3310 or BEE 5710 or CEE 6320 or an equivalent hydrology course.	COURSE(CEE 3310) OR COURSE(BEE 5710) OR COURSE(CEE 6320) OR COURSE(Special requirement: an equivalent hydrology course)	OK
+BEE 5750	BEE 2510 or BEE 2600, ENGRD 2700 or CEE 3040, CEE 3200.	COURSE(BEE 2510) OR COURSE(BEE 2600) OR COURSE(ENGRD 2700) OR COURSE(CEE 3040) AND COURSE(CEE 3200)	OK
+BEE 5900	MATH 2930 or permission of instructor.	LPAREN COURSE(MATH 2930) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BENGL 2201	BENGL 1122 or examination.	COURSE(BENGL 1122) OR COURSE(Special requirement: examination)	OK
+BENGL 3301	BENGL 2202 or examination.	COURSE(BENGL 2202) OR COURSE(Special requirement: examination)	OK
+BIOAP 3110	BIOG 1500 and BIOG 1440 or BIOG 1445 or one year of college biology, one year of chemistry and mathematics or equivalent AP credit.	COURSE(BIOG 1500) AND COURSE(BIOG 1440) OR COURSE(BIOG 1445) OR COURSE(Special requirement: one year of college biology) AND COURSE(Special requirement: one year of chemistry) AND COURSE(Special requirement: mathematics) OR COURSE(Special requirement: AP credit)	OK
+BIOAP 3190	Prerequisite or corequisite: BIOAP 3110.	COURSE(BIOAP 3110)	OK
+BIOAP 4270	BIOAP 1100 or BIOG 1440, or permission of instructor.	LPAREN COURSE(BIOAP 1100) OR COURSE(BIOG 1440) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOAP 4980	previous enrollment in course to be taught or equivalent.	COURSE(Special requirement: previous enrollment in course to be taught)	OK
+BIOCB 4810	BIOMG 2800, BIOEE 1780, or equivalents.	COURSE(BIOMG 2800) OR COURSE(BIOEE 1780)	OK
+BIOCB 4840	BTRY 3010 and CS 2110 or equivalents.	COURSE(BTRY 3010) AND COURSE(CS 2110)	OK
+BIOEE 3610	one semester of calculus and BIOEE 1610 or equivalent, or permission of instructor.	LPAREN COURSE(Special requirement: one semester of calculus) AND COURSE(BIOEE 1610) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOEE 3611	Prerequisite or corequisite: BIOEE 1610.	COURSE(BIOEE 1610)	OK
+BIOEE 3780	BIOEE 2740.	COURSE(BIOEE 2740)	OK
+BIOEE 4750	one year of college-level biology, environmental science, or the equivalent.	COURSE(Special requirement: one year of college-level biology) OR COURSE(Special requirement: environmental science) OR COURSE(Special requirement: the equivalent)	OK
+BIOEE 4980	previous enrollment in course to be taught or equivalent.	COURSE(Special requirement: previous enrollment in course to be taught)	OK
+BIOG 4980	previous enrollment in course to be taught or equivalent.	COURSE(Special requirement: previous enrollment in course to be taught)	OK
+BIOG 4990	one semester BIOG 2990 or equivalent or permission of instructor.	LPAREN COURSE(Special requirement: one semester) COURSE(BIOG 2990) RPAREN OR COURSE(Permission: permission of instructor)	INVALID: Consecutive COURSE tokens at position 1 (missing operator)
+BIOMG 2800	one college-level introductory biology course or equivalent, or permission of the instructor.	LPAREN COURSE(Special requirement: one college-level introductory biology course) RPAREN OR COURSE(Permission: permission of the instructor)	OK
+BIOMG 2801	BIOMG 2800, if you have not taken BIOMG 1350, or biochemistry (BIOMG 3300, BIOMG 3320, or BIOMG 3350). Corequisite: BIOMG 2800, if BIOMG 1350 has been taken.	COURSE(BIOMG 2800) OR COURSE(Special requirement: if you have not taken) COURSE(BIOMG 1350) OR COURSE(Special requirement: biochemistry) LPAREN COURSE(BIOMG 3300) OR COURSE(BIOMG 3320) OR COURSE(BIOMG 3350) RPAREN	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+BIOMG 3300	one majors-level biology course and one year general chemistry and any of the following organic chemistry courses: CHEM 1570, or CHEM 3530, or CHEM 3570, or CHEM 3590, or equivalent, or permission of instructor.	LPAREN COURSE(Special requirement: one majors-level biology course) AND COURSE(Special requirement: one year general chemistry) AND COURSE(CHEM 1570) OR COURSE(CHEM 3530) OR COURSE(CHEM 3570) OR COURSE(CHEM 3590) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOMG 3310	one majors-level biology course, one year general chemistry, and any of the following organic chemistry courses: CHEM 1570, CHEM 3530, CHEM 3570, CHEM 3590 or equivalent, or permission of instructor.	LPAREN COURSE(Special requirement: one majors-level biology course) AND COURSE(Special requirement: one year general chemistry) AND COURSE(CHEM 1570) OR COURSE(CHEM 3530) OR COURSE(CHEM 3570) OR COURSE(CHEM 3590) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOMG 3340	BIOMG 3350, BIOMG 3310, BIOMG 3320 (BIOMG 3320 may be taken concurrently). Corequisite: BIOMG 3300.	COURSE(BIOMG 3350) AND COURSE(BIOMG 3310) AND COURSE(BIOMG 3320) LPAREN COURSE(BIOMG 3320) COURSE(Special requirement: may be taken concurrently) RPAREN	INVALID: Consecutive COURSE tokens at position 6 (missing operator)
+BIOMG 3850	BIOMG 2800 or permission of instructor.	LPAREN COURSE(BIOMG 2800) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOMG 4000	Two majors-level biology courses, and one of the following: BIOMG 2800, BIOMG 3300, BIOMG 3350, BIOMG 3310 or BIOMG 3320, or permission of instructor.	LPAREN COURSE(Special requirement: Two majors-level biology courses) AND COURSE(BIOMG 2800) OR COURSE(BIOMG 3300) OR COURSE(BIOMG 3350) OR COURSE(BIOMG 3310) OR COURSE(BIOMG 3320) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOMG 4311	BIOMG 3300, or BIOMG 3350, or BIOMG 3310/BIOMG 3320 and CHEM 3570 and CHEM 3580.	COURSE(BIOMG 3300) OR COURSE(BIOMG 3350) OR COURSE(BIOMG 3310) OR COURSE(BIOMG 3320) AND COURSE(CHEM 3570) AND COURSE(CHEM 3580)	OK
+BIOMG 4380	BIOMG 3300, or BIOMG 3350 or BIOMG 3310/BIOMG 3320 or permission of instructor.	LPAREN COURSE(BIOMG 3300) OR COURSE(BIOMG 3350) OR COURSE(BIOMG 3310) OR COURSE(BIOMG 3320) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOMG 4400	BIOMG 3300 or BIOMG 3350 or BIOMG 3310-BIOMG 3320 (at least one of BIOMG 3310-BIOMG 3320 completed, but one may be taken concurrently).	COURSE(BIOMG 3300) OR COURSE(BIOMG 3350) OR COURSE(BIOMG 3310) AND COURSE(BIOMG 3320) LPAREN COURSE(Special requirement: one of) COURSE(BIOMG 3310) AND COURSE(BIOMG 3320) COURSE(Special requirement: completed) AND COURSE(Special requirement: but one may be taken concurrently) RPAREN	INVALID: Consecutive COURSE tokens at position 8 (missing operator)
+BIOMG 4810	BIOMG 2800, BIOEE 1780, or equivalents.	COURSE(BIOMG 2800) OR COURSE(BIOEE 1780)	OK
+BIOMG 4870	BIOMG 2800.	COURSE(BIOMG 2800)	OK
+BIOMG 4980	previous enrollment in course to be taught or equivalent.	COURSE(Special requirement: previous enrollment in course to be taught)	OK
+BIOMG 4981	BIOMG 3300, or BIOMG 3350, or BIOMG 3310 and BIOMG 3320.	COURSE(BIOMG 3300) OR COURSE(BIOMG 3350) OR COURSE(BIOMG 3310) AND COURSE(BIOMG 3320)	OK
+BIOMG 4982	BIOMG 4981.	COURSE(BIOMG 4981)	OK
+BIOMI 2100	BIOG 1140  or BIOG 1500  or BIOMG 1350, or equivalent college level course that addresses DNA, RNA, and protein synthesis.	COURSE(BIOG 1140) OR COURSE(BIOG 1500) OR COURSE(BIOMG 1350) OR COURSE(Special requirement: college level course that addresses DNA) AND COURSE(Special requirement: RNA) AND COURSE(Special requirement: protein synthesis)	OK
+BIOMI 2500	the equivalent of two semesters of majors-level biology and one semester general chemistry.	COURSE(Special requirement: the equivalent of two semesters of majors-level biology) AND COURSE(Special requirement: one semester general chemistry)	OK
+BIOMI 2900	one semester of introductory biology (or AP biology) and one semester of chemistry, (or AP Chemistry).	COURSE(Special requirement: one semester of introductory biology) OR COURSE(Special requirement: AP biology) RPAREN AND COURSE(Special requirement: one semester of chemistry) OR COURSE(Special requirement: AP Chemistry) RPAREN	OK
+BIOMI 3210	BIOMI 2900 or permission of instructor.	LPAREN COURSE(BIOMI 2900) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOMI 3500	BIOEE 1610, BIOEE 1780.	COURSE(BIOEE 1610) AND COURSE(BIOEE 1780)	OK
+BIOMI 3940	BIOMI 2900 and BIOMI 2911.	COURSE(BIOMI 2900) AND COURSE(BIOMI 2911)	OK
+BIOMI 4090	BIOMI 2900 or permission of instructor.	LPAREN COURSE(BIOMI 2900) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOMI 4850	BIOMG 2800.	COURSE(BIOMG 2800)	OK
+BIOMI 4980	previous enrollment in course to be taught or equivalent.	COURSE(Special requirement: previous enrollment in course to be taught)	OK
+BIOMI 5940	BIOMI 2900 and BIOMI 2911.	COURSE(BIOMI 2900) AND COURSE(BIOMI 2911)	OK
+BIOMS 3110	BIOG 1500 and BIOG 1440 or BIOG 1445 or one year of college biology, one year of chemistry and mathematics or equivalent AP credit.	COURSE(BIOG 1500) AND COURSE(BIOG 1440) OR COURSE(BIOG 1445) OR COURSE(Special requirement: one year of college biology) AND COURSE(Special requirement: one year of chemistry) AND COURSE(Special requirement: mathematics) OR COURSE(Special requirement: AP credit)	OK
+BIOMS 3190	Prerequisite or corequisite: BIOAP 3110.	COURSE(BIOAP 3110)	OK
+BIOMS 4090	BIOMI 2900 or permission of instructor.	LPAREN COURSE(BIOMI 2900) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BIOMS 4980	previous enrollment in course to be taught or equivalent.	COURSE(Special requirement: previous enrollment in course to be taught)	OK
+BIONB 2210	two majors-level biology courses.	COURSE(Special requirement: two majors-level biology courses)	OK
+BIONB 3240	PSYCH 2230 or BIONB 2220.	COURSE(PSYCH 2230) OR COURSE(BIONB 2220)	OK
+BIONB 3920	BIONB 2220 or equivalent course in neurobiology.	COURSE(BIONB 2220) OR COURSE(Special requirement: course in neurobiology)	OK
+BIONB 3950	BIONB 2220 or BIOMG 3300 or BIOMG 3320.	COURSE(BIONB 2220) OR COURSE(BIOMG 3300) OR COURSE(BIOMG 3320)	OK
+BIONB 4980	previous enrollment in course to be taught or equivalent.	COURSE(Special requirement: previous enrollment in course to be taught)	OK
+BME 2110	CHEM 2090, MATH 1920, and BIOG 1350 or BIOG 1440.	COURSE(CHEM 2090) AND COURSE(MATH 1920) AND COURSE(BIOG 1350) OR COURSE(BIOG 1440)	OK
+BME 3010	BIOMG 1350; MATH 2930; BME 2010, or BIOG 1440 or BIOG 1445.	COURSE(BIOMG 1350) SEMICOLON COURSE(MATH 2930) SEMICOLON COURSE(BME 2010) OR COURSE(BIOG 1440) OR COURSE(BIOG 1445)	OK
+BME 3030	MATH 2930 and PHYS 2213 or equivalent. Corequisite: MATH 2940	COURSE(MATH 2930) AND COURSE(PHYS 2213)	OK
+BME 4010	ENGRD 2020, MATH 2930, BIOMG 1350 and BME 2010 or BIOG 1440.	COURSE(ENGRD 2020) AND COURSE(MATH 2930) AND COURSE(BIOMG 1350) AND COURSE(BME 2010) OR COURSE(BIOG 1440)	OK
+BME 4080	BME 3030, BME 4190 or BME 4390 or BME 4490.	COURSE(BME 3030) OR COURSE(BME 4190) OR COURSE(BME 4390) OR COURSE(BME 4490)	OK
+BME 4190	BME 3010, BME 3020, BME 3110 or BME 3210.	COURSE(BME 3010) OR COURSE(BME 3020) OR COURSE(BME 3110) OR COURSE(BME 3210)	OK
+BME 4390	engineering common math/physics and CS 1112.	COURSE(Special requirement: engineering common math/physics) AND COURSE(CS 1112)	OK
+BME 4490	BME 3410 or BME 3210 or permission of instructor.	LPAREN COURSE(BME 3410) OR COURSE(BME 3210) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BME 4790	CS 1110, or equivalent and ENGRD 2020, BTRY 3010, BTRY 3020, or ILRST 2110, or equivalent.	COURSE(CS 1110) AND COURSE(ENGRD 2020) OR COURSE(BTRY 3010) OR COURSE(BTRY 3020) OR COURSE(ILRST 2110)	OK
+BME 4901	BME 4900 and acceptance in the BME honors program.	COURSE(BME 4900) AND COURSE(Special requirement: acceptance in the BME honors program)	OK
+BME 5110	BME 3010 and BME 3020, or equivalent.	COURSE(BME 3010) AND COURSE(BME 3020)	OK
+BME 5920	BME 5910.	COURSE(BME 5910)	OK
+BME 5921	BME 5911. Corequisite: BME 5500.	COURSE(BME 5911)	OK
+BTRY 3010	MATH 1110 or equivalent.	COURSE(MATH 1110)	OK
+BTRY 3080	STSCI 2150 or STSCI 2200, MATH 1120 and MATH 2220 or their equivalents.	COURSE(STSCI 2150) OR COURSE(STSCI 2200) AND COURSE(MATH 1120) AND COURSE(MATH 2220)	OK
+BTRY 3090	BTRY 3080 or permission from the instructor.	COURSE(BTRY 3080) OR COURSE(Special requirement: permission from the instructor)	OK
+BTRY 4030	STSCI 2150 or STSCI 2200/BTRY 3010, BTRY 3080, MATH 1920, MATH 2210 or their equivalents, STSCI 3200/BTRY 3020 or BTRY 6020.	COURSE(STSCI 2150) OR COURSE(STSCI 2200) OR COURSE(BTRY 3010) OR COURSE(BTRY 3080) OR COURSE(MATH 1920) OR COURSE(MATH 2210) OR COURSE(STSCI 3200) OR COURSE(BTRY 3020) OR COURSE(BTRY 6020)	OK
+BTRY 4090	BTRY 3080 or MATH 4710 or equivalent and BTRY 3010 or equivalent.	COURSE(BTRY 3080) OR COURSE(MATH 4710) AND COURSE(BTRY 3010)	OK
+BTRY 4110	BTRY 3020, BTRY 6020, or equivalent with BTRY 3080 or MATH 4710 also highly recommended.	ERROR	EXCEPTION: No match found
+BTRY 5010	MATH 1110 or equivalent.	COURSE(MATH 1110)	OK
+BTRY 5090	BTRY 3080 or MATH 4710, or equivalent and STSCI 2200 or equivalent.	COURSE(BTRY 3080) OR COURSE(MATH 4710) AND COURSE(STSCI 2200)	OK
+BURM 2201	BURM 1122.	COURSE(BURM 1122)	OK
+BURM 3301	BURM 2202 or permission of instructor.	LPAREN COURSE(BURM 2202) RPAREN OR COURSE(Permission: permission of instructor)	OK
+BURM 3309	BURM 3302 or permission of instructor.	LPAREN COURSE(BURM 3302) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CAPS 3307	Advanced reading knowledge of classical and modern Chinese required.	COURSE(Special requirement: Advanced reading knowledge of classical) AND COURSE(Special requirement: modern Chinese required)	OK
+CAPS 4020	CAPS 4010.	COURSE(CAPS 4010)	OK
+CEE 3040	MATH 1910 and MATH 1920, or equivalents.	COURSE(MATH 1910) AND COURSE(MATH 1920)	OK
+CEE 3310	MATH 2930, or permission of instructor.	LPAREN COURSE(MATH 2930) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CEE 3410	ENGRD 2020 or permission of instructor.	LPAREN COURSE(ENGRD 2020) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CEE 4090	adequate training for work proposed.	COURSE(Special requirement: adequate training for work proposed)	OK
+CEE 4200	CS 1110 or CS 1112 and CEE 3040 or ENGRD 2700.	COURSE(CS 1110) OR COURSE(CS 1112) AND COURSE(CEE 3040) OR COURSE(ENGRD 2700)	OK
+CEE 4210	BEE 3310, CEE 3310, CHEME 3230, or by permission of the instructor.	COURSE(BEE 3310) OR COURSE(CEE 3310) OR COURSE(CHEME 3230) OR COURSE(Special requirement: by permission of the instructor)	OK
+CEE 4510	CHEM 2090 and CHEM 1570, or permission of instructor.	LPAREN COURSE(CHEM 2090) AND COURSE(CHEM 1570) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CEE 4535	CHEM 2090 or equivalent for undergraduates.	COURSE(CHEM 2090) OR COURSE(Special requirement: for undergraduates)	OK
+CEE 4560	CEE 3510.	COURSE(CEE 3510)	OK
+CEE 4570	CEE 3510 or permission of instructor.	LPAREN COURSE(CEE 3510) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CEE 4640	CEE 3040 or ENGRD 2700, and CEE 3610, or permission of instructor.	LPAREN COURSE(CEE 3040) OR COURSE(ENGRD 2700) AND COURSE(CEE 3610) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CEE 4665	MATH 2940 or equivalent, ability to program in Matlab or Python.	COURSE(MATH 2940) OR COURSE(Special requirement: ability to program in Matlab) OR COURSE(Special requirement: Python)	OK
+CEE 4760	CEE 3710 or permission of instructor.	LPAREN COURSE(CEE 3710) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CEE 4930	CEE 3230 and CEE 3040, or equivalent.	COURSE(CEE 3230) AND COURSE(CEE 3040)	OK
+CEE 5200	CEE 3040 or ENGRD 2700, CEE 3230 or ENMGT 5940.	COURSE(CEE 3040) OR COURSE(ENGRD 2700) OR COURSE(CEE 3230) OR COURSE(ENMGT 5940)	OK
+CEE 5240	Prerequisite or corequisite: enrollment in group-based project with strong system design component approved by course instructor.	COURSE(Special requirement: enrollment in group-based project with strong system design component approved by course instructor)	OK
+CEE 5510	CHEM 2090 and CHEM 1570, or permission of instructor.	LPAREN COURSE(CHEM 2090) AND COURSE(CHEM 1570) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CEE 5665	MATH 2940 or equivalent, ability to program in Matlab or Python.	COURSE(MATH 2940) OR COURSE(Special requirement: ability to program in Matlab) OR COURSE(Special requirement: Python)	OK
+CEE 5746	CEE 3710 and CEE 3080 or graduate standing.	COURSE(CEE 3710) AND COURSE(CEE 3080) OR COURSE(Special requirement: graduate standing)	OK
+CEE 5760	CEE 3710 or permission of instructor.	LPAREN COURSE(CEE 3710) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CEE 5770	CEE 4740 or CEE 4760, or permission of instructor.	LPAREN COURSE(CEE 4740) OR COURSE(CEE 4760) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CEE 5930	CEE 3040 or equivalent.	COURSE(CEE 3040)	OK
+CEE 5980	at least one of the following courses: CEE 3040, ENGRD 2700, ILRST 2100, BTRY 3010, AEM 2100, or equivalent.	COURSE(CEE 3040) OR COURSE(ENGRD 2700) OR COURSE(ILRST 2100) OR COURSE(BTRY 3010) OR COURSE(AEM 2100)	OK
+CHEM 2080	CHEM 2070 or CHEM 2090.	COURSE(CHEM 2070) OR COURSE(CHEM 2090)	OK
+CHEM 2090	high school chemistry or permission of instructor.	LPAREN COURSE(Special requirement: high school chemistry) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 2770	CHEM 2070 and CHEM 2080.	COURSE(CHEM 2070) AND COURSE(CHEM 2080)	OK
+CHEM 2780	CHEM 2070 and CHEM 2080.	COURSE(CHEM 2070) AND COURSE(CHEM 2080)	OK
+CHEM 3570	CHEM 2080 or advanced placement, or permission of instructor.	LPAREN COURSE(CHEM 2080) OR COURSE(Special requirement: advanced placement) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 3580	CHEM 3570 or permission of instructor.	LPAREN COURSE(CHEM 3570) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 3600	CHEM 3590 or permission of instructor.	LPAREN COURSE(CHEM 3590) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 3870	CHEM 2080, MATH 1110 and MATH 1120, and PHYS 2208, or permission of instructor.	LPAREN COURSE(CHEM 2080) AND COURSE(MATH 1110) AND COURSE(MATH 1120) AND COURSE(PHYS 2208) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 3890	CHEM 2080 and PHYS 2208, and CHEM 3890, and MATH 1920, MATH 2220 or MATH 2310, or permission of instructor.	LPAREN COURSE(CHEM 2080) AND COURSE(PHYS 2208) AND COURSE(CHEM 3890) AND COURSE(MATH 1920) OR COURSE(MATH 2220) OR COURSE(MATH 2310) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 4210	CHEM 3030 and CHEM 3890-CHEM 3900 or CHEM 3870-CHEM 3880 and CHEM 2900 with average of B- or better, or permission of instructor.	LPAREN COURSE(CHEM 3030) AND COURSE(CHEM 3890) AND COURSE(CHEM 3900) OR COURSE(CHEM 3870) AND COURSE(CHEM 3880) AND COURSE(CHEM 2900) OR COURSE(Special requirement: better) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 4330	CHEM 3030 and CHEM 3900 with average of B- or better or permission of instructor.	LPAREN COURSE(CHEM 3030) AND COURSE(CHEM 3900) OR COURSE(Special requirement: better) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 4500	CHEM 3570-CHEM 3580, or CHEM 3590-CHEM 3600 or equivalent.	COURSE(CHEM 3570) AND COURSE(CHEM 3580) OR COURSE(CHEM 3590) AND COURSE(CHEM 3600)	OK
+CHEM 4610	CHEM 3020 and CHEM 3580 or CHEM 3600 with grade of B- or better or permission of instructor.	LPAREN COURSE(CHEM 3020) AND COURSE(CHEM 3580) OR COURSE(CHEM 3600) OR COURSE(Special requirement: better) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 4770	CHEM 3900 with average of B- or better or permission of instructor.	LPAREN COURSE(CHEM 3900) OR COURSE(Special requirement: better) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEM 5120	CHEM 5110.	COURSE(CHEM 5110)	OK
+CHEME 2880	CHEM 2080, CHEM 2090, and MATH 2930.	COURSE(CHEM 2080) AND COURSE(CHEM 2090) AND COURSE(MATH 2930)	OK
+CHEME 3130	CHEME 2200.	COURSE(CHEME 2200)	OK
+CHEME 3240	CHEME 3230.	COURSE(CHEME 3230)	OK
+CHEME 4320	CHEME 3230, CHEME 3240, CHEME 3320, CHEME 3720, and CHEME 3900.	COURSE(CHEME 3230) AND COURSE(CHEME 3240) AND COURSE(CHEME 3320) AND COURSE(CHEME 3720) AND COURSE(CHEME 3900)	OK
+CHEME 4840	CHEME 3900 or permission of instructor.	LPAREN COURSE(CHEME 3900) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CHEME 5310	CHEME 3130, CHEME 3900, and CHEME 3240 or equivalent.	COURSE(CHEME 3130) AND COURSE(CHEME 3900) AND COURSE(CHEME 3240)	OK
+CHEME 5320	MSE 2060, MSE 3030. Corequisite: MSE 3040 or equivalent background.	COURSE(MSE 2060) AND COURSE(MSE 3030)	OK
+CHEME 5660	knowledge of programming languages, such as Python, Matlab, Julia and mathematical and computing topics, such as probability, statistics, optimization, and data science tools, such as Jupyter notebooks, DataFrames, etc.	COURSE(Special requirement: knowledge of programming languages) AND COURSE(Special requirement: such as Python) AND COURSE(Special requirement: Matlab) AND COURSE(Special requirement: Julia) AND COURSE(Special requirement: mathematical) AND COURSE(Special requirement: computing topics) AND COURSE(Special requirement: such as probability) AND COURSE(Special requirement: statistics) AND COURSE(Special requirement: optimization) AND COURSE(Special requirement: data science tools) AND COURSE(Special requirement: such as Jupyter notebooks) AND COURSE(Special requirement: DataFrames) AND COURSE(Special requirement: etc)	OK
+CHEME 5800	CS 1110 or CS 1112 or equivalent.	COURSE(CS 1110) OR COURSE(CS 1112)	OK
+CHEME 5990	medical and industrial biotechnology trainees.	COURSE(Special requirement: medical) AND COURSE(Special requirement: industrial biotechnology trainees)	OK
+CHIN 1123	grade of B- in CHIN 1122, or permission of instructor.	ERROR	EXCEPTION: No match found
+CHIN 2201	CHIN 1102 with grade of B- or above, or equivalent as determined through placement exam and permission of instructor.	COURSE(CHIN 1102) OR COURSE(Special requirement: above) OR COURSE(Special requirement: as determined through placement exam) AND COURSE(Permission: permission of instructor)	OK
+CHIN 2209	a grade of B in CHIN 1110 or equivalent as determined through placement test.	ERROR	EXCEPTION: No match found
+CHIN 3301	grade of B+ or higher in CHIN 2202, or equivalent as determined through placement exam.	ERROR	EXCEPTION: No match found
+CHIN 3351	CHIN 2202 or equivalent.	COURSE(CHIN 2202)	OK
+CHIN 4411	grade of B+ or higher in CHIN 3302, or equivalent as determined through placement exam.	ERROR	EXCEPTION: No match found
+CHIN 4427	CHIN 2210 or CHIN 4412 with a grade of B+ or above, or equivalent as determined by instructor.	COURSE(CHIN 2210) OR COURSE(CHIN 4412) OR COURSE(Special requirement: above) OR COURSE(Special requirement: as determined by instructor)	OK
+CHIN 4451	CHIN 3302 or equivalent.	COURSE(CHIN 3302)	OK
+CHIN 4453	CHIN 2210 or CHIN 4412 or equivalent as determined by instructor.	COURSE(CHIN 2210) OR COURSE(CHIN 4412) OR COURSE(Special requirement: as determined by instructor)	OK
+CHLIT 3307	Advanced reading knowledge of classical and modern Chinese required.	COURSE(Special requirement: Advanced reading knowledge of classical) AND COURSE(Special requirement: modern Chinese required)	OK
+CLASS 1452	HIERO 1451 or permission of instructor.	LPAREN COURSE(HIERO 1451) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CLASS 2351	SANSK 1132 or permission of instructor.	LPAREN COURSE(SANSK 1132) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CLASS 3395	two years study of Sanskrit or equivalent.	COURSE(Special requirement: two years study of Sanskrit)	OK
+CLASS 3664	at least one previous course in philosophy at the 2000 level or above, or permission of the instructor.	LPAREN COURSE(Special requirement: one previous course in philosophy at the 2000 level) OR COURSE(Special requirement: above) RPAREN OR COURSE(Permission: permission of the instructor)	OK
+CLASS 4662	at least one prior course in philosophy.	COURSE(Special requirement: one prior course in philosophy)	OK
+CLASS 4754	some previous background in archaeology, material culture studies, ancient history, or related fields.	COURSE(Special requirement: some previous background in archaeology) OR COURSE(Special requirement: material culture studies) OR COURSE(Special requirement: ancient history) OR COURSE(Special requirement: related fields)	OK
+COGST 3190	at least one of the following: HD 1130 , PSYCH 1101, or PSYCH 2650.	COURSE(HD 1130) OR COURSE(PSYCH 1101) OR COURSE(PSYCH 2650)	OK
+COGST 3210	Recommended prerequisite: an introductory course in human development and at least one introductory course in behavioral neuroscience or biological basis of behavior.	COURSE(Special requirement: an introductory course in human development) AND COURSE(Special requirement: one introductory course in behavioral neuroscience) OR COURSE(Special requirement: biological basis of behavior)	OK
+COGST 3240	PSYCH 2230 or BIONB 2220.	COURSE(PSYCH 2230) OR COURSE(BIONB 2220)	OK
+COGST 4250	HD 1130 or PSYCH 1101, also HD 2830 and HD 5750 and HD 5760.	COURSE(HD 1130) OR COURSE(PSYCH 1101) AND COURSE(HD 2830) AND COURSE(HD 5750) AND COURSE(HD 5760)	OK
+COGST 4265	HD 1130 or PSYCH 1101 and HD 2600.	COURSE(HD 1130) OR COURSE(PSYCH 1101) AND COURSE(HD 2600)	OK
+COGST 4710	enrollment in an independent research course either in Cognitive Science (e.g.,COGST 4700) or in a related department or in honors thesis research in one of the departments relevant to Cognitive Science.	COURSE(Special requirement: enrollment in an independent research course either in Cognitive Science) OR COURSE(COGST 4700) OR COURSE(Special requirement: in a related department) OR COURSE(Special requirement: in honors thesis research in one of the departments relevant to Cognitive Science)	OK
+COLLS 4990	two approved College Scholar seminars.	COURSE(Special requirement: two approved College Scholar seminars)	OK
+COLLS 4991	COLLS 4990.	COURSE(COLLS 4990)	OK
+COML 4940	COML 4930.	COURSE(COML 4930)	OK
+COMM 2310	COMM 1101 and 3 credits of college-level writing courses; summer only: grade of B or better in a 3-credit college writing course.	COURSE(COMM 1101) AND COURSE(Special requirement: 3 credits of college-level writing courses) SEMICOLON COURSE(Special requirement: summer only: grade of B) OR COURSE(Special requirement: better in a 3-credit college writing course)	OK
+COMM 3020	completion at least one college-level writing course.	COURSE(Special requirement: completion at least one college-level writing course)	OK
+COMM 3050	an A- or better in COMM 2310 or equivalent course, experience with media writing and/or strong writing skills.	ERROR	EXCEPTION: No match found
+COMM 3070	COMM 2310 or COMM 2010 or permission of instructor.	LPAREN COURSE(COMM 2310) OR COURSE(COMM 2010) RPAREN OR COURSE(Permission: permission of instructor)	OK
+COMM 3760	Prerequisite or corequisite: COMM 2820 or equivalent research methods course, and a course in basic statistics.	COURSE(COMM 2820) OR COURSE(Special requirement: research methods course)	OK
+COMM 4760	COMM 2820.	COURSE(COMM 2820)	OK
+CRP 4040	microeconomics course.	COURSE(Special requirement: microeconomics course)	OK
+CRP 4930	CRP 4920.	COURSE(CRP 4920)	OK
+CRP 5040	microeconomics course.	COURSE(Special requirement: microeconomics course)	OK
+CRP 5561	CRP 5560.	COURSE(CRP 5560)	OK
+CS 1112	MATH 1110 or equivalent.	COURSE(MATH 1110)	OK
+CS 2024	one programming course or equivalent programming experience.	COURSE(Special requirement: one programming course) OR COURSE(Special requirement: programming experience)	OK
+CS 2110	CS 1110 or CS 1112 or equivalent course on programming in a procedural language.	COURSE(CS 1110) OR COURSE(CS 1112) OR COURSE(Special requirement: course on programming in a procedural language)	OK
+CS 2112	excellent performance in CS 1110, CS 1112 or equivalent course in Java or C++, or permission of instructor.	LPAREN COURSE(CS 1110) OR COURSE(CS 1112) OR COURSE(Special requirement: course in Java) OR COURSE(Special requirement: C++) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CS 2800	MATH 1110 or equivalent, CS 1110 or CS 1112 or equivalent., or	COURSE(MATH 1110) OR COURSE(CS 1110) OR COURSE(CS 1112)	OK
+CS 3110	CS 2110 or equivalent programming experience. Prerequisite or corequisite: CS 2800.	COURSE(CS 2110) OR COURSE(Special requirement: programming experience)	OK
+CS 3410	CS 2110 or equivalent programming experience.	COURSE(CS 2110) OR COURSE(Special requirement: programming experience)	OK
+CS 3700	CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor.	COURSE(CS 2110) OR COURSE(ENGRD 2110) AND COURSE(CS 2800) OR COURSE(Special requirement: by permission of instructor)	OK
+CS 3780	probability theory (e.g. BTRY 3080, CS 2800, ECON 3130, ENGRD 2700, MATH 4710) and linear algebra (e.g. MATH 2210, MATH 2310, MATH 2940), single-variable calculus (e.g. MATH 1110, MATH 1920) and programming proficiency (e.g. CS 2110).	COURSE(Special requirement: probability theory) OR COURSE(BTRY 3080) AND COURSE(CS 2800) AND COURSE(ECON 3130) AND COURSE(ENGRD 2700) AND COURSE(MATH 4710) AND COURSE(Special requirement: linear algebra) OR COURSE(MATH 2210) OR COURSE(MATH 2310) OR COURSE(MATH 2940) OR COURSE(Special requirement: single-variable calculus) OR COURSE(MATH 1110) AND COURSE(MATH 1920) AND COURSE(Special requirement: programming proficiency) OR COURSE(CS 2110)	OK
+CS 4110	CS 3110 or permission of instructor.	LPAREN COURSE(CS 3110) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CS 4210	MATH 2210, MATH 2230-MATH 2240, MATH 2310, or MATH 2940 or equivalent and one additional mathematics course numbered 3000 or above.	COURSE(MATH 2210) AND COURSE(MATH 2230) AND COURSE(MATH 2240) OR COURSE(MATH 2310) OR COURSE(MATH 2940) AND COURSE(Special requirement: one additional mathematics course numbered 3000) OR COURSE(Special requirement: above)	OK
+CS 4320	CS 2110, CS 2800.	COURSE(CS 2110) AND COURSE(CS 2800)	OK
+CS 4414	CS 2110, CS 3410, or equivalent.	COURSE(CS 2110) OR COURSE(CS 3410)	OK
+CS 4420	ECE 3140/CS 3420 or CS 3410. Students should feel comfortable working with a hardware description language such as Verilog, SystemVerilog, or VHDL.	COURSE(ECE 3140) OR COURSE(CS 3420) OR COURSE(CS 3410)	OK
+CS 4620	CS 2110 or ENGRD 2110, and MATH 1910 or MATH 1120, and MATH 2940 or MATH 2210 or MATH 2310 or equivalent.	COURSE(CS 2110) OR COURSE(ENGRD 2110) AND COURSE(MATH 1910) OR COURSE(MATH 1120) AND COURSE(MATH 2940) OR COURSE(MATH 2210) OR COURSE(MATH 2310)	OK
+CS 4621	Prerequisite or corequisite: CS 4620.	COURSE(CS 4620)	OK
+CS 4701	at least one of the following courses: CS 3700, CS 3780, CS 4670, CS 4740, ECE 4200, ORIE 3741, STSCI 3740, or their equivalents.	COURSE(CS 3700) OR COURSE(CS 3780) OR COURSE(CS 4670) OR COURSE(CS 4740) OR COURSE(ECE 4200) OR COURSE(ORIE 3741) OR COURSE(STSCI 3740)	OK
+CS 4750	CS 1112, CS 2110, CS 2800, MATH 1920, MATH 2940 or their equivalents.	COURSE(CS 1112) OR COURSE(CS 2110) OR COURSE(CS 2800) OR COURSE(MATH 1920) OR COURSE(MATH 2940)	OK
+CS 4775	BTRY 3010 and CS 2110 or equivalents.	COURSE(BTRY 3010) AND COURSE(CS 2110)	OK
+CS 4787	CS 3780/CS 5780, CS 2110 or equivalents.	COURSE(CS 3780) OR COURSE(CS 5780) OR COURSE(CS 2110)	OK
+CS 4820	CS 2800, CS 3110.	COURSE(CS 2800) AND COURSE(CS 3110)	OK
+CS 4830	CS 4820.	COURSE(CS 4820)	OK
+CS 5110	CS 3110 or permission of instructor.	LPAREN COURSE(CS 3110) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CS 5112	A strong foundation in programming, typically demonstrated by successful completion of basic undergraduate-level computer science courses.	COURSE(Special requirement: A strong foundation in programming) AND COURSE(Special requirement: typically demonstrated by successful completion of basic undergraduate-level computer science courses)	OK
+CS 5154	graduate standing in CS, or CS majors who have taken CS 3110 or CS 4120, or permission of instructor.	LPAREN COURSE(Special requirement: graduate standing in CS) OR COURSE(Special requirement: CS majors who have taken) COURSE(CS 3110) OR COURSE(CS 4120) RPAREN OR COURSE(Permission: permission of instructor)	INVALID: Consecutive COURSE tokens at position 3 (missing operator)
+CS 5306	advanced coursework in Computer Science.	COURSE(Special requirement: advanced coursework in Computer Science)	OK
+CS 5320	CS 2110 or CS 2800.	COURSE(CS 2110) OR COURSE(CS 2800)	OK
+CS 5414	CS 4410 or permission of instructor.	LPAREN COURSE(CS 4410) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CS 5416	CS 2110, CS 3410, or equivalent.	COURSE(CS 2110) OR COURSE(CS 3410)	OK
+CS 5424	CS 1110 or equivalent.	COURSE(CS 1110)	OK
+CS 5620	CS 2110 or ENGRD 2110, and MATH 1910 or MATH 1120, and MATH 2940 or MATH 2210 or MATH 2310 or equivalent.	COURSE(CS 2110) OR COURSE(ENGRD 2110) AND COURSE(MATH 1910) OR COURSE(MATH 1120) AND COURSE(MATH 2940) OR COURSE(MATH 2210) OR COURSE(MATH 2310)	OK
+CS 5621	Prerequisite or corequisite: CS 5620.	COURSE(CS 5620)	OK
+CS 5650	intermediate programming ability in C# or other object-oriented lagnuages. Familiarity with 3D game engines or strong desire to learn. Basic linear algebra.	COURSE(Special requirement: intermediate programming ability in C#) OR COURSE(Special requirement: other object-oriented lagnuages)	OK
+CS 5670	CS 2110, CS 2800, MATH 1920 or equivalent and MATH 2310 or MATH 2940 or equivalent (Ithaca only).	COURSE(CS 2110) OR COURSE(CS 2800) OR COURSE(MATH 1920) AND COURSE(MATH 2310) OR COURSE(MATH 2940) OR LPAREN COURSE(Special requirement: Ithaca only) RPAREN	OK
+CS 5750	CS 1112, CS 2110, CS 2800, MATH 1920, MATH 2940 or their equivalents.	COURSE(CS 1112) OR COURSE(CS 2110) OR COURSE(CS 2800) OR COURSE(MATH 1920) OR COURSE(MATH 2940)	OK
+CS 5777	CS 3780/CS 5780, CS 2110 or equivalents.	COURSE(CS 3780) OR COURSE(CS 5780) OR COURSE(CS 2110)	OK
+CS 5780	CS 2800, probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700), linear algebra (e.g. MATH 2940), calculus (e.g. MATH 1920), and programming proficiency (e.g. CS 2110).	COURSE(CS 2800) OR COURSE(Special requirement: probability theory) OR COURSE(BTRY 3080) OR COURSE(ECON 3130) OR COURSE(MATH 4710) OR COURSE(ENGRD 2700) OR COURSE(Special requirement: linear algebra) OR COURSE(MATH 2940) OR COURSE(Special requirement: calculus) OR COURSE(MATH 1920) AND COURSE(Special requirement: programming proficiency) OR COURSE(CS 2110)	OK
+CS 5781	CS 2110, or equivalent programming experience.	COURSE(CS 2110) OR COURSE(Special requirement: programming experience)	OK
+CS 5785	CS 2800 or equivalent and basic familiarity with Matlab or Python, or permission of instructor.	LPAREN COURSE(CS 2800) AND COURSE(Special requirement: basic familiarity with Matlab) OR COURSE(Special requirement: Python) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CS 5787	CS 5785, ECE 5414, ORIE 5750.	COURSE(CS 5785) AND COURSE(ECE 5414) AND COURSE(ORIE 5750)	OK
+CS 5820	CS 4820 or graduate level students.	COURSE(CS 4820) OR COURSE(Special requirement: graduate level students)	OK
+CS 5830	CS 2800 or equivalent, CS 4810 or mathematical maturity, or permission of instructor.	LPAREN COURSE(CS 2800) OR COURSE(CS 4810) OR COURSE(Special requirement: mathematical maturity) RPAREN OR COURSE(Permission: permission of instructor)	OK
+CZECH 1133	CZECH 1131 or permission of instructor.	LPAREN COURSE(CZECH 1131) RPAREN OR COURSE(Permission: permission of instructor)	OK
+DEA 2201	DEA 1101 and DEA 1150 with minimum grades of B-, or permission of instructor.	LPAREN COURSE(DEA 1101) AND COURSE(DEA 1150) RPAREN OR COURSE(Permission: permission of instructor)	OK
+DEA 2510	DEA 1101, DEA 1150/DEA 1140, and DEA 1500?.	COURSE(DEA 1101) AND COURSE(DEA 1150) OR COURSE(DEA 1140) AND COURSE(DEA 1500)	OK
+DEA 2730	DEA 1101, DEA 1150/DEA 1140, and DEA 1500.	COURSE(DEA 1101) AND COURSE(DEA 1150) OR COURSE(DEA 1140) AND COURSE(DEA 1500)	OK
+DEA 3301	DEA 1101 and DEA 1150 with minimum grades of B-, or permission of instructor.	LPAREN COURSE(DEA 1101) AND COURSE(DEA 1150) RPAREN OR COURSE(Permission: permission of instructor)	OK
+DEA 4401	students must have completed two DEA studio courses, one at 2000 level and one at 3000 level, and DEA 3050 or receive permission of instructor.	COURSE(Special requirement: students must have completed two DEA studio courses) AND COURSE(Special requirement: one at 2000 level) AND COURSE(Special requirement: one at 3000 level) AND COURSE(DEA 3050) OR COURSE(Special requirement: receive permission of instructor)	OK
+DUTCH 2030	DUTCH 1220  or equivalent.	COURSE(DUTCH 1220)	OK
+DUTCH 3020	DUTCH 2040  or equivalent.	COURSE(DUTCH 2040)	OK
+EAS 2250	MATH 1110 or MATH 1910.	COURSE(MATH 1110) OR COURSE(MATH 1910)	OK
+EAS 2680	basic college math.	COURSE(Special requirement: basic college math)	OK
+EAS 3010	EAS 2250 and MATH 1110 or MATH 1910 and one course in chemistry (high school or college).	COURSE(EAS 2250) AND COURSE(MATH 1110) OR COURSE(MATH 1910) AND COURSE(Special requirement: one course in chemistry) LPAREN COURSE(Special requirement: high school) OR COURSE(Special requirement: college) RPAREN	OK
+EAS 3030	CHEM 2070 or equivalent, MATH 1120, and a course in biology and/or geology.	COURSE(CHEM 2070) OR COURSE(MATH 1120)	OK
+EAS 3050	two semesters of calculus and one semester of physics.	COURSE(Special requirement: two semesters of calculus) AND COURSE(Special requirement: one semester of physics)	OK
+EAS 3410	one year of calculus and one semester of physics.	COURSE(Special requirement: one year of calculus) AND COURSE(Special requirement: one semester of physics)	OK
+EAS 3555	BIOEE 1610, BIOEE 1780.	COURSE(BIOEE 1610) AND COURSE(BIOEE 1780)	OK
+EAS 4050	Recommended prerequisite: linear algebra equivalent to MATH 2940.	COURSE(Special requirement: linear algebra equivalent to) COURSE(MATH 2940)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+EAS 4370	MATH 1920, PHYS 2208, PHYS 2213, or equivalent.	COURSE(MATH 1920) OR COURSE(PHYS 2208) OR COURSE(PHYS 2213)	OK
+EAS 4470	one year each of calculus and physics.	COURSE(Special requirement: one year each of calculus) AND COURSE(Special requirement: physics)	OK
+EAS 4510	EAS 3410 and EAS 3420 or equivalent.	COURSE(EAS 3410) AND COURSE(EAS 3420)	OK
+EAS 4720	MATH 1920, PHYS 1112, and CS1110/CS1112 or EAS2900	COURSE(MATH 1920) AND COURSE(PHYS 1112) AND COURSE(CS 1110) OR COURSE(CS 1112) OR COURSE(EAS 2900)	OK
+EAS 4800	CHEM 2070 or CHEM 2090, MATH 1920, and PHYS 1112 or permission of instructor.	LPAREN COURSE(CHEM 2070) OR COURSE(CHEM 2090) AND COURSE(MATH 1920) AND COURSE(PHYS 1112) RPAREN OR COURSE(Permission: permission of instructor)	OK
+EAS 5011	EAS 2250, MATH 1110 or MATH 1910, one course in chemistry (high school or college).	COURSE(EAS 2250) OR COURSE(MATH 1110) OR COURSE(MATH 1910) OR COURSE(Special requirement: one course in chemistry) LPAREN COURSE(Special requirement: high school) OR COURSE(Special requirement: college) RPAREN	OK
+EAS 5051	two semesters of calculus and one semester of physics.	COURSE(Special requirement: two semesters of calculus) AND COURSE(Special requirement: one semester of physics)	OK
+EAS 5750	PHYS 2214 or PHYS 2218, MATH 2930 or equivalent.	COURSE(PHYS 2214) OR COURSE(PHYS 2218) OR COURSE(MATH 2930)	OK
+ECE 2100	MATH 1920 or PHYS 1112. Corequisite: MATH 2930 or PHYS 2213.	COURSE(MATH 1920) OR COURSE(PHYS 1112)	OK
+ECE 2300	CS 1110 or CS 1112.	COURSE(CS 1110) OR COURSE(CS 1112)	OK
+ECE 2720	MATH 1920 and either CS 1110 or CS 1112. Corequisite: MATH 2940.	COURSE(MATH 1920) AND COURSE(CS 1110) OR COURSE(CS 1112)	OK
+ECE 3030	PHYS 2213, MATH 2930, ECE 2100/ENGRD 2100.	COURSE(PHYS 2213) AND COURSE(MATH 2930) AND COURSE(ECE 2100) OR COURSE(ENGRD 2100)	OK
+ECE 3250	MATH 2930, MATH 2940, or permission of instructor.	LPAREN COURSE(MATH 2930) OR COURSE(MATH 2940) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ECE 4060	PHYS 2214, MATH 2930, or permission of instructor.	LPAREN COURSE(PHYS 2214) OR COURSE(MATH 2930) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ECE 4110	ECE 2720, ECE 3100, and ECE 3250 or equivalents.	COURSE(ECE 2720) AND COURSE(ECE 3100) AND COURSE(ECE 3250)	OK
+ECE 4330	ECE 3030 and ECE 3150.	COURSE(ECE 3030) AND COURSE(ECE 3150)	OK
+ECE 4360	MSE 2620 or ECE 3150, or equivalent that covers basics on semiconductors and semiconductor devices, MATH 2930-MATH 2940, CHEM 2090.	COURSE(MSE 2620) OR COURSE(ECE 3150) OR COURSE(Special requirement: that covers basics on semiconductors) AND COURSE(Special requirement: semiconductor devices) AND COURSE(MATH 2930) AND COURSE(MATH 2940) AND COURSE(CHEM 2090)	OK
+ECE 4361	Prerequisite or corequisite: ECE 4360/MSE 5410, AEP 6620 or equivalents.	COURSE(ECE 4360) OR COURSE(MSE 5410) OR COURSE(AEP 6620)	OK
+ECE 4450	ECE 3100.	COURSE(ECE 3100)	OK
+ECE 4510	ECE 3250.	COURSE(ECE 3250)	OK
+ECE 4530	ECE 3150.	COURSE(ECE 3150)	OK
+ECE 4560	ECE 3150 or permission of instructor required.	LPAREN COURSE(ECE 3150) RPAREN OR COURSE(Permission: permission of instructor required)	OK
+ECE 4750	ECE 3140/CS 3420 or CS 3410. Students should feel comfortable working with a hardware description language such as Verilog, SystemVerilog, or VHDL.	COURSE(ECE 3140) OR COURSE(CS 3420) OR COURSE(CS 3410)	OK
+ECE 4760	ECE 3140/CS 3420.	COURSE(ECE 3140) OR COURSE(CS 3420)	OK
+ECE 4770	CS 1112, CS 2110, CS 2800, MATH 1920, MATH 2940 or their equivalents.	COURSE(CS 1112) OR COURSE(CS 2110) OR COURSE(CS 2800) OR COURSE(MATH 1920) OR COURSE(MATH 2940)	OK
+ECE 4800	MATH 1920, MATH 2940. Highly recommended corequisite: ECE 3250.	COURSE(MATH 1920) AND COURSE(MATH 2940)	OK
+ECE 4920	ECE 4760 or ECE 5760.	COURSE(ECE 4760) OR COURSE(ECE 5760)	OK
+ECE 5110	ECE 2720, ECE 3100, and ECE 3250 or equivalents.	COURSE(ECE 2720) AND COURSE(ECE 3100) AND COURSE(ECE 3250)	OK
+ECE 5120	Prerequisite or corequisite: enrollment in group-based project with strong system design component approved by course instructor.	COURSE(Special requirement: enrollment in group-based project with strong system design component approved by course instructor)	OK
+ECE 5235	coursework in ML, data science, law and policy or ethics, calculus and algebra, algorithms, and python programming. Recommended prerequisite: coursework in theory and optimization.	COURSE(Special requirement: coursework in ML) AND COURSE(Special requirement: data science) AND COURSE(Special requirement: law) AND COURSE(Special requirement: policy) OR COURSE(Special requirement: ethics) AND COURSE(Special requirement: calculus) AND COURSE(Special requirement: algebra) AND COURSE(Special requirement: algorithms) AND COURSE(Special requirement: python programming)	OK
+ECE 5280	ECE 3250, MATH 1920, MATH 2940.	COURSE(ECE 3250) AND COURSE(MATH 1920) AND COURSE(MATH 2940)	OK
+ECE 5330	PHYS 2214, MATH 2930, or permission of instructor.	LPAREN COURSE(PHYS 2214) OR COURSE(MATH 2930) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ECE 5413	CS 1110 or equivalent.	COURSE(CS 1110)	OK
+ECE 5414	CS 2800 or equivalent and basic familiarity with Matlab or Python, or permission of instructor.	LPAREN COURSE(CS 2800) AND COURSE(Special requirement: basic familiarity with Matlab) OR COURSE(Special requirement: Python) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ECE 5510	ECE 3250.	COURSE(ECE 3250)	OK
+ECE 5530	ECE 3150.	COURSE(ECE 3150)	OK
+ECE 5560	ECE 3150 or permission of instructor required.	LPAREN COURSE(ECE 3150) RPAREN OR COURSE(Permission: permission of instructor required)	OK
+ECE 5570	ECE 3030 and ECE 3150.	COURSE(ECE 3030) AND COURSE(ECE 3150)	OK
+ECE 5660	ECE 3100.	COURSE(ECE 3100)	OK
+ECE 5725	ECE 3140/CS 3420.	COURSE(ECE 3140) OR COURSE(CS 3420)	OK
+ECE 5730	ECE 3140/CS 3420.	COURSE(ECE 3140) OR COURSE(CS 3420)	OK
+ECE 5740	ECE 3140/CS 3420 or CS 3410. Students should feel comfortable working with a hardware description language such as Verilog, SystemVerilog, or VHDL.	COURSE(ECE 3140) OR COURSE(CS 3420) OR COURSE(CS 3410)	OK
+ECON 2100	ECON 1110.	COURSE(ECON 1110)	OK
+ECON 3030	ECON 1110, ECON 1120 and calculus.	COURSE(ECON 1110) AND COURSE(ECON 1120) AND COURSE(Special requirement: calculus)	OK
+ECON 3040	ECON 1110, ECON 1120 and calculus.	COURSE(ECON 1110) AND COURSE(ECON 1120) AND COURSE(Special requirement: calculus)	OK
+ECON 3110	MATH 1106 or MATH 1110.	COURSE(MATH 1106) OR COURSE(MATH 1110)	OK
+ECON 3120	ECON 3110 or ECON 3130.	COURSE(ECON 3110) OR COURSE(ECON 3130)	OK
+ECON 3130	MATH 1110 - MATH 1120 and ECON 1110 or ECON 1120.	COURSE(MATH 1110) AND COURSE(MATH 1120) AND COURSE(ECON 1110) OR COURSE(ECON 1120)	OK
+ECON 3250	PUBPOL 2000 or equivalent and PUBPOL 3100 or equivalent.	COURSE(UBPOL 2000) AND COURSE(UBPOL 3100)	OK
+ECON 3300	ECON 1110 and ECON 1120.	COURSE(ECON 1110) AND COURSE(ECON 1120)	OK
+ECON 3545	ECON 3040 and ECON 3120 or ECON 3140 or equivalent.	COURSE(ECON 3040) AND COURSE(ECON 3120) OR COURSE(ECON 3140)	OK
+ECON 3610	PUBPOL 2000 (or equivalent) or with instructor permission.	COURSE(UBPOL 2000)	OK
+ECON 3805	ECON 1110 or its equivalent.	COURSE(ECON 1110) OR COURSE(Special requirement: its equivalent)	OK
+ECON 3850	ECON 1110.	COURSE(ECON 1110)	OK
+ECON 3855	microeconomics course.	COURSE(Special requirement: microeconomics course)	OK
+ECON 3910	introductory microeconomics and statistics or permission of instructor.	LPAREN COURSE(Special requirement: introductory microeconomics) AND COURSE(Special requirement: statistics) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ECON 4140	ECON 3140 or equivalent.	COURSE(ECON 3140)	OK
+ECON 4290	ECON 3030, ECON 3040, and ECON 3110, or ECON 3130.	COURSE(ECON 3030) AND COURSE(ECON 3040) AND COURSE(ECON 3110) OR COURSE(ECON 3130)	OK
+ECON 4410	ECON 3030, ECON 3140 or permission of instructor.	LPAREN COURSE(ECON 3030) OR COURSE(ECON 3140) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ECON 4660	ECON 3030 or equivalent.	COURSE(ECON 3030)	OK
+ECON 4903	ECON 3110 and ECON 3120, or equivalents.	COURSE(ECON 3110) AND COURSE(ECON 3120)	OK
+EDUC 4826	EDUC 2610 or permission of instructor.	LPAREN COURSE(EDUC 2610) RPAREN OR COURSE(Permission: permission of instructor)	OK
+EDUC 4980	GPA of at least 2.7.	COURSE(Special requirement: GPA of at least 2)	OK
+EDUC 4990	GPA of at least 2.7.	COURSE(Special requirement: GPA of at least 2)	OK
+ENGL 2800	completion of a First-Year Writing Seminar (FWS) course.	COURSE(Special requirement: a First-Year Writing Seminar) LPAREN COURSE(Special requirement: FWS) RPAREN COURSE(Special requirement: course)	OK
+ENGL 2880	completion of First-Year Writing Seminar requirement or permission of the instructor.	LPAREN COURSE(Special requirement: First-Year Writing Seminar requirement) RPAREN OR COURSE(Permission: permission of the instructor)	OK
+ENGL 3820	ENGL 2800.	COURSE(ENGL 2800)	OK
+ENGL 3840	ENGL 2800.	COURSE(ENGL 2800)	OK
+ENGL 4800	ENGL 3840 is strongly recommended.	COURSE(ENGL 3840)	OK
+ENGL 4801	Recommended prerequisite: ENGL 3820.	COURSE(ENGL 3820)	OK
+ENGRC 3025	completed internship, professional experience, or significant undergraduate research; familiarity with HTML, CSS, and/or website development.	COURSE(Special requirement: completed internship) OR COURSE(Special requirement: professional experience) OR COURSE(Special requirement: significant undergraduate research) SEMICOLON COURSE(Special requirement: familiarity with HTML) AND COURSE(Special requirement: CSS) AND COURSE(Special requirement: and/or website development)	OK
+ENGRC 3026	two First-Year Writing Seminars and major affiliation.	COURSE(Special requirement: two First-Year Writing Seminars) AND COURSE(Special requirement: major affiliation)	OK
+ENGRC 3341	two (2) First-Year Writing Seminars and major affiliation.	LPAREN COURSE(Special requirement: First-Year Writing Seminars) AND COURSE(Special requirement: major affiliation)	OK
+ENGRC 3350	two First-Year Writing Seminars and major affiliation.	COURSE(Special requirement: two First-Year Writing Seminars) AND COURSE(Special requirement: major affiliation)	OK
+ENGRC 3500	two (2) First-Year Writing Seminars and major affiliation.	LPAREN COURSE(Special requirement: First-Year Writing Seminars) AND COURSE(Special requirement: major affiliation)	OK
+ENGRD 2020	PHYS 1112. Corequisite: MATH 1920.	COURSE(PHYS 1112)	OK
+ENGRD 2100	MATH 1920 or PHYS 1112. Corequisite: MATH 2930 or PHYS 2213.	COURSE(MATH 1920) OR COURSE(PHYS 1112)	OK
+ENGRD 2110	CS 1110 or CS 1112 or equivalent course on programming in a procedural language.	COURSE(CS 1110) OR COURSE(CS 1112) OR COURSE(Special requirement: course on programming in a procedural language)	OK
+ENGRD 2111	CHEM 2090, MATH 1920, and BIOG 1350 or BIOG 1440.	COURSE(CHEM 2090) AND COURSE(MATH 1920) AND COURSE(BIOG 1350) OR COURSE(BIOG 1440)	OK
+ENGRD 2112	excellent performance in CS 1110, CS 1112 or equivalent course in Java or C++, or permission of instructor.	LPAREN COURSE(CS 1110) OR COURSE(CS 1112) OR COURSE(Special requirement: course in Java) OR COURSE(Special requirement: C++) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ENGRD 2190	CHEM 2080, CHEM 2070 or CHEM 2090, and an ENGRI course.	COURSE(CHEM 2080) OR COURSE(CHEM 2070) OR COURSE(CHEM 2090) AND COURSE(Special requirement: an ENGRI course)	OK
+ENGRD 2210	MATH 1920 and PHYS 1112.	COURSE(MATH 1920) AND COURSE(PHYS 1112)	OK
+ENGRD 2250	MATH 1110 or MATH 1910.	COURSE(MATH 1110) OR COURSE(MATH 1910)	OK
+ENGRD 2300	CS 1110 or CS 1112.	COURSE(CS 1110) OR COURSE(CS 1112)	OK
+ENGRD 2510	CHEM 2070 or CHEM 2090 or AP Chem. Prerequisite or corequisite: MATH 2930.	COURSE(CHEM 2070) OR COURSE(CHEM 2090) OR COURSE(Special requirement: AP Chem)	OK
+ENGRD 2600	Prerequisite or corequisite: MATH 2930, two semesters of core biology major classes (BIOMG 1350, BIOG 1440, BIOG 1445 or BIOEE 1610) plus BIOG 1500.	COURSE(MATH 2930) OR COURSE(Special requirement: two semesters of core biology major classes) LPAREN COURSE(BIOMG 1350) OR COURSE(BIOG 1440) OR COURSE(BIOG 1445) OR COURSE(BIOEE 1610) RPAREN COURSE(BIOG 1500)	OK
+ENGRD 2610	PHYS 1112 or PHYS 1117.	COURSE(PHYS 1112) OR COURSE(PHYS 1117)	OK
+ENGRD 2700	MATH 1910, MATH 1920.	COURSE(MATH 1910) AND COURSE(MATH 1920)	OK
+ENGRD 2720	MATH 1920 and either CS 1110 or CS 1112. Corequisite: MATH 2940.	COURSE(MATH 1920) AND COURSE(CS 1110) OR COURSE(CS 1112)	OK
+ENGRG 1152	ENGRG 1050 or permission of instructor.	LPAREN COURSE(ENGRG 1050) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ENGRG 3400	ENGRG 1400.	COURSE(ENGRG 1400)	OK
+ENGRG 4400	ENGRG 1400, ENGRG 3400.	COURSE(ENGRG 1400) AND COURSE(ENGRG 3400)	OK
+ENGRG 4998	intended for undergraduates in engineering majors who require work authorization for an employer other than Cornell.	COURSE(Special requirement: intended for undergraduates in engineering majors who require work authorization for an employer other than Cornell)	OK
+ENGRI 1140	knowledge of Calculus, Physics, and Chemistry at the high school level.	COURSE(Special requirement: knowledge of Calculus) AND COURSE(Special requirement: Physics) AND COURSE(Special requirement: Chemistry at the high school level)	OK
+ENMGT 5200	CEE 3040 or ENGRD 2700, CEE 3230 or ENMGT 5940.	COURSE(CEE 3040) OR COURSE(ENGRD 2700) OR COURSE(CEE 3230) OR COURSE(ENMGT 5940)	OK
+ENMGT 5930	CEE 3040 or equivalent.	COURSE(CEE 3040)	OK
+ENMGT 5980	at least one of the following courses: CEE 3040, ENGRD 2700, ILRST 2100, BTRY 3010, AEM 2100, or equivalent.	COURSE(CEE 3040) OR COURSE(ENGRD 2700) OR COURSE(ILRST 2100) OR COURSE(BTRY 3010) OR COURSE(AEM 2100)	OK
+ENTOM 2120	one semester of college biology or permission of instructor.	LPAREN COURSE(Special requirement: one semester of college biology) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ENTOM 3310	ENTOM 2120. Corequisite: ENTOM 3311.	COURSE(ENTOM 2120)	OK
+ENTOM 3311	ENTOM 2120.	COURSE(ENTOM 2120)	OK
+ENTOM 3350	one college-level biology course.	COURSE(Special requirement: one college-level biology course)	OK
+ENTOM 3360	ENTOM 3350.	COURSE(ENTOM 3350)	OK
+ENTOM 3410	college course in introductory biological sciences.	COURSE(Special requirement: college course in introductory biological sciences)	OK
+ENTOM 3630	BIOMG 1350 or BIOG 1440 or BIOG 1445 or permission of instructor.	LPAREN COURSE(BIOMG 1350) OR COURSE(BIOG 1440) OR COURSE(BIOG 1445) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ENVS 2100	one introductory college biology course.	COURSE(Special requirement: one introductory college biology course)	OK
+ENVS 2500	ECON 1110.	COURSE(ECON 1110)	OK
+ENVS 3020	at least one of the following: a studio art class or a college-level biology class or a visual studies class or an environment and sustainability class or permission of instructor.	COURSE(Special requirement: a studio art class)	OK
+ENVS 4980	previous enrollment in course to be taught, or equivalent and permission of instructor.	COURSE(Special requirement: previous enrollment in course to be taught) AND COURSE(Permission: permission of instructor)	OK
+FDSC 2000	college-level courses in general chemistry and biology; organic chemistry or concurrent registration.	COURSE(Special requirement: college-level courses in general chemistry) AND COURSE(Special requirement: biology) SEMICOLON COURSE(Special requirement: organic chemistry) OR COURSE(Special requirement: concurrent registration)	OK
+FDSC 2205	VIEN 1105. Prerequisite or Corequisite: VIEN 2204.	COURSE(VIEN 1105)	OK
+FDSC 2310	introductory biology and chemistry, or permission of instructor.	LPAREN COURSE(Special requirement: introductory biology) AND COURSE(Special requirement: chemistry) RPAREN OR COURSE(Permission: permission of instructor)	OK
+FDSC 3940	BIOMI 2900 and BIOMI 2911.	COURSE(BIOMI 2900) AND COURSE(BIOMI 2911)	OK
+FDSC 3950	BIOMI 2911 or equivalent.	COURSE(BIOMI 2911)	OK
+FDSC 4010	FDSC 3940, FDSC 4170, and FDSC 4210 or permission of instructor.	LPAREN COURSE(FDSC 3940) AND COURSE(FDSC 4170) AND COURSE(FDSC 4210) RPAREN OR COURSE(Permission: permission of instructor)	OK
+FDSC 4050	general chemistry (CHEM 1560, CHEM 2070, and/or CHEM 2080), organic chemistry (CHEM 1570, CHEM 3570, and/or CHEM 3580), and Food Chemistry I (FDSC 4170).	COURSE(Special requirement: general chemistry) LPAREN COURSE(CHEM 1560) AND COURSE(CHEM 2070) AND COURSE(Special requirement: and/or) COURSE(CHEM 2080) RPAREN AND COURSE(Special requirement: organic chemistry) LPAREN COURSE(CHEM 1570) AND COURSE(CHEM 3570) AND COURSE(Special requirement: and/or) COURSE(CHEM 3580) RPAREN AND COURSE(Special requirement: Food Chemistry I) LPAREN COURSE(FDSC 4170) RPAREN	INVALID: Consecutive COURSE tokens at position 6 (missing operator)
+FDSC 4100	statistics course.	COURSE(Special requirement: statistics course)	OK
+FDSC 4210	FDSC 2000 and introductory physics.	COURSE(FDSC 2000) AND COURSE(Special requirement: introductory physics)	OK
+FDSC 4230	FDSC 4210.	COURSE(FDSC 4210)	OK
+FDSC 4240	FDSC 4210.	COURSE(FDSC 4210)	OK
+FDSC 4310	VIEN 2204 and VIEN 2205/FDSC 2205.	COURSE(VIEN 2204) AND COURSE(VIEN 2205) OR COURSE(FDSC 2205)	OK
+FDSC 4400	at least one semester of general chemistry and one semester of organic chemistry. Recommended prerequisite: prior course work in or knowledge of viticulture and enology.	COURSE(Special requirement: one semester of general chemistry) AND COURSE(Special requirement: one semester of organic chemistry)	OK
+FDSC 4500	VIEN 2204, VIEN 2205, VIEN 2400, and BIOMI 2900, or permission of instructor.	LPAREN COURSE(VIEN 2204) AND COURSE(VIEN 2205) AND COURSE(VIEN 2400) AND COURSE(BIOMI 2900) RPAREN OR COURSE(Permission: permission of instructor)	OK
+FDSC 4510	Prerequisite or corequisite: FDSC 4500/VIEN 4500.	COURSE(FDSC 4500) OR COURSE(VIEN 4500)	OK
+FDSC 5010	FDSC 3940, FDSC 4170, and FDSC 4210 or permission of instructor.	LPAREN COURSE(FDSC 3940) AND COURSE(FDSC 4170) AND COURSE(FDSC 4210) RPAREN OR COURSE(Permission: permission of instructor)	OK
+FDSC 5050	general chemistry (CHEM 1560, CHEM 2070, and/or CHEM 2080), organic chemistry (CHEM 1570, CHEM 3570, and/or CHEM 3580), and Food Chemistry I (FDSC 4170).	COURSE(Special requirement: general chemistry) LPAREN COURSE(CHEM 1560) AND COURSE(CHEM 2070) AND COURSE(Special requirement: and/or) COURSE(CHEM 2080) RPAREN AND COURSE(Special requirement: organic chemistry) LPAREN COURSE(CHEM 1570) AND COURSE(CHEM 3570) AND COURSE(Special requirement: and/or) COURSE(CHEM 3580) RPAREN AND COURSE(Special requirement: Food Chemistry I) LPAREN COURSE(FDSC 4170) RPAREN	INVALID: Consecutive COURSE tokens at position 6 (missing operator)
+FDSC 5100	statistics course.	COURSE(Special requirement: statistics course)	OK
+FDSC 5210	FDSC 2000 and introductory physics.	COURSE(FDSC 2000) AND COURSE(Special requirement: introductory physics)	OK
+FDSC 5230	FDSC 4210.	COURSE(FDSC 4210)	OK
+FDSC 5310	introductory biology and chemistry, or permission of instructor.	LPAREN COURSE(Special requirement: introductory biology) AND COURSE(Special requirement: chemistry) RPAREN OR COURSE(Permission: permission of instructor)	OK
+FDSC 5500	VIEN 2204, VIEN 2205, VIEN 2400, and BIOMI 2900, or permission of instructor.	LPAREN COURSE(VIEN 2204) AND COURSE(VIEN 2205) AND COURSE(VIEN 2400) AND COURSE(BIOMI 2900) RPAREN OR COURSE(Permission: permission of instructor)	OK
+FDSC 5510	Prerequisite or corequisite: FDSC 5500/VIEN 5500.	COURSE(FDSC 5500) OR COURSE(VIEN 5500)	OK
+FDSC 5940	BIOMI 2900 and BIOMI 2911.	COURSE(BIOMI 2900) AND COURSE(BIOMI 2911)	OK
+FGSS 3990	FGSS 2010 or FGSS 3000, and one additional 3000-level FGSS course.	COURSE(FGSS 2010) OR COURSE(FGSS 3000) AND COURSE(Special requirement: one additional 3000-level FGSS course)	OK
+FREN 1220	FREN 1210 or LPF score of 37-44 or SAT II 410-480.	COURSE(FREN 1210) OR COURSE(Special requirement: LPF score of 37-44) OR COURSE(Special requirement: SAT II 410-480)	OK
+FREN 1230	FREN 1220 or an LPF score of 45-55 or SAT II 490-590.	COURSE(FREN 1220) OR COURSE(Special requirement: an LPF score of 45-55) OR COURSE(Special requirement: SAT II 490-590)	OK
+FREN 2090	FREN 1230, LPF score 56-64, or SAT II 600-680 or AP French language 4, or CASE Q.	COURSE(FREN 1230) OR COURSE(Special requirement: LPF score 56-64) OR COURSE(Special requirement: SAT II 600-680) OR COURSE(Special requirement: AP French language 4) OR COURSE(Special requirement: CASE Q)	OK
+FREN 2092	FREN 2070, FREN 2080, or FREN 2090 or higher, or CASE Q+.	COURSE(FREN 2070) OR COURSE(FREN 2080) OR COURSE(FREN 2090) OR COURSE(Special requirement: higher) OR COURSE(Special requirement: CASE Q+)	OK
+FREN 2095	FREN 2070, FREN 2080, or FREN 2090 or CASE Q+.	COURSE(FREN 2070) OR COURSE(FREN 2080) OR COURSE(FREN 2090) OR COURSE(Special requirement: CASE Q+)	OK
+FREN 2180	FREN 2095 or CASE Q++ or permission of instructor required.	LPAREN COURSE(FREN 2095) OR COURSE(Special requirement: CASE Q++) RPAREN OR COURSE(Permission: permission of instructor required)	OK
+FREN 2310	FREN 2095 or CASE Q++ or permission of instructor required.	LPAREN COURSE(FREN 2095) OR COURSE(Special requirement: CASE Q++) RPAREN OR COURSE(Permission: permission of instructor required)	OK
+FREN 3270	FREN 2310 or CASE Q++ or permission of instructor.	LPAREN COURSE(FREN 2310) OR COURSE(Special requirement: CASE Q++) RPAREN OR COURSE(Permission: permission of instructor)	OK
+FREN 3460	FREN 2310 or CASE Q++ or permission of instructor required.	LPAREN COURSE(FREN 2310) OR COURSE(Special requirement: CASE Q++) RPAREN OR COURSE(Permission: permission of instructor required)	OK
+FREN 3535	FREN 2310 or permission of instructor.	LPAREN COURSE(FREN 2310) RPAREN OR COURSE(Permission: permission of instructor)	OK
+FSAD 1170	demonstrated skill at drawing.	COURSE(Special requirement: demonstrated skill at drawing)	OK
+FSAD 2370	FSAD 1350 or permisson of instructor.	COURSE(FSAD 1350) OR COURSE(Special requirement: permisson of instructor)	OK
+FSAD 2650	FSAD 1450, and FSAD 1140 or FSAD 1250.	COURSE(FSAD 1450) AND COURSE(FSAD 1140) OR COURSE(FSAD 1250)	OK
+FSAD 3250	Recommended prerequisite: FSAD 1140 and FSAD 1350.	COURSE(FSAD 1140) AND COURSE(FSAD 1350)	OK
+FSAD 3350	college basic chemistry and physics courses.	COURSE(Special requirement: college basic chemistry) AND COURSE(Special requirement: physics courses)	OK
+FSAD 3770	FSAD 1170.	COURSE(FSAD 1170)	OK
+FSAD 4370	FSAD 3370.	COURSE(FSAD 3370)	OK
+FSAD 4460	FSAD 1350 and FSAD 1360 and FSAD 3350, or ENGRI 1200/AEP 1200, or MSE 2610 or MSE 3010, or equivalent.	COURSE(FSAD 1350) AND COURSE(FSAD 1360) AND COURSE(FSAD 3350) OR COURSE(ENGRI 1200) OR COURSE(AEP 1200) OR COURSE(MSE 2610) OR COURSE(MSE 3010)	OK
+FSAD 4660	FSAD 1360 and FSAD 2370.	COURSE(FSAD 1360) AND COURSE(FSAD 2370)	OK
+FSAD 4770	FSAD 3770.	COURSE(FSAD 3770)	OK
+FSAD 4990	minimum GPA of 3.3.	COURSE(Special requirement: minimum GPA of 3)	OK
+GDEV 3010	development sociology or sociology course.	COURSE(Special requirement: development sociology) OR COURSE(Special requirement: sociology course)	OK
+GDEV 3105	IARD and GDEV majors: GDEV 2105 and pre-departure portfolio, or GDEV 3104; CALS Global Fellows: ALS 2300.	COURSE(Special requirement: IARD) AND COURSE(Special requirement: GDEV majors:) COURSE(GDEV 2105) AND COURSE(Special requirement: pre-departure portfolio) OR COURSE(GDEV 3104) SEMICOLON COURSE(Special requirement: CALS Global Fellows:) COURSE(ALS 2300)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+GDEV 3280	Recommended prerequisite: at least one of the following GDEV 2200, HD 1150, HD 1170, HD 2180, PUBPOL 2030, PUBPOL 2100, PUBPOL 2208, PUBPOL 2300, PUBPOL 2350, PSYCH 1101, SOC 1101.	COURSE(GDEV 2200) AND COURSE(HD 1150) AND COURSE(HD 1170) AND COURSE(HD 2180) AND COURSE(UBPOL 2030) AND COURSE(UBPOL 2100) AND COURSE(UBPOL 2208) AND COURSE(UBPOL 2300) AND COURSE(UBPOL 2350) AND COURSE(PSYCH 1101) AND COURSE(SOC 1101)	OK
+GDEV 4080	PUBPOL 2030.	COURSE(UBPOL 2030)	OK
+GDEV 4190	statistics course or permission of instructor.	LPAREN COURSE(Special requirement: statistics course) RPAREN OR COURSE(Permission: permission of instructor)	OK
+GDEV 4980	previous enrollment in the course to be taught, or other appropriate previous training and experience.	COURSE(Special requirement: previous enrollment in the course to be taught) OR COURSE(Special requirement: other appropriate previous training) AND COURSE(Special requirement: experience)	OK
+GERST 1220	GERST 1210 or based on German Placement test result.	COURSE(GERST 1210) OR COURSE(Special requirement: based on German Placement test result)	OK
+GERST 1230	Limited to students who have previously studied German and based on German Placement test result.	COURSE(Special requirement: Limited to students who have previously studied German) AND COURSE(Special requirement: based on German Placement test result)	OK
+GERST 2000	GERST 1220 and placement result, GERST 1230, or placement by examination.	COURSE(GERST 1220) AND COURSE(Special requirement: placement result) OR COURSE(GERST 1230) OR COURSE(Special requirement: placement by examination)	OK
+GERST 2020	GERST 2000 or equivalent, or placement by examination.nStudents must take one of the following courses as a prerequisite for Study Abroad in a German-speaking country: GERST 2020, GERST 2040, or GERST 2060.  nThis course counts toward the German Studies Minor.	COURSE(GERST 2000) OR COURSE(Special requirement: placement by examination) COURSE(Special requirement: nStudents must take one of the following courses as a prerequisite for Study Abroad in a German-speaking country:) COURSE(GERST 2020) OR COURSE(GERST 2040) OR COURSE(GERST 2060) COURSE(Special requirement: nThis course counts toward the German Studies Minor)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+GERST 2040	GERST 2000 or equivalent, or placement by examination.nStudents must take one of the following courses as a prerequisite for Study Abroad in a German-speaking country: GERST 2020, GERST 2040, or GERST 2060.  nThis course counts toward the German Studies Minor.	COURSE(GERST 2000) OR COURSE(Special requirement: placement by examination) COURSE(Special requirement: nStudents must take one of the following courses as a prerequisite for Study Abroad in a German-speaking country:) COURSE(GERST 2020) OR COURSE(GERST 2040) OR COURSE(GERST 2060) COURSE(Special requirement: nThis course counts toward the German Studies Minor)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+GERST 3025	one German course at the 2010-2499 level or equivalent. This course may be counted towards the requirement for 3000-3209 level language in the major and minor.	COURSE(Special requirement: one German course at the 2010-2499 level)	OK
+GERST 3350	one course at the GERST 3000-3209 level or equivalent, or placement by examination.	COURSE(Special requirement: one course at the) COURSE(GERST 3000) COURSE(Special requirement: 3209 level) OR COURSE(Special requirement: placement by examination)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+GERST 4100	any German course at the 3210-3499-level or equivalent.	COURSE(Special requirement: any German course at the 3210-3499-level)	OK
+GERST 4540	GERST 4530.	COURSE(GERST 4530)	OK
+GOVT 4949	acceptance into honors program.	COURSE(Special requirement: acceptance into honors program)	OK
+GREEK 1105	GREEK 1104.	COURSE(GREEK 1104)	OK
+GREEK 2101	GREEK 1102 or placement by departmental exam.	COURSE(GREEK 1102) OR COURSE(Special requirement: placement by departmental exam)	OK
+GREEK 3120	one 2000-level Greek course.	COURSE(Special requirement: one 2000-level Greek course)	OK
+GREEK 5115	GREEK 5114, or permission of instructor.	LPAREN COURSE(GREEK 5114) RPAREN OR COURSE(Permission: permission of instructor)	OK
+GREEK 5121	GREEK 5112 or placement by departmental exam.	COURSE(GREEK 5112) OR COURSE(Special requirement: placement by departmental exam)	OK
+GREEK 5130	GREEK 5121 or GREEK 5123.	COURSE(GREEK 5121) OR COURSE(GREEK 5123)	OK
+HADM 2011	HADM 1740 or HADM 2740.	COURSE(HADM 1740) OR COURSE(HADM 2740)	OK
+HADM 2021	HADM 2011 or STSCI 2100 or ILRST 2100 or MATH 1710 or AEM 2100.	COURSE(HADM 2011) OR COURSE(STSCI 2100) OR COURSE(ILRST 2100) OR COURSE(MATH 1710) OR COURSE(AEM 2100)	OK
+HADM 2210	HADM 1210 or HADM 2230 or AEM 2210.	COURSE(HADM 1210) OR COURSE(HADM 2230) OR COURSE(AEM 2210)	OK
+HADM 2220	HADM 1210 or HADM 2230.	COURSE(HADM 1210) OR COURSE(HADM 2230)	OK
+HADM 2221	HADM 2220 or HADM 2250 or AEM 2240 or AEM 2241.	COURSE(HADM 2220) OR COURSE(HADM 2250) OR COURSE(AEM 2240) OR COURSE(AEM 2241)	OK
+HADM 2250	HADM 2230 and ECON 1110 or equivalent. Recommended prerequsite: STSCI 2100 or equivalent.	COURSE(HADM 2230) AND COURSE(ECON 1110)	OK
+HADM 2351	HADM 1361.	COURSE(HADM 1361)	OK
+HADM 2430	Prerequisite or corequisite: HADM 1410.	COURSE(HADM 1410)	OK
+HADM 2560	Prerequisite or corequisite: HADM 1350.	COURSE(HADM 1350)	OK
+HADM 2810	HADM 1150.	COURSE(HADM 1150)	OK
+HADM 3170	one semester (200 hours) of employment at the Statler Hotel.	COURSE(Special requirement: one semester) LPAREN COURSE(Special requirement: 200 hours) RPAREN COURSE(Special requirement: of employment at the Statler Hotel)	OK
+HADM 3235	HADM 2250, HADM 2220, AEM 2240, or AEM 2241.	COURSE(HADM 2250) OR COURSE(HADM 2220) OR COURSE(AEM 2240) OR COURSE(AEM 2241)	OK
+HADM 3470	HADM 2430, HADM 2410, AEM 2400, AEM 2420, or equivalent.	COURSE(HADM 2430) OR COURSE(HADM 2410) OR COURSE(AEM 2400) OR COURSE(AEM 2420)	OK
+HADM 3650	HADM 1150 and HADM 1650.	COURSE(HADM 1150) AND COURSE(HADM 1650)	OK
+HADM 3710	HADM 1740 or HADM 2740.	COURSE(HADM 1740) OR COURSE(HADM 2740)	OK
+HADM 4050	HADM 2021.	COURSE(HADM 2021)	OK
+HADM 4070	HADM 2011, STSCI 2100, ILRST 2100, MATH 1710, or AEM 2100.	COURSE(HADM 2011) OR COURSE(STSCI 2100) OR COURSE(ILRST 2100) OR COURSE(MATH 1710) OR COURSE(AEM 2100)	OK
+HADM 4200	HADM 2230 or equivalent, and HADM 2250 or equivalent.	COURSE(HADM 2230) AND COURSE(HADM 2250)	OK
+HADM 4205	HADM 2221 or HADM 3210 or HADM 4200 or HADM 6200 or REAL 6200.	COURSE(HADM 2221) OR COURSE(HADM 3210) OR COURSE(HADM 4200) OR COURSE(HADM 6200) OR COURSE(REAL 6200)	OK
+HADM 4230	HADM 2221 or HADM 3210 or HADM 4200	COURSE(HADM 2221) OR COURSE(HADM 3210) OR COURSE(HADM 4200)	OK
+HADM 4232	HADM 2250, HADM 2220, AEM 2240, or AEM 2241.	COURSE(HADM 2250) OR COURSE(HADM 2220) OR COURSE(AEM 2240) OR COURSE(AEM 2241)	OK
+HADM 4250	HADM 2221, HADM 3210 or HADM 4200 or permission of instructor.	LPAREN COURSE(HADM 2221) OR COURSE(HADM 3210) OR COURSE(HADM 4200) RPAREN OR COURSE(Permission: permission of instructor)	OK
+HADM 4340	HADM 1361.	COURSE(HADM 1361)	OK
+HADM 4360	HADM 4300.	COURSE(HADM 4300)	OK
+HADM 4410	HADM 1350, HADM 1410, HADM 1740, HADM 2220, HADM 2430, HADM 2351 or HADM 2250, and HADM 3650.	COURSE(HADM 1350) OR COURSE(HADM 1410) OR COURSE(HADM 1740) OR COURSE(HADM 2220) OR COURSE(HADM 2430) OR COURSE(HADM 2351) OR COURSE(HADM 2250) AND COURSE(HADM 3650)	OK
+HADM 4470	HADM 2430, HADM 2410, AEM 2400, or AEM 2420.	COURSE(HADM 2430) OR COURSE(HADM 2410) OR COURSE(AEM 2400) OR COURSE(AEM 2420)	OK
+HADM 4510	Prerequisite or corequisite: HADM 2351.	COURSE(HADM 2351)	OK
+HADM 4515	HADM 2550 or HADM 2560.	COURSE(HADM 2550) OR COURSE(HADM 2560)	OK
+HADM 4870	Recommended prerequisite: HADM 3870.	COURSE(HADM 3870)	OK
+HADM 5360	HADM 4300.	COURSE(HADM 4300)	OK
+HD 2600	Recommended prerequisite: introductory psychology or human development course.	COURSE(Special requirement: introductory psychology) OR COURSE(Special requirement: human development course)	OK
+HD 2830	Recommended prerequisite: HD 1150.	COURSE(HD 1150)	OK
+HD 3190	at least one of the following: HD 1130 , PSYCH 1101, or PSYCH 2650.	COURSE(HD 1130) OR COURSE(PSYCH 1101) OR COURSE(PSYCH 2650)	OK
+HD 3210	Recommended prerequisite: an introductory course in human development and at least one introductory course in behavioral neuroscience or biological basis of behavior.	COURSE(Special requirement: an introductory course in human development) AND COURSE(Special requirement: one introductory course in behavioral neuroscience) OR COURSE(Special requirement: biological basis of behavior)	OK
+HD 3310	PSYCH 1101 or HD 1130. Recommended prerequisite: HD 2600.	COURSE(PSYCH 1101) OR COURSE(HD 1130)	OK
+HD 3700	any one course in psychology or human development.	COURSE(Special requirement: any one course in psychology) OR COURSE(Special requirement: human development)	OK
+HD 4030	either HD 1150 or PSYCH 1101, and two intermediate-level HD courses, or equivalent courses in psychology or sociology. Students must have taken course and received B+ or higher.	COURSE(HD 1150) OR COURSE(PSYCH 1101) AND COURSE(Special requirement: two intermediate-level HD courses) OR COURSE(Special requirement: courses in psychology) OR COURSE(Special requirement: sociology)	OK
+HD 4250	HD 1130 or PSYCH 1101, also HD 2830 and HD 5750 and HD 5760.	COURSE(HD 1130) OR COURSE(PSYCH 1101) AND COURSE(HD 2830) AND COURSE(HD 5750) AND COURSE(HD 5760)	OK
+HD 4260	HD 1130 or PSYCH 1101 and HD 2600.	COURSE(HD 1130) OR COURSE(PSYCH 1101) AND COURSE(HD 2600)	OK
+HD 4420	Recommended prerequisite: introductory psychology.	COURSE(Special requirement: introductory psychology)	OK
+HD 4670	HD 3300/PSYCH 3310 or HD 3320.	COURSE(HD 3300) OR COURSE(PSYCH 3310) OR COURSE(HD 3320)	OK
+HEBRW 1103	one year of Hebrew or permission of instructor.	LPAREN COURSE(Special requirement: one year of Hebrew) RPAREN OR COURSE(Permission: permission of instructor)	OK
+HEBRW 3101	HEBRW 2100 with a grade equivalent to C- or above or permission of instructor.	LPAREN COURSE(HEBRW 2100) OR COURSE(Special requirement: above) RPAREN OR COURSE(Permission: permission of instructor)	OK
+HEBRW 3103	HEBRW 3102 or permission of instructor.	LPAREN COURSE(HEBRW 3102) RPAREN OR COURSE(Permission: permission of instructor)	OK
+HIERO 1452	HIERO 1451 or permission of instructor.	LPAREN COURSE(HIERO 1451) RPAREN OR COURSE(Permission: permission of instructor)	OK
+HINDI 2201	HINDI 1102  or permission of instructor.	LPAREN COURSE(HINDI 1102) RPAREN OR COURSE(Permission: permission of instructor)	OK
+HINDI 2203	HINDI 1102 or equal level of competency or permission of instructor.	LPAREN COURSE(HINDI 1102) OR COURSE(Special requirement: equal level of competency) RPAREN OR COURSE(Permission: permission of instructor)	OK
+HINDI 3301	HINDI 2202 or permission of instructor.	LPAREN COURSE(HINDI 2202) RPAREN OR COURSE(Permission: permission of instructor)	OK
+HIST 4001	HIST 4000.	COURSE(HIST 4000)	OK
+HIST 4408	one 3000 level course in the humanities; some knowledge of Asian history.	COURSE(Special requirement: one 3000 level course in the humanities) SEMICOLON COURSE(Special requirement: some knowledge of Asian history)	OK
+HUNGR 1133	HUNGR 1132 or permission of instructor.	LPAREN COURSE(HUNGR 1132) RPAREN OR COURSE(Permission: permission of instructor)	OK
+HUNGR 2103	HUNGR 1134 or equivalent.	COURSE(HUNGR 1134)	OK
+ILRGL 4029	ILRGL 4027.	COURSE(ILRGL 4027)	OK
+ILRHR 5660	ILRHR 5600 and at least one of the following courses: ILRHR 5050, ILRST 5050, or ILRST 5110.	COURSE(ILRHR 5600) AND COURSE(ILRHR 5050) OR COURSE(ILRST 5050) OR COURSE(ILRST 5110)	OK
+ILRHR 5690	ILRHR 5600 and at least one of the following courses: ILRHR 5050, ILRST 5050, or ILRST 5110.	COURSE(ILRHR 5600) AND COURSE(ILRHR 5050) OR COURSE(ILRST 5050) OR COURSE(ILRST 5110)	OK
+ILRID 4699	ILRHR 2600 and at least one of the following courses: ILRID 2660, HADM 1740, or HADM 2740.	COURSE(ILRHR 2600) AND COURSE(ILRID 2660) OR COURSE(HADM 1740) OR COURSE(HADM 2740)	OK
+ILRID 4826	EDUC 2610 or permission of instructor.	LPAREN COURSE(EDUC 2610) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ILRLE 2400	ECON 1110 and ECON 1120.	COURSE(ECON 1110) AND COURSE(ECON 1120)	OK
+ILRLE 3440	ECON 1110 and ECON 1120.	COURSE(ECON 1110) AND COURSE(ECON 1120)	OK
+ILRST 2110	AEM 2100, CRP 1200, ENGRD 2700, HADM 2010, ILRST 2100, MATH 1710, PUBPOL 2100, PUBPOL 2101, PSYCH 2500, SOC 3010, STSCI 2100, or STSCI 2150.	COURSE(AEM 2100) OR COURSE(CRP 1200) OR COURSE(ENGRD 2700) OR COURSE(HADM 2010) OR COURSE(ILRST 2100) OR COURSE(MATH 1710) OR COURSE(UBPOL 2100) OR COURSE(UBPOL 2101) OR COURSE(PSYCH 2500) OR COURSE(SOC 3010) OR COURSE(STSCI 2100) OR COURSE(STSCI 2150)	OK
+ILRST 2130	AEM 2100,CRP 1200, ENGRD 2700, HADM 2010, ILRST 2100, MATH 1710, PUBPOL 2100, PUBPOL 2101, PSYCH 2500, SOC 3010, STSCI 2100, or STSCI 2150.	COURSE(AEM 2100) OR COURSE(CRP 1200) OR COURSE(ENGRD 2700) OR COURSE(HADM 2010) OR COURSE(ILRST 2100) OR COURSE(MATH 1710) OR COURSE(UBPOL 2100) OR COURSE(UBPOL 2101) OR COURSE(PSYCH 2500) OR COURSE(SOC 3010) OR COURSE(STSCI 2100) OR COURSE(STSCI 2150)	OK
+ILRST 3080	STSCI 2150 or STSCI 2200, MATH 1120 and MATH 2220 or their equivalents.	COURSE(STSCI 2150) OR COURSE(STSCI 2200) AND COURSE(MATH 1120) AND COURSE(MATH 2220)	OK
+ILRST 3110	MATH 1106 or MATH 1110.	COURSE(MATH 1106) OR COURSE(MATH 1110)	OK
+ILRST 3900	STSCI 2100 or PSYCH 2500 or SOC 3010 or ECON 3110 or equivalent.	COURSE(STSCI 2100) OR COURSE(PSYCH 2500) OR COURSE(SOC 3010) OR COURSE(ECON 3110)	OK
+ILRST 4110	BTRY 3020, BTRY 6020, or equivalent with BTRY 3080 or MATH 4710 also highly recommended.	ERROR	EXCEPTION: No match found
+ILRST 5110	STSCI 5200, BTRY 6010, ILRST 5100, or BTRY 5010.	COURSE(STSCI 5200) OR COURSE(BTRY 6010) OR COURSE(ILRST 5100) OR COURSE(BTRY 5010)	OK
+INDO 2201	INDO 1122 or equivalent.	COURSE(INDO 1122)	OK
+INDO 3301	INDO 2202 or equivalent.	COURSE(INDO 2202)	OK
+INDO 4401	INDO 3302 or equivalent.	COURSE(INDO 3302)	OK
+INFO 2300	INFO 1300 and CS 1110 or CS 1112.	COURSE(INFO 1300) AND COURSE(CS 1110) OR COURSE(CS 1112)	OK
+INFO 2950	one course is core statistics (MATH 1710 or equivalent) and one course in core programming (CS 1110 or CS 1112) or permission of instructor.	LPAREN COURSE(Special requirement: one course is core statistics) LPAREN COURSE(MATH 1710) AND COURSE(Special requirement: one course in core programming) LPAREN COURSE(CS 1110) OR COURSE(CS 1112) RPAREN RPAREN OR COURSE(Permission: permission of instructor)	OK
+INFO 3350	INFO 2950.	COURSE(INFO 2950)	OK
+INFO 3900	STSCI 2100 or PSYCH 2500 or SOC 3010 or ECON 3110 or equivalent.	COURSE(STSCI 2100) OR COURSE(PSYCH 2500) OR COURSE(SOC 3010) OR COURSE(ECON 3110)	OK
+INFO 3950	INFO 2950 or INFO 2951 or equivalent.	COURSE(INFO 2950) OR COURSE(INFO 2951)	OK
+INFO 4320	INFO 2300 or INFO 2310.	COURSE(INFO 2300) OR COURSE(INFO 2310)	OK
+INFO 4420	INFO 3450 or equivalent.	COURSE(INFO 3450)	OK
+INFO 5230	Prior coursework in ethical thinking, or permission of instructor.	LPAREN COURSE(Special requirement: Prior coursework in ethical thinking) RPAREN OR COURSE(Permission: permission of instructor)	OK
+INFO 5235	coursework in ML, data science, law and policy or ethics, calculus and algebra, algorithms, and python programming. Recommended prerequisite: coursework in theory and optimization.	COURSE(Special requirement: coursework in ML) AND COURSE(Special requirement: data science) AND COURSE(Special requirement: law) AND COURSE(Special requirement: policy) OR COURSE(Special requirement: ethics) AND COURSE(Special requirement: calculus) AND COURSE(Special requirement: algebra) AND COURSE(Special requirement: algorithms) AND COURSE(Special requirement: python programming)	OK
+INFO 5306	advanced coursework in Computer Science.	COURSE(Special requirement: advanced coursework in Computer Science)	OK
+INFO 5340	intermediate programming ability in C# or other object-oriented lagnuages. Familiarity with 3D game engines or strong desire to learn. Basic linear algebra.	COURSE(Special requirement: intermediate programming ability in C#) OR COURSE(Special requirement: other object-oriented lagnuages)	OK
+INFO 5345	CS 1110 or equivalent.	COURSE(CS 1110)	OK
+INFO 5356	CS 2800 or equivalent.	COURSE(CS 2800)	OK
+INFO 5370	Recommended prerequisite: ENGRD 2700, CS 1380, or equivalent, and experience programming in Python. Recommended corequisite: INFO 5430 or CS 5785.	COURSE(ENGRD 2700) OR COURSE(CS 1380) AND COURSE(Special requirement: experience programming in Python)	OK
+INFO 5430	INFO 5410.	COURSE(INFO 5410)	OK
+INFO 5600	basic knowledge of machine learning, deep learning techniques and coding experience.	COURSE(Special requirement: basic knowledge of machine learning) AND COURSE(Special requirement: deep learning techniques) AND COURSE(Special requirement: coding experience)	OK
+INFO 5610	CS 5785 /ECE 5414 /ORIE 5750 or demonstrated foundational programing and machine learning knowledge.	COURSE(CS 5785) OR COURSE(ECE 5414) OR COURSE(ORIE 5750) OR COURSE(Special requirement: demonstrated foundational programing) AND COURSE(Special requirement: machine learning knowledge)	OK
+INFO 5920	TECHIE 5901.	COURSE(ECHIE 5901)	OK
+ITAL 1120	ITAL 1110 or equivalent.	COURSE(ITAL 1110)	OK
+ITAL 2110	ITAL 1120 or equivalent.	COURSE(ITAL 1120)	OK
+ITAL 2130	ITAL 2110 or equivalent.	COURSE(ITAL 2110)	OK
+ITAL 2201	ITAL 1202, ITAL 1401, LPI score of 49 or higher.	COURSE(ITAL 1202) OR COURSE(ITAL 1401) OR COURSE(Special requirement: LPI score of 49) OR COURSE(Special requirement: higher)	OK
+ITAL 2203	ITAL 2201 or equivalent.	COURSE(ITAL 2201)	OK
+ITAL 3730	ITAL 2202 and ITAL 2203.	COURSE(ITAL 2202) AND COURSE(ITAL 2203)	OK
+JAPAN 2201	Grade of C+ or higher in JAPAN 1102 or equivalent as determined through placement exam.	ERROR	EXCEPTION: No match found
+JAPAN 3301	grade of C+ or above in JAPAN 2202 or placement by instructor during registration.	ERROR	EXCEPTION: No match found
+JAPAN 4401	grade of C+ or above in JAPAN 3302 or placement by instructor during registration.	ERROR	EXCEPTION: No match found
+JAPAN 4410	reading knowledge of Japanese.	COURSE(Special requirement: reading knowledge of Japanese)	OK
+JAPAN 4421	grade of C+ or above in JAPAN 4402 or JAPAN 4421 or placement by instructor.	ERROR	EXCEPTION: No match found
+JWST 1103	one year of Hebrew or permission of instructor.	LPAREN COURSE(Special requirement: one year of Hebrew) RPAREN OR COURSE(Permission: permission of instructor)	OK
+JWST 3101	HEBRW 2100 with a grade equivalent to C- or above or permission of instructor.	LPAREN COURSE(HEBRW 2100) OR COURSE(Special requirement: above) RPAREN OR COURSE(Permission: permission of instructor)	OK
+JWST 3103	HEBRW 3102 or permission of instructor.	LPAREN COURSE(HEBRW 3102) RPAREN OR COURSE(Permission: permission of instructor)	OK
+KHMER 2201	KHMER 1122.	COURSE(KHMER 1122)	OK
+KHMER 3301	KHMER 2202 or equivalent.	COURSE(KHMER 2202)	OK
+KHMER 4401	KHMER 3302.	COURSE(KHMER 3302)	OK
+KOREA 1109	online placement test (collt.lrc.cornell.edu/) is required.	COURSE(Special requirement: online placement test) LPAREN COURSE(Special requirement: collt) COURSE(Special requirement: lrc) COURSE(Special requirement: cornell) COURSE(Special requirement: edu/) RPAREN COURSE(Special requirement: is required)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+KOREA 2201	grade of B- or higher in KOREA 1102 or online placement test (collt.lrc.cornell.edu/).	ERROR	EXCEPTION: No match found
+KOREA 2209	grade of B- or higher in KOREA 1110 or online placement test (collt.lrc.cornell.edu).	ERROR	EXCEPTION: No match found
+KOREA 3301	grade of B- or higher in KOREA 2202 or KOREA 2210, or online placement test (collt.lrc.cornell.edu/).	ERROR	EXCEPTION: No match found
+KOREA 4401	grade of B- or above in KOREA 2202 or KOREA 2210 or online placement required.	ERROR	EXCEPTION: No match found
+LA 3010	LA 2020 with grade of C or better.	COURSE(LA 2020) OR COURSE(Special requirement: better)	OK
+LA 4980	previous enrollment in course to be taught.	COURSE(Special requirement: previous enrollment in course to be taught)	OK
+LATA 2170	SPAN 2095, or CASE Q++.	COURSE(SPAN 2095) OR COURSE(Special requirement: CASE Q++)	OK
+LATIN 1205	LATIN 1202, LATIN 1204 or placement by departmental exam.	COURSE(LATIN 1202) OR COURSE(LATIN 1204) OR COURSE(Special requirement: placement by departmental exam)	OK
+LATIN 2201	LATIN 1202, LATIN 1204, or placement by departmental exam.	COURSE(LATIN 1202) OR COURSE(LATIN 1204) OR COURSE(Special requirement: placement by departmental exam)	OK
+LATIN 3203	Two 2000-level Latin courses.	COURSE(Special requirement: Two 2000-level Latin courses)	OK
+LATIN 5215	LATIN 5212, LATIN 5214, or placement by departmental exam.	COURSE(LATIN 5212) OR COURSE(LATIN 5214) OR COURSE(Special requirement: placement by departmental exam)	OK
+LATIN 5221	LATIN 5212, LATIN 5214, or placement by departmental exam.	COURSE(LATIN 5212) OR COURSE(LATIN 5214) OR COURSE(Special requirement: placement by departmental exam)	OK
+LATIN 5233	Two 5220-level Latin courses.	COURSE(Special requirement: Two 5220-level Latin courses)	OK
+LAW 4021	ECON 1110 or its equivalent.	COURSE(ECON 1110) OR COURSE(Special requirement: its equivalent)	OK
+LEAD 4970	GDEV 3100.	COURSE(GDEV 3100)	OK
+LGBT 3990	LGBT 2290 and one additional LGBT Studies course at the 3000-level.	COURSE(LGBT 2290) AND COURSE(Special requirement: one additional LGBT Studies course at the 3000-level)	OK
+LING 3303	LING 1101 or permission of instructor.	LPAREN COURSE(LING 1101) RPAREN OR COURSE(Permission: permission of instructor)	OK
+LING 3390	LING 1101, and permission of instructor.	COURSE(LING 1101) AND COURSE(Permission: permission of instructor)	OK
+LING 4401	LING 3302 [B+ or above] or equivalent, or permission of instructor.	LPAREN COURSE(LING 3302) OR COURSE(Special requirement: above]) RPAREN OR COURSE(Permission: permission of instructor)	OK
+LING 4403	LING 3303 or permission of instructor.	LPAREN COURSE(LING 3303) RPAREN OR COURSE(Permission: permission of instructor)	OK
+LING 4406	ASL 1102 or LING 1101.	COURSE(ASL 1102) OR COURSE(LING 1101)	OK
+LING 4411	reading knowledge of Japanese.	COURSE(Special requirement: reading knowledge of Japanese)	OK
+LING 4419	LING 3302 [B+ or above] or permission of instructor.	LPAREN COURSE(LING 3302) OR COURSE(Special requirement: above]) RPAREN OR COURSE(Permission: permission of instructor)	OK
+LING 4421	LING 3303 or permission of instructor.	LPAREN COURSE(LING 3303) RPAREN OR COURSE(Permission: permission of instructor)	OK
+LSP 1250	SPAN 1120, SPAN 1220, or LPS 45-55.	COURSE(SPAN 1120) OR COURSE(SPAN 1220) OR COURSE(Special requirement: LPS 45-55)	OK
+LSP 2020	LSP 56 or higher, CASE placement.	COURSE(Special requirement: LSP 56) OR COURSE(Special requirement: higher) AND COURSE(Special requirement: CASE placement)	OK
+MAE 2020	PHYS 1112. Corequisite: MATH 1920.	COURSE(PHYS 1112)	OK
+MAE 2030	ENGRD 2020 and MATH 2930. Corequisite:  MATH 2940.	COURSE(ENGRD 2020) AND COURSE(MATH 2930)	OK
+MAE 2210	MATH 1920 and PHYS 1112.	COURSE(MATH 1920) AND COURSE(PHYS 1112)	OK
+MAE 3050	MAE 2030. Prerequisite or corequisite: ENGRD 2210 or BEE 2220, MAE 3230 or CHEME 3230 or BEE 3310 or CEE 3310.	COURSE(MAE 2030)	OK
+MAE 3230	ENGRD 2020, MAE 2030. Prerequisite or corequisite: ENGRD 2210.	COURSE(ENGRD 2020) AND COURSE(MAE 2030)	OK
+MAE 3260	MATH 2930, MATH 2940, and MAE 2030.	COURSE(MATH 2930) AND COURSE(MATH 2940) AND COURSE(MAE 2030)	OK
+MAE 3270	ENGRD 2020, MATH 2940, CS 1112 or CS 1110.	COURSE(ENGRD 2020) OR COURSE(MATH 2940) OR COURSE(CS 1112) OR COURSE(CS 1110)	OK
+MAE 3870	PHYS 2213, MAE 2030, and MATH 2930.	COURSE(PHYS 2213) AND COURSE(MAE 2030) AND COURSE(MATH 2930)	OK
+MAE 4020	MAE 3230 (or equivalent) or MAE 3050, MAE 3270.	COURSE(MAE 3230) OR COURSE(MAE 3050) AND COURSE(MAE 3270)	OK
+MAE 4021	MAE 3230 (or equivalent) or MAE 3050, MAE 3270.	COURSE(MAE 3230) OR COURSE(MAE 3050) AND COURSE(MAE 3270)	OK
+MAE 4060	MATH 2930, MATH 2940, and MAE 2030.	COURSE(MATH 2930) AND COURSE(MATH 2940) AND COURSE(MAE 2030)	OK
+MAE 4240	ENGRD 2020 or ENGRD 2610.	COURSE(ENGRD 2020) OR COURSE(ENGRD 2610)	OK
+MAE 4272	MAE 3230, MAE 3240.	COURSE(MAE 3230) AND COURSE(MAE 3240)	OK
+MAE 4291	Prerequisite or corequisite: MAE 4300.	COURSE(MAE 4300)	OK
+MAE 4300	Prerequisite or corequisite: M.E. Senior Design.	COURSE(Special requirement: Senior Design)	OK
+MAE 4480	BME 3410 or BME 3210 or permission of instructor.	LPAREN COURSE(BME 3410) OR COURSE(BME 3210) RPAREN OR COURSE(Permission: permission of instructor)	OK
+MAE 4540	Prerequisite or corequisite: undergraduate-level coursework in thermodynamics, electromagnetism, and orbital mechanics.	COURSE(Special requirement: undergraduate-level coursework in thermodynamics) AND COURSE(Special requirement: electromagnetism) AND COURSE(Special requirement: orbital mechanics)	OK
+MAE 4660	ENGRD 2020, MATH 2930, BIOMG 1350 and BME 2010 or BIOG 1440.	COURSE(ENGRD 2020) AND COURSE(MATH 2930) AND COURSE(BIOMG 1350) AND COURSE(BME 2010) OR COURSE(BIOG 1440)	OK
+MAE 4730	MATH 2940 or equivalent.	COURSE(MATH 2940)	OK
+MAE 4760	CS 1112, CS 2110, CS 2800, MATH 1920, MATH 2940 or their equivalents.	COURSE(CS 1112) OR COURSE(CS 2110) OR COURSE(CS 2800) OR COURSE(MATH 1920) OR COURSE(MATH 2940)	OK
+MAE 4780	CHEME 3720 or MAE 3260.	COURSE(CHEME 3720) OR COURSE(MAE 3260)	OK
+MAE 5020	MAE 3230 (or equivalent) or MAE 3050, MAE 3270.	COURSE(MAE 3230) OR COURSE(MAE 3050) AND COURSE(MAE 3270)	OK
+MAE 5065	MATH 2930, MATH 2940, and MAE 2030.	COURSE(MATH 2930) AND COURSE(MATH 2940) AND COURSE(MAE 2030)	OK
+MAE 5270	equivalent CAD-based design course plus 2.5 years of engineering mathematics, including probability and statistics.	COURSE(Special requirement: CAD-based design course plus 2) COURSE(Special requirement: 5 years of engineering mathematics) AND COURSE(Special requirement: including probability) AND COURSE(Special requirement: statistics)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+MAE 5310	ENGRD 2210 and MAE 3240.	COURSE(ENGRD 2210) AND COURSE(MAE 3240)	OK
+MAE 5540	Prerequisite or corequisite: undergraduate-level coursework in thermodynamics, electromagnetism, and orbital mechanics.	COURSE(Special requirement: undergraduate-level coursework in thermodynamics) AND COURSE(Special requirement: electromagnetism) AND COURSE(Special requirement: orbital mechanics)	OK
+MAE 5730	MATH 2940 or equivalent.	COURSE(MATH 2940)	OK
+MAE 5780	CHEME 3720 or MAE 3260.	COURSE(CHEME 3720) OR COURSE(MAE 3260)	OK
+MAE 5910	Prerequisite or corequisite: enrollment in group-based project with strong system design component approved by course instructor.	COURSE(Special requirement: enrollment in group-based project with strong system design component approved by course instructor)	OK
+MAE 5930	ENGRD 2700 or CEE 3040, SYSEN 5100, or permission of instructor.	LPAREN COURSE(ENGRD 2700) OR COURSE(CEE 3040) OR COURSE(SYSEN 5100) RPAREN OR COURSE(Permission: permission of instructor)	OK
+MATH 1106	three years of high school mathematics, including trigonometry and logarithms, or a precalculus course (e.g., MATH 1101). No prior knowledge of calculus is required.	COURSE(Special requirement: three years of high school mathematics) AND COURSE(Special requirement: including trigonometry) AND COURSE(Special requirement: logarithms) OR COURSE(Special requirement: a precalculus course) OR COURSE(MATH 1101)	OK
+MATH 1110	three years of high school mathematics, including trigonometry and logarithms, or a precalculus course (e.g., MATH 1101).	COURSE(Special requirement: three years of high school mathematics) AND COURSE(Special requirement: including trigonometry) AND COURSE(Special requirement: logarithms) OR COURSE(Special requirement: a precalculus course) OR COURSE(MATH 1101)	OK
+MATH 1120	MATH 1110, excellent performance in MATH 1106, or equivalent AP credit.	COURSE(MATH 1110) OR COURSE(MATH 1106) OR COURSE(Special requirement: AP credit)	OK
+MATH 1710	High school mathematics. No previous familiarity with computers presumed.	COURSE(Special requirement: High school mathematics)	OK
+MATH 1910	Three years high school mathematics, including trigonometry and logarithms, and at least one course in differential and integral calculus (e.g., MATH 1110), or equivalent AP credit.	COURSE(Special requirement: Three years high school mathematics) AND COURSE(Special requirement: including trigonometry) AND COURSE(Special requirement: logarithms) AND COURSE(Special requirement: one course in differential) AND COURSE(Special requirement: integral calculus) OR COURSE(MATH 1110) OR COURSE(Special requirement: AP credit)	OK
+MATH 1920	MATH 1910 or equivalent AP credit.	COURSE(MATH 1910) OR COURSE(Special requirement: AP credit)	OK
+MATH 2210	MATH 1110-MATH 1120 with high performance, equivalent AP credit, or permission of department.	LPAREN COURSE(MATH 1110) AND COURSE(MATH 1120) OR COURSE(Special requirement: AP credit) RPAREN OR COURSE(Permission: permission of department)	OK
+MATH 2220	MATH 2210.	COURSE(MATH 2210)	OK
+MATH 2230	MATH 1110-MATH 1120 with a grade of A- or better, equivalent AP credit, or permission of instructor.	LPAREN COURSE(MATH 1110) AND COURSE(MATH 1120) OR COURSE(Special requirement: better) OR COURSE(Special requirement: AP credit) RPAREN OR COURSE(Permission: permission of instructor)	OK
+MATH 2310	MATH 1106, MATH 1110, or equivalent AP credit.	COURSE(MATH 1106) OR COURSE(MATH 1110) OR COURSE(Special requirement: AP credit)	OK
+MATH 2930	MATH 1920.	COURSE(MATH 1920)	OK
+MATH 2940	MATH 1920.	COURSE(MATH 1920)	OK
+MATH 3040	MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.	COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940)	OK
+MATH 3110	a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.	COURSE(Special requirement: a semester of linear algebra) LPAREN COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940) RPAREN AND COURSE(Special requirement: a semester of multivariable calculus) LPAREN COURSE(MATH 2220) OR COURSE(MATH 2240) OR COURSE(MATH 1920) RPAREN	OK
+MATH 3210	a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.	COURSE(Special requirement: a semester of linear algebra) LPAREN COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940) RPAREN AND COURSE(Special requirement: a semester of multivariable calculus) LPAREN COURSE(MATH 2220) OR COURSE(MATH 2240) OR COURSE(MATH 1920) RPAREN	OK
+MATH 3270	a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.	COURSE(Special requirement: a semester of linear algebra) LPAREN COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940) RPAREN AND COURSE(Special requirement: a semester of multivariable calculus) LPAREN COURSE(MATH 2220) OR COURSE(MATH 2240) OR COURSE(MATH 1920) RPAREN	OK
+MATH 3320	MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.	COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940)	OK
+MATH 4040	a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.	COURSE(Special requirement: a semester of linear algebra) LPAREN COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940) RPAREN AND COURSE(Special requirement: a semester of multivariable calculus) LPAREN COURSE(MATH 2220) OR COURSE(MATH 2240) OR COURSE(MATH 1920) RPAREN	OK
+MATH 4130	high level of performance in a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.	COURSE(Special requirement: high level of performance in a semester of linear algebra) LPAREN COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940) RPAREN AND COURSE(Special requirement: a semester of multivariable calculus) LPAREN COURSE(MATH 2220) OR COURSE(MATH 2240) OR COURSE(MATH 1920) RPAREN	OK
+MATH 4220	a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.	COURSE(Special requirement: a semester of linear algebra) LPAREN COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940) RPAREN AND COURSE(Special requirement: a semester of multivariable calculus) LPAREN COURSE(MATH 2220) OR COURSE(MATH 2240) OR COURSE(MATH 1920) RPAREN	OK
+MATH 4250	MATH 2210, MATH 2230-MATH 2240, MATH 2310, or MATH 2940 or equivalent and one additional mathematics course numbered 3000 or above.	COURSE(MATH 2210) AND COURSE(MATH 2230) AND COURSE(MATH 2240) OR COURSE(MATH 2310) OR COURSE(MATH 2940) AND COURSE(Special requirement: one additional mathematics course numbered 3000) OR COURSE(Special requirement: above)	OK
+MATH 4310	MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.	COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940)	OK
+MATH 4330	high level of performance in MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.	COURSE(Special requirement: high level of performance in) COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+MATH 4370	MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.	COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940)	OK
+MATH 4410	MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.	COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940)	OK
+MATH 4520	MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.	COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940)	OK
+MATH 4530	MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.	COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940)	OK
+MATH 4710	MATH 1110-MATH 1120, or equivalent.	COURSE(MATH 1110) AND COURSE(MATH 1120)	OK
+MATH 5220	a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.	COURSE(Special requirement: a semester of linear algebra) LPAREN COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940) RPAREN AND COURSE(Special requirement: a semester of multivariable calculus) LPAREN COURSE(MATH 2220) OR COURSE(MATH 2240) OR COURSE(MATH 1920) RPAREN	OK
+MATH 5250	MATH 2210, MATH 2230-MATH 2240, MATH 2310, or MATH 2940 or equivalent, and one additional mathematics course numbered 3000 or above.	COURSE(MATH 2210) AND COURSE(MATH 2230) AND COURSE(MATH 2240) OR COURSE(MATH 2310) OR COURSE(MATH 2940) AND COURSE(Special requirement: one additional mathematics course numbered 3000) OR COURSE(Special requirement: above)	OK
+MATH 5410	MATH 2210, MATH 2230, MATH 2310, or MATH 2940, or equivalent.	COURSE(MATH 2210) OR COURSE(MATH 2230) OR COURSE(MATH 2310) OR COURSE(MATH 2940)	OK
+MEDVL 2170	SPAN 2095, or CASE Q++.	COURSE(SPAN 2095) OR COURSE(Special requirement: CASE Q++)	OK
+MEDVL 4754	some previous background in archaeology, material culture studies, ancient history, or related fields.	COURSE(Special requirement: some previous background in archaeology) OR COURSE(Special requirement: material culture studies) OR COURSE(Special requirement: ancient history) OR COURSE(Special requirement: related fields)	OK
+MSE 1140	knowledge of Calculus, Physics, and Chemistry at the high school level.	COURSE(Special requirement: knowledge of Calculus) AND COURSE(Special requirement: Physics) AND COURSE(Special requirement: Chemistry at the high school level)	OK
+MSE 2610	PHYS 1112 or PHYS 1117.	COURSE(PHYS 1112) OR COURSE(PHYS 1117)	OK
+MSE 3010	CHEM 2090 and ENGRD 2620/MSE 2620.	COURSE(CHEM 2090) AND COURSE(ENGRD 2620) OR COURSE(MSE 2620)	OK
+MSE 3030	MATH 1920 and PHYS 1112.	COURSE(MATH 1920) AND COURSE(PHYS 1112)	OK
+MSE 3110	ENGRD 2610/MSE 2610 or ENGRD 2620/MSE 2620.	COURSE(ENGRD 2610) OR COURSE(MSE 2610) OR COURSE(ENGRD 2620) OR COURSE(MSE 2620)	OK
+MSE 4030	MSE 3070 and MSE 3120.	COURSE(MSE 3070) AND COURSE(MSE 3120)	OK
+MSE 4050	MSE 3120.	COURSE(MSE 3120)	OK
+MSE 4071	MSE 3070.	COURSE(MSE 3070)	OK
+MSE 4510	ENGRD 2020 or ENGRD 2610.	COURSE(ENGRD 2020) OR COURSE(ENGRD 2610)	OK
+MSE 5210	MSE 2610 or permission of instructor. Corequisite: MSE 3010 or permission of instructor.	LPAREN COURSE(MSE 2610) RPAREN OR COURSE(Permission: permission of instructor)	OK
+MSE 5320	MSE 2060, MSE 3030. Corequisite: MSE 3040 or equivalent background.	COURSE(MSE 2060) AND COURSE(MSE 3030)	OK
+MSE 5410	MSE 2620 or ECE 3150, or equivalent that covers basics on semiconductors, and semiconductor devices, MATH 2930-MATH 2940, CHEM 2090.	COURSE(MSE 2620) OR COURSE(ECE 3150) OR COURSE(Special requirement: that covers basics on semiconductors) AND COURSE(Special requirement: semiconductor devices) AND COURSE(MATH 2930) AND COURSE(MATH 2940) AND COURSE(CHEM 2090)	OK
+MSE 5411	Prerequisite or corequisite: ECE 4360/MSE 5410, AEP 6620 or equivalents.	COURSE(ECE 4360) OR COURSE(MSE 5410) OR COURSE(AEP 6620)	OK
+MSE 5625	statistical physics and/or thermodynamics; electrostatics; vector calculus; differential equations; basic scientific computing; introductory biology.	COURSE(Special requirement: statistical physics and/or thermodynamics) SEMICOLON COURSE(Special requirement: electrostatics) SEMICOLON COURSE(Special requirement: vector calculus) SEMICOLON COURSE(Special requirement: differential equations) SEMICOLON COURSE(Special requirement: basic scientific computing) SEMICOLON COURSE(Special requirement: introductory biology)	OK
+MSE 5801	engineering math and science equivalent to MATH 2940, PHYS 2214, and CHEM 2090.	COURSE(Special requirement: engineering math) AND COURSE(Special requirement: science equivalent to) COURSE(MATH 2940) AND COURSE(PHYS 2214) AND COURSE(CHEM 2090)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+MUSIC 2101	basic ability to read/write music, to sing/play an instrument, and to navigate the keyboard (advanced skills not necessary), as evaluated by diagnostic exam (administered in first class meeting of semester) and/or permission of instructor.	COURSE(Special requirement: basic ability to read/write music) AND COURSE(Special requirement: to sing/play an instrument) AND COURSE(Special requirement: to navigate the keyboard) LPAREN COURSE(Special requirement: advanced skills not necessary) RPAREN AND COURSE(Special requirement: as evaluated by diagnostic exam) LPAREN COURSE(Special requirement: administered in first class meeting of semester) RPAREN COURSE(Special requirement: and/or permission of instructor)	OK
+MUSIC 3122	ability to read staff notation.	COURSE(Special requirement: ability to read staff notation)	OK
+MUSIC 3431	Recommended prerequisite: some experience with audio/video recording or editing.	COURSE(Special requirement: some experience with audio/video recording) OR COURSE(Special requirement: editing)	OK
+MUSIC 3514	successful audition with faculty sponsor required.	COURSE(Special requirement: successful audition with faculty sponsor required)	OK
+MUSIC 4901	experience in proposed area of study.	COURSE(Special requirement: experience in proposed area of study)	OK
+NBA 5060	NCC 5000, NCC 5060 or permission of instructor.	LPAREN COURSE(NCC 5000) OR COURSE(NCC 5060) RPAREN OR COURSE(Permission: permission of instructor)	OK
+NBA 5090	NBA 5060, finance immersion course, or permission of instructor.	LPAREN COURSE(NBA 5060) OR COURSE(Special requirement: finance immersion course) RPAREN OR COURSE(Permission: permission of instructor)	OK
+NBA 5110	NCC 5000 or equivalent, as well as mastery of basic Excel skills.	COURSE(NCC 5000) OR COURSE(Special requirement: as well as mastery of basic Excel skills)	OK
+NBA 5121	NBA 5120.	COURSE(NBA 5120)	OK
+NBA 5130	NCC 5060 or equivalent.	COURSE(NCC 5060)	OK
+NBA 5430	NCC 5060 or NCC 5560.	COURSE(NCC 5060) OR COURSE(NCC 5560)	OK
+NBA 5540	NCC 5060 or equivalent.	COURSE(NCC 5060)	OK
+NBA 5550	NCC 5060, NCC 5010.	COURSE(NCC 5060) AND COURSE(NCC 5010)	OK
+NCC 5560	instructors of some sections may require a previous course in financial accounting.	COURSE(Special requirement: instructors of some sections may require a previous course in financial accounting)	OK
+NEPAL 2201	NEPAL 1122 or placement by examination.	COURSE(NEPAL 1122) OR COURSE(Special requirement: placement by examination)	OK
+NEPAL 3301	NEPAL 2202 or placement by examination.	COURSE(NEPAL 2202) OR COURSE(Special requirement: placement by examination)	OK
+NES 2201	URDU 1125.	COURSE(URDU 1125)	OK
+NES 3325	intermediate Urdu or same level of written and oral proficiency.	COURSE(Special requirement: intermediate Urdu) OR COURSE(Special requirement: same level of written) AND COURSE(Special requirement: oral proficiency)	OK
+NES 4654	some previous background in archaeology, material culture studies, ancient history, or related fields.	COURSE(Special requirement: some previous background in archaeology) OR COURSE(Special requirement: material culture studies) OR COURSE(Special requirement: ancient history) OR COURSE(Special requirement: related fields)	OK
+NMI 5170	NBA 6030.	COURSE(NBA 6030)	OK
+NS 2060	NS 1600, NS 2600.	COURSE(NS 1600) AND COURSE(NS 2600)	OK
+NS 2061	NS 1600, NS 2060, NS 2600.	COURSE(NS 1600) AND COURSE(NS 2060) AND COURSE(NS 2600)	OK
+NS 2450	students must have taken another NS course prior to requesting enrollment.	COURSE(Special requirement: students must have taken another NS course prior to requesting enrollment)	OK
+NS 2470	Recommended prerequisite: NS 1150 or NS 1220.	COURSE(NS 1150) OR COURSE(NS 1220)	OK
+NS 3200	one year college biology, one year college general chemistry, and CHEM 1570 or CHEM 3570 or permission of instructor.	LPAREN COURSE(Special requirement: one year college biology) AND COURSE(Special requirement: one year college general chemistry) AND COURSE(CHEM 1570) OR COURSE(CHEM 3570) RPAREN OR COURSE(Permission: permission of instructor)	OK
+NS 3320	undergraduate biochemistry, NS 3450, NS 3310 preferred, or (where possible) concurrent registration.	COURSE(Special requirement: undergraduate biochemistry) OR COURSE(NS 3450) OR COURSE(NS 3310) COURSE(Special requirement: preferred) OR LPAREN COURSE(Special requirement: where possible) RPAREN COURSE(Special requirement: concurrent registration)	INVALID: Consecutive COURSE tokens at position 4 (missing operator)
+NS 3450	college-level courses in general chemistry and biology; organic chemistry or concurrent registration.	COURSE(Special requirement: college-level courses in general chemistry) AND COURSE(Special requirement: biology) SEMICOLON COURSE(Special requirement: organic chemistry) OR COURSE(Special requirement: concurrent registration)	OK
+NS 4060	NS 1600, NS 2600. Recommended: STSCI 2150, NS 3600.	COURSE(NS 1600) AND COURSE(NS 2600) COURSE(STSCI 2150) AND COURSE(NS 3600)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+NS 4330	introductory biology course (BIOG 1440, BIOMG 3320 or equivalent) and introductory nutrition course (NS1150 or equivalent),	COURSE(Special requirement: introductory biology course) LPAREN COURSE(BIOG 1440) OR COURSE(BIOMG 3320) AND COURSE(Special requirement: introductory nutrition course) LPAREN COURSE(NS 1150)	OK
+NS 4410	NS 3200 or equivalent (can be taken concurrently). Recommended Prerequisites: NS 1150 or NS 1220; NS 3410 or NS 3420.	COURSE(NS 3200) OR LPAREN COURSE(Special requirement: can be taken concurrently) RPAREN	OK
+NS 4420	Prerequisite or corequisite: NS 1220, NS 2470, NS 4410, or permission of instructor.	LPAREN COURSE(NS 1220) OR COURSE(NS 2470) OR COURSE(NS 4410) RPAREN OR COURSE(Permission: permission of instructor)	OK
+NS 4430	NS 3410.	COURSE(NS 3410)	OK
+NS 4480	ECON 1110, AEM 2100, or equivalent, and 9 additional credits in economics, applied economics, or nutrition. Recommended prerequisite: ECON 3140, NS 3600, or equivalent.	COURSE(ECON 1110) OR COURSE(AEM 2100) AND COURSE(Special requirement: 9 additional credits in economics) OR COURSE(Special requirement: applied economics) OR COURSE(Special requirement: nutrition)	OK
+NS 4500	NS 1150, NS 1400, or NS 1600 (or equivalent) and an introductory social science course.	COURSE(NS 1150) OR COURSE(NS 1400) OR COURSE(NS 1600) AND COURSE(Special requirement: an introductory social science course)	OK
+NS 4570	introductory microeconomics and statistics or permission of instructor.	LPAREN COURSE(Special requirement: introductory microeconomics) AND COURSE(Special requirement: statistics) RPAREN OR COURSE(Permission: permission of instructor)	OK
+NS 4600	completion of all requirements for Global and Public Health Sciences major, or Global Health minor, or permission of instructor.	LPAREN COURSE(Special requirement: all requirements for Global) AND COURSE(Special requirement: Public Health Sciences major) OR COURSE(Special requirement: Global Health minor) RPAREN OR COURSE(Permission: permission of instructor)	OK
+NTRES 2100	one introductory college biology course.	COURSE(Special requirement: one introductory college biology course)	OK
+NTRES 3020	at least one of the following: a studio art class or a college-level biology class or a visual studies class or an environment and sustainability class or permission of instructor.	COURSE(Special requirement: a studio art class)	OK
+NTRES 3030	CHEM 2070 or equivalent, MATH 1120, and a course in biology and/or geology.	COURSE(CHEM 2070) OR COURSE(MATH 1120)	OK
+NTRES 3100	Recommended prerequisite: calculus (MATH 1106, MATH 1110 - AP calculus in high school is sufficient), background in Ecology or Biology.	COURSE(Special requirement: calculus) LPAREN COURSE(MATH 1106) OR COURSE(MATH 1110) COURSE(Special requirement: AP calculus in high school is sufficient) RPAREN OR COURSE(Special requirement: background in Ecology) OR COURSE(Special requirement: Biology)	INVALID: Consecutive COURSE tokens at position 4 (missing operator)
+ORIE 3300	MATH 2210 or MATH 2940.	COURSE(MATH 2210) OR COURSE(MATH 2940)	OK
+ORIE 3500	ENGRD 2700 or equivalent.	COURSE(ENGRD 2700)	OK
+ORIE 4130	ORIE 3500, ORIE 3510.	COURSE(ORIE 3500) AND COURSE(ORIE 3510)	OK
+ORIE 4570	ORIE 3300, ORIE 3500, and ORIE 3510.	COURSE(ORIE 3300) AND COURSE(ORIE 3500) AND COURSE(ORIE 3510)	OK
+ORIE 4580	CS 2110/ENGRD 2110. Corequisite: ORIE 3500 with the permission of instructor.	COURSE(CS 2110) OR COURSE(ENGRD 2110)	OK
+ORIE 4630	engineering math through MATH 2940, ENGRD 2700 and ORIE 3500, and knowledge of R and multiple linear regression equivalent to ORIE 3120. No previous knowledge of finance required.	COURSE(Special requirement: engineering math through) COURSE(MATH 2940) AND COURSE(ENGRD 2700) AND COURSE(ORIE 3500) AND COURSE(Special requirement: knowledge of R) AND COURSE(Special requirement: multiple linear regression equivalent to) COURSE(ORIE 3120)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+ORIE 4820	ENGRD 2700, ORIE 3300 or equivalent.	COURSE(ENGRD 2700) OR COURSE(ORIE 3300)	OK
+ORIE 5140	Prerequisite or corequisite: enrollment in group-based project with strong system design component approved by course instructor.	COURSE(Special requirement: enrollment in group-based project with strong system design component approved by course instructor)	OK
+ORIE 5235	coursework in ML, data science, law and policy or ethics, calculus and algebra, algorithms, and python programming. Recommended prerequisite: coursework in theory and optimization.	COURSE(Special requirement: coursework in ML) AND COURSE(Special requirement: data science) AND COURSE(Special requirement: law) AND COURSE(Special requirement: policy) OR COURSE(Special requirement: ethics) AND COURSE(Special requirement: calculus) AND COURSE(Special requirement: algebra) AND COURSE(Special requirement: algorithms) AND COURSE(Special requirement: python programming)	OK
+ORIE 5258	ENGRD 2700 and familiarity with Python.	COURSE(ENGRD 2700) AND COURSE(Special requirement: familiarity with Python)	OK
+ORIE 5300	MATH 2940.	COURSE(MATH 2940)	OK
+ORIE 5355	Recommended prerequisite: ENGRD 2700, CS 1380, or equivalent, and experience programming in Python. Recommended corequisite: INFO 5430 or CS 5785.	COURSE(ENGRD 2700) OR COURSE(CS 1380) AND COURSE(Special requirement: experience programming in Python)	OK
+ORIE 5500	ENGRD 2700.	COURSE(ENGRD 2700)	OK
+ORIE 5530	ENGRD 2700.	COURSE(ENGRD 2700)	OK
+ORIE 5570	ORIE 3150, ORIE 3300, and ORIE 3500, or equivalents.	COURSE(ORIE 3150) AND COURSE(ORIE 3300) AND COURSE(ORIE 3500)	OK
+ORIE 5580	ORIE 3500 or equivalent, CS 2110/ENGRD 2110. For students with insufficient background in probability, ORIE 3500 must be taken in parallel.	COURSE(ORIE 3500) OR COURSE(CS 2110) OR COURSE(ENGRD 2110) COURSE(Special requirement: For students with insufficient background in probability) AND COURSE(ORIE 3500) COURSE(Special requirement: must be taken in parallel)	INVALID: Consecutive COURSE tokens at position 4 (missing operator)
+ORIE 5581	ORIE 3500 or equivalent, CS 2110/ENGRD 2110. For students with insufficient background in probability, ORIE 3500 must be taken in parallel.	COURSE(ORIE 3500) OR COURSE(CS 2110) OR COURSE(ENGRD 2110) COURSE(Special requirement: For students with insufficient background in probability) AND COURSE(ORIE 3500) COURSE(Special requirement: must be taken in parallel)	INVALID: Consecutive COURSE tokens at position 4 (missing operator)
+ORIE 5600	ORIE 3510.	COURSE(ORIE 3510)	OK
+ORIE 5630	MATH 2940, ENGRD 2700, ORIE 3500, ORIE 3120.	COURSE(MATH 2940) AND COURSE(ENGRD 2700) AND COURSE(ORIE 3500) AND COURSE(ORIE 3120)	OK
+ORIE 5750	CS 2800 or equivalent and basic familiarity with Matlab or Python, or permission of instructor.	LPAREN COURSE(CS 2800) AND COURSE(Special requirement: basic familiarity with Matlab) OR COURSE(Special requirement: Python) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ORIE 5820	ENGRD 2700, ORIE 3300 or equivalent.	COURSE(ENGRD 2700) OR COURSE(ORIE 3300)	OK
+PE 1132	PADI Adventure Diver/Junior Adventure Diver (or qualifying certification) with completed Underwater Navigation Dive; EFR Primary and Secondary Care training (or qualifying training) within 24 months.	COURSE(Special requirement: PADI Adventure Diver/Junior Adventure Diver) OR COURSE(Special requirement: qualifying certification) RPAREN SEMICOLON COURSE(Special requirement: EFR Primary) AND COURSE(Special requirement: Secondary Care training) OR COURSE(Special requirement: qualifying training) RPAREN COURSE(Special requirement: within 24 months)	OK
+PE 1346	the student must have proof of a recent physical performed by a physician and at least one (1) semester of PE 1345.	COURSE(Special requirement: the student must have proof of a recent physical performed by a physician) AND LPAREN COURSE(Special requirement: semester of) COURSE(PE 1345)	INVALID: Consecutive COURSE tokens at position 3 (missing operator)
+PE 1424	Recommended prerequisite: some previous practice of yoga is strongly encouraged.	COURSE(Special requirement: some previous practice of yoga is strongly encouraged)	OK
+PE 1431	previous yoga experience.	COURSE(Special requirement: previous yoga experience)	OK
+PE 1441	students should have past experience in badminton.	COURSE(Special requirement: students should have past experience in badminton)	OK
+PE 1480	students must be able to swim 75 yards (equivalent to University swim test requirement).	COURSE(Special requirement: students must be able to swim 75 yards) LPAREN COURSE(Special requirement: to University swim test requirement) RPAREN	OK
+PE 1482	students must be able to swim 75 yards (equivalent to University swim test requirement).	COURSE(Special requirement: students must be able to swim 75 yards) LPAREN COURSE(Special requirement: to University swim test requirement) RPAREN	OK
+PE 1582	PE 1580 or at least one year of weight training experience, including familiarity with proper squat and deadlift technique.	COURSE(PE 1580) OR COURSE(Special requirement: one year of weight training experience) AND COURSE(Special requirement: including familiarity with proper squat) AND COURSE(Special requirement: deadlift technique)	OK
+PE 1608	able to run comfortably for 50 minutes.	COURSE(Special requirement: able to run comfortably for 50 minutes)	OK
+PE 1646	basic Rock Climbing or equivalent personal experience and previous Top Rope Belay Certification at the Lindseth Climbing Center.	COURSE(Special requirement: basic Rock Climbing) OR COURSE(Special requirement: personal experience) AND COURSE(Special requirement: previous Top Rope Belay Certification at the Lindseth Climbing Center)	OK
+PE 1647	basic Rock Climbing or equivalent personal experience and Top Rope Belay Certification at the Lindseth Climbing Center.	COURSE(Special requirement: basic Rock Climbing) OR COURSE(Special requirement: personal experience) AND COURSE(Special requirement: Top Rope Belay Certification at the Lindseth Climbing Center)	OK
+PE 1662	relatively comfortable at heights of 20-25 feet.	COURSE(Special requirement: relatively comfortable at heights of 20-25 feet)	OK
+PE 1664	ability to comfortably ride a bike.	COURSE(Special requirement: ability to comfortably ride a bike)	OK
+PE 1671	recreational swimmer.	COURSE(Special requirement: recreational swimmer)	OK
+PE 1675	recreational swimmer.	COURSE(Special requirement: recreational swimmer)	OK
+PE 1681	strong recreational swimmer.	COURSE(Special requirement: strong recreational swimmer)	OK
+PERSN 1322	one year (two semesters) elementary Persian, equivalent proficiency (including heritage speakers), or permission of instructor.	LPAREN COURSE(Special requirement: one year) LPAREN COURSE(Special requirement: two semesters) RPAREN COURSE(Special requirement: elementary Persian) OR COURSE(Special requirement: proficiency) LPAREN COURSE(Special requirement: including heritage speakers) RPAREN RPAREN OR COURSE(Permission: permission of instructor)	OK
+PHIL 3203	at least one previous course in philosophy at the 2000 level or above, or permission of the instructor.	LPAREN COURSE(Special requirement: one previous course in philosophy at the 2000 level) OR COURSE(Special requirement: above) RPAREN OR COURSE(Permission: permission of the instructor)	OK
+PHIL 3222	at least one prior course in philosophy, or permission of instructor.	LPAREN COURSE(Special requirement: one prior course in philosophy) RPAREN OR COURSE(Permission: permission of instructor)	OK
+PHIL 3610	one previous course in philosophy, or permission of the instructor.	LPAREN COURSE(Special requirement: one previous course in philosophy) RPAREN OR COURSE(Permission: permission of the instructor)	OK
+PHIL 3830	at least one prior course in Philosophy.	COURSE(Special requirement: one prior course in Philosophy)	OK
+PHIL 4200	at least one prior course in philosophy.	COURSE(Special requirement: one prior course in philosophy)	OK
+PHIL 4730	LING 3303 or permission of instructor.	LPAREN COURSE(LING 3303) RPAREN OR COURSE(Permission: permission of instructor)	OK
+PHIL 4901	PHIL 4900.	COURSE(PHIL 4900)	OK
+PHYS 1101	three years of high school mathematics, including trigonometry.	COURSE(Special requirement: three years of high school mathematics) AND COURSE(Special requirement: including trigonometry)	OK
+PHYS 1112	MATH 1910 or MATH 1120. Recommended corequisite: MATH 1920 in order to continue with PHYS 2213 the following semester. Corequisite: PHYS 1110 must be taken to remain enrolled in PHYS 1112. MATH 1910 may be allowed by instructor in exceptional cases, but continuation in PHYS 2213 will then have to be deferred until MATH 1920 is completed.	COURSE(MATH 1910) OR COURSE(MATH 1120)	OK
+PHYS 1190	three transfer credits for introductory physics lecture material and a degree requirement for laboratory component of that introductory course.	COURSE(Special requirement: three transfer credits for introductory physics lecture material) AND COURSE(Special requirement: a degree requirement for laboratory component of that introductory course)	OK
+PHYS 1205	students must be able to swim (75 yds or equivalent to university swim test requirement).	COURSE(Special requirement: students must be able to swim) LPAREN COURSE(Special requirement: 75 yds) OR COURSE(Special requirement: to university swim test requirement) RPAREN	OK
+PHYS 2207	high school physics plus MATH 1110 or MATH 1106, or solid understanding of the basic concepts of introductory calculus.	COURSE(Special requirement: high school physics plus) COURSE(MATH 1110) OR COURSE(MATH 1106) OR COURSE(Special requirement: solid understanding of the basic concepts of introductory calculus)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+PHYS 2210	PHYS 1110.	COURSE(PHYS 1110)	OK
+PHYS 2213	PHYS 1112 (or strong performance in PHYS 2207) and one of MATH 1920, MATH 2220, or MATH 2240.	COURSE(PHYS 1112) OR COURSE(Special requirement: strong performance in) COURSE(PHYS 2207) RPAREN AND COURSE(Special requirement: one of) COURSE(MATH 1920) OR COURSE(MATH 2220) OR COURSE(MATH 2240)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+PHYS 2214	PHYS 2213 (or strong performance in PHYS 2208), plus vector calculus at the level of one of the following: MATH 1920, MATH 2220, or MATH 2240.	COURSE(PHYS 2213) OR COURSE(Special requirement: strong performance in) COURSE(PHYS 2208) RPAREN OR COURSE(Special requirement: vector calculus at the level of one of the following:) COURSE(MATH 1920) OR COURSE(MATH 2220) OR COURSE(MATH 2240)	INVALID: Consecutive COURSE tokens at position 2 (missing operator)
+PHYS 2216	PHYS 1112 or PHYS 2207 or permission of instructor.	LPAREN COURSE(PHYS 1112) OR COURSE(PHYS 2207) RPAREN OR COURSE(Permission: permission of instructor)	OK
+PHYS 3310	PHYS 2208 or PHYS 2214 or PHYS 2218.	COURSE(PHYS 2208) OR COURSE(PHYS 2214) OR COURSE(PHYS 2218)	OK
+PHYS 3316	PHYS 2214 or PHYS 2218; PHYS 1116 or PHYS 2216; and coregistration in MATH 2940 or  MATH 2210 or MATH 2230.	COURSE(PHYS 2214) OR COURSE(PHYS 2218) SEMICOLON COURSE(PHYS 1116) OR COURSE(PHYS 2216) SEMICOLON AND COURSE(Special requirement: coregistration in) COURSE(MATH 2940) OR COURSE(MATH 2210) OR COURSE(MATH 2230)	INVALID: Consecutive COURSE tokens at position 9 (missing operator)
+PHYS 3317	PHYS 3316.	COURSE(PHYS 3316)	OK
+PHYS 3327	PHYS 2217/PHYS 2218, or PHYS 2213/PHYS 2214. Recommended prerequisite: AEP 3200. Corequisite: AEP 4200 or appropriate mathematics course(s) that cover complex analysis, vector calculus, Fourier transforms and techniques for studying boundary value problems recommended.	COURSE(PHYS 2217) OR COURSE(PHYS 2218) OR COURSE(PHYS 2213) OR COURSE(PHYS 2214)	OK
+PHYS 4400	two years physics.	COURSE(Special requirement: two years physics)	OK
+PHYS 4410	PHYS 3327, PHYS 3318.	COURSE(PHYS 3327) AND COURSE(PHYS 3318)	OK
+PHYS 4445	classical mechanics at the level of PHYS 3318 and special relativity at the level of PHYS 1116 or PHYS 2216. Electromagnetism at the level of PHYS 3327 is useful.	COURSE(Special requirement: classical mechanics at the level of) COURSE(PHYS 3318) AND COURSE(Special requirement: special relativity at the level of) COURSE(PHYS 1116) OR COURSE(PHYS 2216)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+PHYS 4485	previous enrollment in course to be taught or equivalent, and concurrent or previous enrollment in PHYS 4484.	COURSE(Special requirement: previous enrollment in course to be taught) AND COURSE(Special requirement: concurrent) OR COURSE(Special requirement: previous enrollment in) COURSE(PHYS 4484)	INVALID: Consecutive COURSE tokens at position 4 (missing operator)
+PHYS 4486	minimum grade of A in PHYS 1101/PHYS 1102/PHYS 2207/PHYS 2208, or A- in PHYS 1112/PHYS 2213, or B+ in PHYS 1116/PHYS 2217, or comparable AP or transfer credit.	ERROR	EXCEPTION: No match found
+PHYS 4498	completion of the core requirements for the physics major.	COURSE(Special requirement: the core requirements for the physics major)	OK
+PHYS 5520	statistical physics and/or thermodynamics; electrostatics; vector calculus; differential equations; basic scientific computing; introductory biology.	COURSE(Special requirement: statistical physics and/or thermodynamics) SEMICOLON COURSE(Special requirement: electrostatics) SEMICOLON COURSE(Special requirement: vector calculus) SEMICOLON COURSE(Special requirement: differential equations) SEMICOLON COURSE(Special requirement: basic scientific computing) SEMICOLON COURSE(Special requirement: introductory biology)	OK
+PLSCI 2480	BIOEE 1780 or PLSCI 2410.	COURSE(BIOEE 1780) OR COURSE(PLSCI 2410)	OK
+PLSCI 3010	one year of biology.	COURSE(Special requirement: one year of biology)	OK
+PLSCI 3100	a minimum of one semester of introductory biology (either BIOG 1140, BIOG 1440, or BIOMG 1350) or one semester of organic chemistry (either CHEM 1570, CHEM 3530, or CHEM 3570); or permission of instructor.	LPAREN COURSE(Special requirement: a minimum of one semester of introductory biology) LPAREN COURSE(BIOG 1140) OR COURSE(BIOG 1440) OR COURSE(BIOMG 1350) RPAREN OR COURSE(Special requirement: one semester of organic chemistry) LPAREN COURSE(CHEM 1570) OR COURSE(CHEM 3530) OR COURSE(CHEM 3570) RPAREN SEMICOLON RPAREN OR COURSE(Permission: permission of instructor)	OK
+PLSCI 3150	introductory course in biology or botany.	COURSE(Special requirement: introductory course in biology) OR COURSE(Special requirement: botany)	OK
+PLSCI 3210	PLSCI 1900 or PLSCI 2600.	COURSE(PLSCI 1900) OR COURSE(PLSCI 2600)	OK
+PLSCI 3440	Recommended prerequisite: PLSCI 2250 or BIOMG 2800.	COURSE(PLSCI 2250) OR COURSE(BIOMG 2800)	OK
+PLSCI 4030	BIOMG 2800 or PLSCI 2250 or other standard genetics course, plus a course in crops or horticulture.	COURSE(BIOMG 2800) OR COURSE(PLSCI 2250) OR COURSE(Special requirement: other standard genetics course)	OK
+PLSCI 4070	one majors-level biology course or permission of instructors.	LPAREN COURSE(Special requirement: one majors-level biology course) RPAREN OR COURSE(Permission: permission of instructor)	OK
+PLSCI 4080	Prerequisite or corequisite: PLSCI 4030 or equivalent.	COURSE(PLSCI 4030)	OK
+PLSCI 4100	PLSCI 3420 or equivalent, plus PLSCI 3430 or equivalent.	COURSE(PLSCI 3420) OR COURSE(PLSCI 3430)	OK
+PLSCI 4220	PLSCI 2410, plus BIOMG 2800 or PLSCI 2250.	COURSE(PLSCI 2410) OR COURSE(BIOMG 2800) OR COURSE(PLSCI 2250)	OK
+PLSCI 4290	knowledge of the basics of remote sensing, calculus, physics, and programming skills, and some background in agro-ecosystems.	COURSE(Special requirement: knowledge of the basics of remote sensing) AND COURSE(Special requirement: calculus) AND COURSE(Special requirement: physics) AND COURSE(Special requirement: programming skills) AND COURSE(Special requirement: some background in agro-ecosystems)	OK
+PLSCI 4300	two semesters of general biology.	COURSE(Special requirement: two semesters of general biology)	OK
+PLSCI 4450	college-level statistics course and experience reading peer-reviewed journal articles.	COURSE(Special requirement: college-level statistics course) AND COURSE(Special requirement: experience reading peer-reviewed journal articles)	OK
+PLSCI 4540	one year of college-level introductory biology.	COURSE(Special requirement: one year of college-level introductory biology)	OK
+PLSCI 4620	PLSCI 3420, plus BIOMG 3300 or BIOMG 3310.	COURSE(PLSCI 3420) OR COURSE(BIOMG 3300) OR COURSE(BIOMG 3310)	OK
+PLSCI 4730	BIOEE 1610 or PLSCI 2430.	COURSE(BIOEE 1610) OR COURSE(PLSCI 2430)	OK
+PLSCI 4980	previous enrollment in course to be taught or equivalent.	COURSE(Special requirement: previous enrollment in course to be taught)	OK
+PLSCI 4990	GPA of at least 3.0.	COURSE(Special requirement: GPA of at least 3)	OK
+PLSCI 5290	knowledge of the basics of remote sensing, calculus, physics, and programming skills, and some background in agro-ecosystems.	COURSE(Special requirement: knowledge of the basics of remote sensing) AND COURSE(Special requirement: calculus) AND COURSE(Special requirement: physics) AND COURSE(Special requirement: programming skills) AND COURSE(Special requirement: some background in agro-ecosystems)	OK
+PMA 3680	Recommended prerequisite: some experience with audio/video recording or editing.	COURSE(Special requirement: some experience with audio/video recording) OR COURSE(Special requirement: editing)	OK
+PMA 3800	PMA 2800 and audition.	COURSE(PMA 2800) AND COURSE(Special requirement: audition)	OK
+POLSH 1132	POLSH 1131 or permission of instructor.	LPAREN COURSE(POLSH 1131) RPAREN OR COURSE(Permission: permission of instructor)	OK
+PORT 2010	PORT 1220.	COURSE(PORT 1220)	OK
+PSYCH 2750	Recommended prerequisite: introductory psychology or human development course.	COURSE(Special requirement: introductory psychology) OR COURSE(Special requirement: human development course)	OK
+PSYCH 2830	Recommended prerequisite: HD 1150.	COURSE(HD 1150)	OK
+PSYCH 3190	at least one of the following: HD 1130 , PSYCH 1101, or PSYCH 2650.	COURSE(HD 1130) OR COURSE(PSYCH 1101) OR COURSE(PSYCH 2650)	OK
+PSYCH 3240	PSYCH 2230 or BIONB 2220.	COURSE(PSYCH 2230) OR COURSE(BIONB 2220)	OK
+PSYCH 3250	any one course in psychology or human development.	COURSE(Special requirement: any one course in psychology) OR COURSE(Special requirement: human development)	OK
+PSYCH 4670	HD 3300/PSYCH 3310 or HD 3320.	COURSE(HD 3300) OR COURSE(PSYCH 3310) OR COURSE(HD 3320)	OK
+PUBPOL 2040	PUBPOL 2000.	COURSE(UBPOL 2000)	OK
+PUBPOL 3015	ECON 1110.	COURSE(ECON 1110)	OK
+PUBPOL 3080	PUBPOL 2000 or equivalent and PUBPOL 3100 or equivalent.	COURSE(UBPOL 2000) AND COURSE(UBPOL 3100)	OK
+PUBPOL 3190	PUBPOL 2000 or ECON 3030 (or equivalent) and PUBPOL 3100 (or an equivalent course in basic econometrics).	COURSE(UBPOL 2000) OR COURSE(ECON 3030) AND COURSE(UBPOL 3100) OR COURSE(Special requirement: an equivalent course in basic econometrics) RPAREN	OK
+PUBPOL 3280	Recommended prerequisite: at least one of the following GDEV 2200, HD 1150, HD 1170, HD 2180, PUBPOL 2030, PUBPOL 2100, PUBPOL 2208, PUBPOL 2300, PUBPOL 2350, PSYCH 1101, SOC 1101.	COURSE(GDEV 2200) AND COURSE(HD 1150) AND COURSE(HD 1170) AND COURSE(HD 2180) AND COURSE(UBPOL 2030) AND COURSE(UBPOL 2100) AND COURSE(UBPOL 2208) AND COURSE(UBPOL 2300) AND COURSE(UBPOL 2350) AND COURSE(PSYCH 1101) AND COURSE(SOC 1101)	OK
+PUBPOL 3400	PUBPOL 2000 (or equivalent) or with instructor permission.	COURSE(UBPOL 2000)	OK
+PUBPOL 3520	PUBPOL 3100 (or equivalent) and MATH 1110 (or equivalent).	COURSE(UBPOL 3100) AND COURSE(MATH 1110)	OK
+PUBPOL 3560	ECON 1110 (or equivalent) or PUBPOL 5210 (or equivalent).	COURSE(ECON 1110) OR COURSE(UBPOL 5210)	OK
+PUBPOL 3610	PUBPOL 2000 or ECON 3030.	COURSE(UBPOL 2000) OR COURSE(ECON 3030)	OK
+PUBPOL 3670	ECON 1110.	COURSE(ECON 1110)	OK
+PUBPOL 3720	PUBPOL 2300 or PUBPOL 2350 or PUBPOL 3280.	COURSE(UBPOL 2300) OR COURSE(UBPOL 2350) OR COURSE(UBPOL 3280)	OK
+PUBPOL 4080	PUBPOL 2030.	COURSE(UBPOL 2030)	OK
+PUBPOL 4390	PUBPOL 3100 or equivalent.	COURSE(UBPOL 3100)	OK
+PUBPOL 4980	PUBPOL 3120.	COURSE(UBPOL 3120)	OK
+PUBPOL 4990	PUBPOL 3120.	COURSE(UBPOL 3120)	OK
+PUBPOL 5080	PUBPOL 2000 and PUBPOL 3100 (or equivalent).	COURSE(UBPOL 2000) AND COURSE(UBPOL 3100)	OK
+PUBPOL 5190	PUBPOL 2000 or ECON 3030 (or equivalent) and PUBPOL 3100 (or an equivalent course in basic econometrics).	COURSE(UBPOL 2000) OR COURSE(ECON 3030) AND COURSE(UBPOL 3100) OR COURSE(Special requirement: an equivalent course in basic econometrics) RPAREN	OK
+PUBPOL 5362	enrollment in Executive Master of Public Administration (EMPA) Program.	COURSE(Special requirement: enrollment in Executive Master of Public Administration) LPAREN COURSE(Special requirement: EMPA) RPAREN COURSE(Special requirement: Program)	OK
+PUBPOL 5390	PUPPOL 5301 and PUBPOL 5302 (or equivalent).	COURSE(UPPOL 5301) AND COURSE(UBPOL 5302)	OK
+PUBPOL 5400	PUBPOL 2000 (or equivalent) and ECON 3030 (or equivalent).	COURSE(UBPOL 2000) AND COURSE(ECON 3030)	OK
+PUBPOL 5560	ECON 1110 (or equivalent) or PUBPOL 5210 (or equivalent).	COURSE(ECON 1110) OR COURSE(UBPOL 5210)	OK
+PUBPOL 5630	PUBPOL 5620.	COURSE(UBPOL 5620)	OK
+PUBPOL 5690	at least one statistics course.	COURSE(Special requirement: one statistics course)	OK
+PUBPOL 5717	PUBPOL 5210 or ECON 3030 (or equivalent).	COURSE(UBPOL 5210) OR COURSE(ECON 3030)	OK
+PUBPOL 5720	PUBPOL 2300 or PUBPOL 2350 or PUBPOL 3280.	COURSE(UBPOL 2300) OR COURSE(UBPOL 2350) OR COURSE(UBPOL 3280)	OK
+PUBPOL 5767	enrollment in the Executive Master of Public Administration (EMPA) Program.	COURSE(Special requirement: enrollment in the Executive Master of Public Administration) LPAREN COURSE(Special requirement: EMPA) RPAREN COURSE(Special requirement: Program)	OK
+PUBPOL 5823	PUBPOL 5813.	COURSE(UBPOL 5813)	OK
+PUNJB 2201	PUNJB 1121 - PUNJB 1122 or equivalent.	COURSE(PUNJB 1121) AND COURSE(PUNJB 1122)	OK
+REAL 5561	CRP 5560.	COURSE(CRP 5560)	OK
+RELST 4021	one course in Asian religions on Buddhism.	COURSE(Special requirement: one course in Asian religions on Buddhism)	OK
+RELST 4480	one 3000 level course in the humanities; some knowledge of Asian history.	COURSE(Special requirement: one 3000 level course in the humanities) SEMICOLON COURSE(Special requirement: some knowledge of Asian history)	OK
+RUSSA 1125	for seminar 101 (non-native speakers of Russian), RUSSA 1122 or placement by department; for seminar 102 (native speakers of Russian), placement by department.	COURSE(Special requirement: for seminar 101) LPAREN COURSE(Special requirement: non-native speakers of Russian) RPAREN OR COURSE(RUSSA 1122) OR COURSE(Special requirement: placement by department) SEMICOLON COURSE(Special requirement: for seminar 102) LPAREN COURSE(Special requirement: native speakers of Russian) RPAREN AND COURSE(Special requirement: placement by department)	OK
+RUSSA 2203	RUSSA 1122 and RUSSA 1104, or RUSSA 1122 with grade higher than B, or placement by department after completing RUSSA 1132 or studying Russian elsewhere.	COURSE(RUSSA 1122) AND COURSE(RUSSA 1104) OR COURSE(RUSSA 1122) OR COURSE(Special requirement: placement by department after completing) COURSE(RUSSA 1132) OR COURSE(Special requirement: studying Russian elsewhere)	INVALID: Consecutive COURSE tokens at position 6 (missing operator)
+RUSSA 3303	RUSSA 2204 or equivalent.	COURSE(RUSSA 2204)	OK
+RUSSA 3305	placement by department.	COURSE(Special requirement: placement by department)	OK
+RUSSA 4433	four years of college Russian or equivalent.	COURSE(Special requirement: four years of college Russian)	OK
+SANSK 2251	SANSK 1132 or permission of instructor.	LPAREN COURSE(SANSK 1132) RPAREN OR COURSE(Permission: permission of instructor)	OK
+SANSK 3301	two years study of Sanskrit or equivalent.	COURSE(Special requirement: two years study of Sanskrit)	OK
+SINHA 2201	SINHA 1122 or equivalent or permission of instructor.	LPAREN COURSE(SINHA 1122) RPAREN OR COURSE(Permission: permission of instructor)	OK
+SINHA 3301	SINHA 2201 or SINHA 2202.	COURSE(SINHA 2201) OR COURSE(SINHA 2202)	OK
+SINHA 4400	SINHA 3301.	COURSE(SINHA 3301)	OK
+SOC 4960	SOC 4950.	COURSE(SOC 4950)	OK
+SPAN 1210	students with no previous knowledge of Spanish, up to two years of high school Spanish, LPS score lower than 37.	COURSE(Special requirement: students with no previous knowledge of Spanish) AND COURSE(Special requirement: up to two years of high school Spanish) AND COURSE(Special requirement: LPS score lower than 37)	OK
+SPAN 1230	SPAN 1120, SPAN 1220, or LPS 45-55.	COURSE(SPAN 1120) OR COURSE(SPAN 1220) OR COURSE(Special requirement: LPS 45-55)	OK
+SPAN 1250	SPAN 1120, SPAN 1220, or LPS 45-55.	COURSE(SPAN 1120) OR COURSE(SPAN 1220) OR COURSE(Special requirement: LPS 45-55)	OK
+SPAN 2000	LSP 56 or higher, CASE placement.	COURSE(Special requirement: LSP 56) OR COURSE(Special requirement: higher) AND COURSE(Special requirement: CASE placement)	OK
+SPAN 2070	SPAN 1230, LPS 56-64, Q on CASE exam.	COURSE(SPAN 1230) AND COURSE(Special requirement: LPS 56-64) AND COURSE(Special requirement: Q on CASE exam)	OK
+SPAN 2090	SPAN 1230, or LPS 56-64, or CASE Q.	COURSE(SPAN 1230) OR COURSE(Special requirement: LPS 56-64) OR COURSE(Special requirement: CASE Q)	OK
+SPAN 2095	SPAN 2070, SPAN 2090, or CASE Q+.	COURSE(SPAN 2070) OR COURSE(SPAN 2090) OR COURSE(Special requirement: CASE Q+)	OK
+SPAN 2140	SPAN 2095 , or CASE Q++.	COURSE(SPAN 2095) OR COURSE(Special requirement: CASE Q++)	OK
+SPAN 2150	SPAN 2095, or CASE Q++.	COURSE(SPAN 2095) OR COURSE(Special requirement: CASE Q++)	OK
+SPAN 2170	SPAN 2095, or CASE Q++.	COURSE(SPAN 2095) OR COURSE(Special requirement: CASE Q++)	OK
+SPAN 2180	SPAN 2095 or CASE Q++ or permission of instructor required.	LPAREN COURSE(SPAN 2095) OR COURSE(Special requirement: CASE Q++) RPAREN OR COURSE(Permission: permission of instructor required)	OK
+SPAN 2235	SPAN 2095 or CASE Q++ or permission of instructor required.	LPAREN COURSE(SPAN 2095) OR COURSE(Special requirement: CASE Q++) RPAREN OR COURSE(Permission: permission of instructor required)	OK
+SPAN 3170	SPAN 2095, SPAN 2140, SPAN 2150, SPAN 2170, or CASE Q++.	COURSE(SPAN 2095) OR COURSE(SPAN 2140) OR COURSE(SPAN 2150) OR COURSE(SPAN 2170) OR COURSE(Special requirement: CASE Q++)	OK
+SPAN 3620	SPAN 2140, SPAN 2150, SPAN 2170, or CASE Q++.	COURSE(SPAN 2140) OR COURSE(SPAN 2150) OR COURSE(SPAN 2170) OR COURSE(Special requirement: CASE Q++)	OK
+STS 3020	completion at least one college-level writing course.	COURSE(Special requirement: completion at least one college-level writing course)	OK
+STS 3474	ANTHR 1101.	COURSE(ANTHR 1101)	OK
+STSCI 2110	AEM 2100, CRP 1200, ENGRD 2700, HADM 2010, ILRST 2100, MATH 1710, PUBPOL 2100, PUBPOL 2101, PSYCH 2500, SOC 3010, STSCI 2100, or STSCI 2150.	COURSE(AEM 2100) OR COURSE(CRP 1200) OR COURSE(ENGRD 2700) OR COURSE(HADM 2010) OR COURSE(ILRST 2100) OR COURSE(MATH 1710) OR COURSE(UBPOL 2100) OR COURSE(UBPOL 2101) OR COURSE(PSYCH 2500) OR COURSE(SOC 3010) OR COURSE(STSCI 2100) OR COURSE(STSCI 2150)	OK
+STSCI 2130	AEM 2100,CRP 1200, ENGRD 2700, HADM 2010, ILRST 2100, MATH 1710, PUBPOL 2100, PUBPOL 2101, PSYCH 2500, SOC 3010, STSCI 2100, or STSCI 2150.	COURSE(AEM 2100) OR COURSE(CRP 1200) OR COURSE(ENGRD 2700) OR COURSE(HADM 2010) OR COURSE(ILRST 2100) OR COURSE(MATH 1710) OR COURSE(UBPOL 2100) OR COURSE(UBPOL 2101) OR COURSE(PSYCH 2500) OR COURSE(SOC 3010) OR COURSE(STSCI 2100) OR COURSE(STSCI 2150)	OK
+STSCI 2200	MATH 1110 or equivalent.	COURSE(MATH 1110)	OK
+STSCI 2220	STSCI 2120 or permission of instructor.	LPAREN COURSE(STSCI 2120) RPAREN OR COURSE(Permission: permission of instructor)	OK
+STSCI 3080	STSCI 2150 or STSCI 2200, MATH 1120 and MATH 2220 or their equivalents.	COURSE(STSCI 2150) OR COURSE(STSCI 2200) AND COURSE(MATH 1120) AND COURSE(MATH 2220)	OK
+STSCI 3090	BTRY 3080 or permission from the instructor.	COURSE(BTRY 3080) OR COURSE(Special requirement: permission from the instructor)	OK
+STSCI 3110	MATH 1106 or MATH 1110.	COURSE(MATH 1106) OR COURSE(MATH 1110)	OK
+STSCI 3740	CS 1112 or equivalent, MATH 2220, STSCI 3200, STSCI 3080 or MATH 4710.	COURSE(CS 1112) OR COURSE(MATH 2220) OR COURSE(STSCI 3200) OR COURSE(STSCI 3080) OR COURSE(MATH 4710)	OK
+STSCI 3900	STSCI 2100 or PSYCH 2500 or SOC 3010 or ECON 3110 or equivalent.	COURSE(STSCI 2100) OR COURSE(PSYCH 2500) OR COURSE(SOC 3010) OR COURSE(ECON 3110)	OK
+STSCI 4030	STSCI 2150 or STSCI 2200/BTRY 3010, BTRY 3080, MATH 1920, MATH 2210 or their equivalents, STSCI 3200/BTRY 3020 or BTRY 6020.	COURSE(STSCI 2150) OR COURSE(STSCI 2200) OR COURSE(BTRY 3010) OR COURSE(BTRY 3080) OR COURSE(MATH 1920) OR COURSE(MATH 2210) OR COURSE(STSCI 3200) OR COURSE(BTRY 3020) OR COURSE(BTRY 6020)	OK
+STSCI 4050	STSCI 3080, STSCI 3200 or equivalents.	COURSE(STSCI 3080) OR COURSE(STSCI 3200)	OK
+STSCI 4060	basic programming skills (any language), one introductory Statistics course, SQL (Oracle preferred).	COURSE(Special requirement: basic programming skills) LPAREN COURSE(Special requirement: any language) RPAREN AND COURSE(Special requirement: one introductory Statistics course) AND COURSE(Special requirement: SQL) LPAREN COURSE(Special requirement: Oracle preferred) RPAREN	OK
+STSCI 4090	BTRY 3080 or MATH 4710 or equivalent and BTRY 3010 or equivalent.	COURSE(BTRY 3080) OR COURSE(MATH 4710) AND COURSE(BTRY 3010)	OK
+STSCI 4110	BTRY 3020, BTRY 6020, or equivalent with BTRY 3080 or MATH 4710 also highly recommended.	ERROR	EXCEPTION: No match found
+STSCI 4630	engineering math through MATH 2940, ENGRD 2700 and ORIE 3500, and knowledge of R and multiple linear regression equivalent to ORIE 3120. No previous knowledge of finance required.	COURSE(Special requirement: engineering math through) COURSE(MATH 2940) AND COURSE(ENGRD 2700) AND COURSE(ORIE 3500) AND COURSE(Special requirement: knowledge of R) AND COURSE(Special requirement: multiple linear regression equivalent to) COURSE(ORIE 3120)	INVALID: Consecutive COURSE tokens at position 0 (missing operator)
+STSCI 4981	STSCI 4980.	COURSE(STSCI 4980)	OK
+STSCI 5030	STSCI 2150 or STSCI 2200/BTRY 3010, BTRY 3080, MATH 1920, MATH 2210 or their equivalents, STSCI 3200/BTRY 3020 or BTRY 6020.	COURSE(STSCI 2150) OR COURSE(STSCI 2200) OR COURSE(BTRY 3010) OR COURSE(BTRY 3080) OR COURSE(MATH 1920) OR COURSE(MATH 2210) OR COURSE(STSCI 3200) OR COURSE(BTRY 3020) OR COURSE(BTRY 6020)	OK
+STSCI 5045	STSCI 5060 (or basic SQL programming skill), and one intro statistics course.	COURSE(STSCI 5060) OR COURSE(Special requirement: basic SQL programming skill) RPAREN AND COURSE(Special requirement: one intro statistics course)	OK
+STSCI 5050	STSCI 3200, STSCI 3080 or equivalents.	COURSE(STSCI 3200) OR COURSE(STSCI 3080)	OK
+STSCI 5080	STSCI 2150 or STSCI 2200/BTRY 3010 or equivalent.	COURSE(STSCI 2150) OR COURSE(STSCI 2200) OR COURSE(BTRY 3010)	OK
+STSCI 5090	BTRY 3080 or MATH 4710, or equivalent and STSCI 2200 or equivalent.	COURSE(BTRY 3080) OR COURSE(MATH 4710) AND COURSE(STSCI 2200)	OK
+STSCI 5110	STSCI 5200, BTRY 6010, ILRST 5100, or BTRY 5010.	COURSE(STSCI 5200) OR COURSE(BTRY 6010) OR COURSE(ILRST 5100) OR COURSE(BTRY 5010)	OK
+STSCI 5160	BTRY 3020, BTRY 6020, or equivalent with BTRY 3080 or MATH 4710 also highly recommended.	ERROR	EXCEPTION: No match found
+STSCI 5200	MATH 1110 or equivalent.	COURSE(MATH 1110)	OK
+STSCI 5220	STSCI 5120 or equivalent.	COURSE(STSCI 5120)	OK
+STSCI 5630	MATH 2940, ENGRD 2700, ORIE 3500, ORIE 3120.	COURSE(MATH 2940) AND COURSE(ENGRD 2700) AND COURSE(ORIE 3500) AND COURSE(ORIE 3120)	OK
+STSCI 5740	CS 1112 or equivalent, MATH 2220, STSCI 3200, STSCI 3080 or MATH 4710.	COURSE(CS 1112) OR COURSE(MATH 2220) OR COURSE(STSCI 3200) OR COURSE(STSCI 3080) OR COURSE(MATH 4710)	OK
+STSCI 5981	STSCI 4980.	COURSE(STSCI 4980)	OK
+STSCI 5990	multicalculus, linear algebra, and basic statistics.	COURSE(Special requirement: multicalculus) AND COURSE(Special requirement: linear algebra) AND COURSE(Special requirement: basic statistics)	OK
+SWAHL 1101	SWAHL 1100.	COURSE(SWAHL 1100)	OK
+SWED 2030	SWED 1220 or equivalent.	COURSE(SWED 1220)	OK
+SYSEN 5100	Prerequisite or corequisite: enrollment in group-based project with strong system design component approved by course instructor.	COURSE(Special requirement: enrollment in group-based project with strong system design component approved by course instructor)	OK
+SYSEN 5210	CEE 3040 or ENGRD 2700, CEE 3230 or ENMGT 5940.	COURSE(CEE 3040) OR COURSE(ENGRD 2700) OR COURSE(CEE 3230) OR COURSE(ENMGT 5940)	OK
+SYSEN 5300	ENGRD 2700 or CEE 3040, SYSEN 5100, or permission of instructor.	LPAREN COURSE(ENGRD 2700) OR COURSE(CEE 3040) OR COURSE(SYSEN 5100) RPAREN OR COURSE(Permission: permission of instructor)	OK
+SYSEN 5800	MATH 2220 and MATH 2940.	COURSE(MATH 2220) AND COURSE(MATH 2940)	OK
+TAG 2201	TAG 1122 or equivalent.	COURSE(TAG 1122)	OK
+TAG 3301	TAG 2202 or equivalent.	COURSE(TAG 2202)	OK
+TAMIL 2201	TAMIL 1121-TAMIL 1122 or equivalent.	COURSE(TAMIL 1121) AND COURSE(TAMIL 1122)	OK
+TELU 2201	TELU 1122 or placement exam.	COURSE(TELU 1122) OR COURSE(Special requirement: placement exam)	OK
+THAI 2201	placement by instructor.	COURSE(Special requirement: placement by instructor)	OK
+THAI 3301	placement by instructor.	COURSE(Special requirement: placement by instructor)	OK
+THAI 3303	placement by instructor.	COURSE(Special requirement: placement by instructor)	OK
+TIBET 2201	TIBET 1122 or equivalent.	COURSE(TIBET 1122)	OK
+TIBET 2211	TIBET 1112 or equivalent.	COURSE(TIBET 1112)	OK
+TIBET 3301	TIBET 2202  or equivalent.	COURSE(TIBET 2202)	OK
+TIBET 3311	TIBET 2212 or equivalent.	COURSE(TIBET 2212)	OK
+TURK 1332	one year (two semesters) elementary Turkish or permission of instructor.	LPAREN COURSE(Special requirement: one year) LPAREN COURSE(Special requirement: two semesters) RPAREN COURSE(Special requirement: elementary Turkish) RPAREN OR COURSE(Permission: permission of instructor)	OK
+URDU 2225	URDU 1125.	COURSE(URDU 1125)	OK
+URDU 3325	intermediate Urdu or same level of written and oral proficiency.	COURSE(Special requirement: intermediate Urdu) OR COURSE(Special requirement: same level of written) AND COURSE(Special requirement: oral proficiency)	OK
+VIEN 2000	VIEN 1104.	COURSE(VIEN 1104)	OK
+VIEN 2204	VIEN 1104, college-level general chemistry and general biology (at least one of each).	COURSE(VIEN 1104) AND COURSE(Special requirement: college-level general chemistry) AND COURSE(Special requirement: general biology) LPAREN COURSE(Special requirement: one of each) RPAREN	OK
+VIEN 2205	VIEN 1105. Prerequisite or Corequisite: VIEN 2204.	COURSE(VIEN 1105)	OK
+VIEN 2310	introductory biology and chemistry, or permission of instructor.	LPAREN COURSE(Special requirement: introductory biology) AND COURSE(Special requirement: chemistry) RPAREN OR COURSE(Permission: permission of instructor)	OK
+VIEN 3610	VIEN 1104, VIEN 2204 (or concurrent enrollment), one semester of introductory biology, and one semester of introductory chemistry.	COURSE(VIEN 1104) OR COURSE(VIEN 2204) OR COURSE(Special requirement: concurrent enrollment) RPAREN AND COURSE(Special requirement: one semester of introductory biology) AND COURSE(Special requirement: one semester of introductory chemistry)	OK
+VIEN 4310	VIEN 2204 and VIEN 2205/FDSC 2205.	COURSE(VIEN 2204) AND COURSE(VIEN 2205) OR COURSE(FDSC 2205)	OK
+VIEN 4400	at least one semester of general chemistry and one semester of organic chemistry. Recommended prerequisite: prior course work in or knowledge of viticulture and enology.	COURSE(Special requirement: one semester of general chemistry) AND COURSE(Special requirement: one semester of organic chemistry)	OK
+VIEN 4500	VIEN 2204, VIEN 2205, VIEN 2400, and BIOMI 2900, or permission of instructor.	LPAREN COURSE(VIEN 2204) AND COURSE(VIEN 2205) AND COURSE(VIEN 2400) AND COURSE(BIOMI 2900) RPAREN OR COURSE(Permission: permission of instructor)	OK
+VIEN 4510	Prerequisite or corequisite: FDSC 4500/VIEN 4500.	COURSE(FDSC 4500) OR COURSE(VIEN 4500)	OK
+VIEN 5000	VIEN 1104.	COURSE(VIEN 1104)	OK
+VIEN 5204	college level biology course, college level chemistry course and VIEN 1104.	COURSE(Special requirement: college level biology course) AND COURSE(Special requirement: college level chemistry course) AND COURSE(VIEN 1104)	OK
+VIEN 5310	introductory biology and chemistry, or permission of instructor.	LPAREN COURSE(Special requirement: introductory biology) AND COURSE(Special requirement: chemistry) RPAREN OR COURSE(Permission: permission of instructor)	OK
+VIEN 5500	VIEN 2204, VIEN 2205, VIEN 2400, and BIOMI 2900, or permission of instructor.	LPAREN COURSE(VIEN 2204) AND COURSE(VIEN 2205) AND COURSE(VIEN 2400) AND COURSE(BIOMI 2900) RPAREN OR COURSE(Permission: permission of instructor)	OK
+VIEN 5510	Prerequisite or corequisite: FDSC 5500/VIEN 5500.	COURSE(FDSC 5500) OR COURSE(VIEN 5500)	OK
+VIEN 5610	VIEN 1104 , VIEN 2204  (or concurrent enrollment), one semester of introductory biology, and one semester of introductory chemistry.	COURSE(VIEN 1104) OR COURSE(VIEN 2204) OR COURSE(Special requirement: concurrent enrollment) RPAREN AND COURSE(Special requirement: one semester of introductory biology) AND COURSE(Special requirement: one semester of introductory chemistry)	OK
+VIET 2201	VIET 1122 with a grade of B or above or equivalent as determined by instructor through placement test.	COURSE(VIET 1122) OR COURSE(Special requirement: above) OR COURSE(Special requirement: as determined by instructor through placement test)	OK
+VTBMS 3460	BIOG 1500 and BIOG 1440 or BIOG 1445 or one year of college biology, one year of chemistry and mathematics or equivalent AP credit.	COURSE(BIOG 1500) AND COURSE(BIOG 1440) OR COURSE(BIOG 1445) OR COURSE(Special requirement: one year of college biology) AND COURSE(Special requirement: one year of chemistry) AND COURSE(Special requirement: mathematics) OR COURSE(Special requirement: AP credit)	OK
+VTMED 5200	VTMED 5100.	COURSE(VTMED 5100)	OK
+VTMED 5310	VTMED 5300.	COURSE(VTMED 5300)	OK
+VTMED 5400	VTMED 5310.	COURSE(VTMED 5310)	OK
+VTMED 5510	VTMED 5500.	COURSE(VTMED 5500)	OK
+VTMED 5600	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5601	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5602	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5603	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5604	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5605	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5606	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5607	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5608	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5609	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5610	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5611	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5613	VTMED 5520.	COURSE(VTMED 5520)	OK
+VTMED 5704	VTMED 5703.	COURSE(VTMED 5703)	OK
+VTMED 5706	VTMED 5705.	COURSE(VTMED 5705)	OK
+VTPMD 2990	one year of basic biology (score of 5 on Biology Advanced Placement Examination of College Entrance Examination Board or BIOG 1000 level) or permission of instructor.	LPAREN COURSE(Special requirement: one year of basic biology) LPAREN COURSE(Special requirement: score of 5 on Biology Advanced Placement Examination of College Entrance Examination Board) OR COURSE(BIOG 1000) COURSE(Special requirement: level) RPAREN RPAREN OR COURSE(Permission: permission of instructor)	INVALID: Consecutive COURSE tokens at position 5 (missing operator)
+WOLOF 2118	WOLOF 1118 or permission of instructor.	LPAREN COURSE(WOLOF 1118) RPAREN OR COURSE(Permission: permission of instructor)	OK
+WOLOF 3113	WOLOF 2119 or equivalent.	COURSE(WOLOF 2119)	OK
+YORUB 2110	YORUB 1109.	COURSE(YORUB 1109)	OK
+ZULU 2116	ZULU 1116 or permission of instructor.	LPAREN COURSE(ZULU 1116) RPAREN OR COURSE(Permission: permission of instructor)	OK
+ZULU 3113	ZULU 2117 or permission of instructor.	LPAREN COURSE(ZULU 2117) RPAREN OR COURSE(Permission: permission of instructor)	OK

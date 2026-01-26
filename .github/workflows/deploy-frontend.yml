@@ -87,10 +87,6 @@ jobs:
         working-directory: frontend
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
 
-      - name: Export with Next.js (static)
-        working-directory: frontend
-        run: ${{ steps.detect-package-manager.outputs.runner }} next export
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -48,6 +48,13 @@ jobs:
             exit 1
           fi
 
+      - name: Setup pnpm (when used)
+        if: steps.detect-package-manager.outputs.manager == 'pnpm'
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+          run_install: false
+      
       - name: Setup Node
         uses: actions/setup-node@v4
         with:

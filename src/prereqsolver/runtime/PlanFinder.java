@@ -83,7 +83,9 @@ public class PlanFinder {
 
         List<Plan> result = new ArrayList<>();
         for (Plan plan : prereqPlans) {
-            result.add(plan.append(targetCourse));
+            Plan withTarget = plan.append(targetCourse);
+            Plan sorted = withTarget.sortTopologically(data);
+            result.add(sorted);
         }
 
         Collections.sort(result);
@@ -197,7 +199,7 @@ public class PlanFinder {
                     Plan merged;
                     if (leftPlan.isEmpty() || rightPlan.isEmpty()) {
                         merged = Plan.merge(leftPlan, rightPlan);
-                    } else if (leftPlan.highestCourse().compareTo(rightPlan.highestCourse()) > 0) {
+                    } else if (compareByNumber(leftPlan.highestCourse(), rightPlan.highestCourse()) > 0) {
                         merged = Plan.merge(rightPlan, leftPlan);
                     } else {
                         merged = Plan.merge(leftPlan, rightPlan);
@@ -211,6 +213,33 @@ public class PlanFinder {
         Set<Plan> result = new HashSet<>();
         result.add(Plan.empty());
         return result;
+    }
+
+    /**
+     * Compare two courses by their course number.
+     * Falls back to alphabetical comparison if either is not a standard course.
+     */
+    private int compareByNumber(String course1, String course2) {
+        int num1 = extractCourseNumber(course1);
+        int num2 = extractCourseNumber(course2);
+
+        if (num1 != -1 && num2 != -1) {
+            return Integer.compare(num1, num2);
+        }
+        // Fallback to alphabetical if not a standard course
+        return course1.compareTo(course2);
+    }
+
+    /**
+     * Extract the course number from a course code like "CS 2110" or "MATH 1920".
+     * Returns -1 if no number found.
+     */
+    private int extractCourseNumber(String course) {
+        java.util.regex.Matcher m = java.util.regex.Pattern.compile("\\d+").matcher(course);
+        if (m.find()) {
+            return Integer.parseInt(m.group());
+        }
+        return -1;
     }
 
     /**
@@ -258,7 +287,7 @@ public class PlanFinder {
             Set<String> taken = Set.of();
             PlanFinder finder = new PlanFinder(data, taken);
 
-            String[] testCourses = {"CS 4701", "CS 3780", "MATH 4710"};
+            String[] testCourses = {"CS 4701", "CS 3780", "CS 4820"};
 
             for (String target : testCourses) {
                 System.out.println("\n========================================");

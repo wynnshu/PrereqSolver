@@ -1,22 +1,21 @@
 # Course Prerequisite Path Planner
 
-A web application that generates all possible course plans to reach a target class, given a student's completed coursework. Built for Cornell University's course catalog.
+A web application that takes a student's compeleted coursework and generates all possible paths to a target course, accounting for prerequisites and sorted by length. Built for Cornell University's FA25 course catalog.
 
 ## Overview
 
-Students often struggle to figure out which courses they need to take before enrolling in an upper-level class. This tool solves that problem by:
+Students interested in a particular high-level course may wonder what background knowledge and prerequisite courses are required. This tool solves that problem by:
 
-1. Modeling the entire course catalog as a prerequisite graph
-2. Parsing complex prerequisite requirements (AND/OR combinations, equivalencies)
+1. Parsing complex prerequisite requirements (AND/OR combinations, equivalencies)
+2. Pruning redundant paths based on already-completed courses
 3. Generating all valid course sequences to reach a target course
-4. Pruning redundant paths based on already-completed courses
 
 ## Features
 
 - **Path Generation**: Finds all possible routes to a target course
 - **Equivalency Handling**: Recognizes that CS 1110 and CS 1112 satisfy the same requirement
 - **Smart Pruning**: If you've taken CS 2110, it knows you've satisfied CS 1110/1112 transitively
-- **OR Branch Optimization**: Prefers real courses over "permission of instructor" alternatives
+- **OR Branch Optimization**: Prefers real courses over "permission of instructor" or "special requirement" alternatives
 - **Topological Ordering**: Uses DFS post-order traversal to output courses in the correct order, with SPECIAL/PERMISSION requirements placed immediately before the course that needs them
 
 ## Example
@@ -92,7 +91,7 @@ Are tokenized into:
 LPAREN COURSE(CS 2110) OR COURSE(CS 2112) RPAREN AND LPAREN COURSE(MATH 1920) OR COURSE(MATH 2220) RPAREN
 ```
 
-Then parsed into an AST:
+Then parsed into an Abstract Syntax Tree:
 ```
         AND
        /   \
@@ -141,29 +140,6 @@ expandTakenCourses();
 
 Over 1,000 courses with prerequisites, ~300 manually corrected for complex edge cases.
 
-## Usage
-
-### Running the Backend
-
-```bash
-cd prereqsolver
-javac -d out prereqsolver/runtime/*.java prereqsolver/pipeline/*.java
-java -cp out prereqsolver.runtime.PlanFinder tokenized_prereqs_corrected.tsv
-```
-
-### API
-
-```java
-PrereqData data = new PrereqData("tokenized_prereqs_corrected.tsv");
-Set<String> taken = Set.of("CS 1110", "MATH 1110");
-PlanFinder finder = new PlanFinder(data, taken);
-
-List<Plan> plans = finder.findPlans("CS 4820");
-for (Plan plan : plans) {
-    System.out.println(plan);  // CS 2110 → CS 2800 → CS 3110 → CS 4820
-}
-```
-
 ## Future Work
 
 - [x] ~~Proper topological sort on merged plans~~
@@ -175,7 +151,7 @@ for (Plan plan : plans) {
 ## Authors
 
 - **Wynn Shu** — Backend algorithm, data pipeline (Cornell '28)
-- **Jerry [Last Name]** — Frontend, deployment (UIUC '28)
+- **Jerry Sun** — Frontend, deployment (UIUC '28)
 
 ## License
 

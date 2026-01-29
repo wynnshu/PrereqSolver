@@ -150,7 +150,7 @@ Over 1,000 courses with prerequisites, ~300 manually corrected for complex edge 
 
 ## Authors
 
-- **Wynn Shu** — Backend algorithm, data pipeline (Cornell University)
+- **Wynn Shu** — Backend algorithm, data pipeline (Cornell)
 - **Jerry Sun** — Frontend, deployment (UIUC)
 
 ## License
